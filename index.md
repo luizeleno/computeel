@@ -15,7 +15,7 @@ mathjax: true
 
 Have a look at the list of {{site.title}} [publications](/papers).
 
-Check out also our [news](/news) to follow the work developed at **{{site.title}}**, and our [blog posts]({{site.basurl}}/blog) for miscellaneous topics.
+Check out also our [news](/news) to follow the work developed at **{{site.title}}**, and our [blog posts]({{site.baseurl}}/blog) for miscellaneous topics.
 
 **Contact:** use the [contact page] or send an e-mail directly to [{{site.email}}](mailto:{{site.email}}).
 
@@ -34,7 +34,7 @@ margin-right: auto;
 [Demar]: http://www.demar.eel.usp.br
 [EEL]: http://site.eel.usp.br
 [USP]: https://www5.usp.br
-[{{site.title}} Team]: {{site.basurl}}/team
-[contact page]: {{site.basurl}}/contact
+[{{site.title}} Team]: {{site.baseurl}}/team
+[contact page]: {{site.baseurl}}/contact
 [Jekyll]: https://jekyllrb.com
 [Github pages]: https://pages.github.com/
