@@ -26,7 +26,7 @@
           </li>
           {% else %}
             <li>
-              <a href="{{ item.url }}">{{ item.title }}</a>
+              <a href="{{site.baseurl}}{{ item.url }}">{{ item.title }}</a>
             </li>
           {% endif %}
       {% endfor %}
@@ -37,10 +37,10 @@
     <h1>Breaking news</h1>
     <ul>
       {% for post in site.categories.news limit:5 %}
-      <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title | liquify }}</a></li>
+      <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title | liquify }}</a></li>
       {% endfor %}
     </ul>
-    <a href="{{ site.baseurl}}/news">More...</a>
+    <a href="{{site.baseurl}}/news">More...</a>
   </div>
 
   <div class="sidebar well">
@@ -50,7 +50,7 @@
         <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title | liquify }}</a></li>
       {% endfor %}
     </ul>
-    <a href="{{ site.baseurl}}/blog">More...</a>
+    <a href="{{site.baseurl}}/blog">More...</a>
   </div>
 
 </div>
