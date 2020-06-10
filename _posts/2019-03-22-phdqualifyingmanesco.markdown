@@ -10,6 +10,6 @@ A *qualifying exam* is a typical step in PhD programs in Brazil, in which the ca
 
 Best of luck to Antonio and the people involved!
 
-[Antonio Manesco]: /team/ManescoAntonio.html
-[Prof. Gabrielle W. Martins]: /team/WeberGabrielle.html
+[Antonio Manesco]: {{site.baseurl}}/team/ManescoAntonio.html
+[Prof. Gabrielle W. Martins]: {{site.baseurl}}/team/WeberGabrielle.html
 [Prof. Durval Rodrigues Jr.]: http://lattes.cnpq.br/3165974522899237

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="https://luizeleno.github.io/computeel/feed.xml" rel="self" type="application/atom+xml" /><link href="https://luizeleno.github.io/computeel/" rel="alternate" type="text/html" /><updated>2020-06-10T09:58:18-03:00</updated><id>https://luizeleno.github.io/computeel/feed.xml</id><title type="html">ComputEEL/MatSci</title><subtitle># ComputEEL/MatSci Computational Materials Science Research Group at the Escola de Engenharia de Lorena, Universidade de São Paulo (EEL-USP). Theoretical methods: Density Functional Theory, (DFT); CALPHAD (Calculation of Phases Diagrams). Scope: alloys and intermetallic compounds.</subtitle><entry><title type="html">Workshop Total Energy and Force Methods 2020</title><link href="https://luizeleno.github.io/computeel/news/2020/01/13/MiniTotal2020.html" rel="alternate" type="text/html" title="Workshop Total Energy and Force Methods 2020" /><published>2020-01-13T00:00:00-03:00</published><updated>2020-01-13T00:00:00-03:00</updated><id>https://luizeleno.github.io/computeel/news/2020/01/13/MiniTotal2020</id><content type="html" xml:base="https://luizeleno.github.io/computeel/news/2020/01/13/MiniTotal2020.html">&lt;div class=&quot;col-md-5 float-left mr-2&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="https://luizeleno.github.io/computeel/feed.xml" rel="self" type="application/atom+xml" /><link href="https://luizeleno.github.io/computeel/" rel="alternate" type="text/html" /><updated>2020-06-10T10:30:35-03:00</updated><id>https://luizeleno.github.io/computeel/feed.xml</id><title type="html">ComputEEL/MatSci</title><subtitle># ComputEEL/MatSci Computational Materials Science Research Group at the Escola de Engenharia de Lorena, Universidade de São Paulo (EEL-USP). Theoretical methods: Density Functional Theory, (DFT); CALPHAD (Calculation of Phases Diagrams). Scope: alloys and intermetallic compounds.</subtitle><entry><title type="html">Workshop Total Energy and Force Methods 2020</title><link href="https://luizeleno.github.io/computeel/news/2020/01/13/MiniTotal2020.html" rel="alternate" type="text/html" title="Workshop Total Energy and Force Methods 2020" /><published>2020-01-13T00:00:00-03:00</published><updated>2020-01-13T00:00:00-03:00</updated><id>https://luizeleno.github.io/computeel/news/2020/01/13/MiniTotal2020</id><content type="html" xml:base="https://luizeleno.github.io/computeel/news/2020/01/13/MiniTotal2020.html">&lt;div class=&quot;col-md-5 float-left mr-2&quot;&gt;
 &lt;div class=&quot;text-center&quot;&gt;
 &lt;figure class=&quot;figure&quot;&gt;
   &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#mini&quot;&gt;
-    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/conferences/mini2020.jpg&quot; /&gt;
+    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel//assets/images/conferences/mini2020.jpg&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;figure-caption&quot;&gt;
     Total Energy and Force Methods 2020
@@ -20,7 +20,7 @@
       &lt;/div&gt;
       &lt;div class=&quot;modal-body&quot;&gt;
         &lt;a href=&quot;http://totalenergy2020.dipc.org/&quot; alt=&quot;Total Energy and Force Methods 2020&quot; title=&quot;Total Energy and Force Methods 2020&quot; target=&quot;_blank&quot;&gt;
-        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/assets/images/conferences/mini2020.jpg&quot; /&gt;
+        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/computeel//assets/images/conferences/mini2020.jpg&quot; /&gt;
         &lt;/a&gt;
       &lt;/div&gt;
       &lt;div class=&quot;modal-footer&quot;&gt;
@@ -47,7 +47,7 @@
 &lt;div class=&quot;text-center&quot;&gt;
 &lt;figure class=&quot;figure&quot;&gt;
   &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#group&quot;&gt;
-    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/conferences/mini2020-groupphoto.jpg&quot; /&gt;
+    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel//assets/images/conferences/mini2020-groupphoto.jpg&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;figure-caption&quot;&gt;
     Group photo - find #Elenão!
@@ -64,8 +64,8 @@
         &lt;/button&gt;
       &lt;/div&gt;
       &lt;div class=&quot;modal-body&quot;&gt;
-        &lt;a href=&quot;/assets/images/conferences/mini2020-groupphoto.jpg&quot; alt=&quot;Group photo - find #Elenão!&quot; title=&quot;Group photo - find #Elenão!&quot; target=&quot;_blank&quot;&gt;
-        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/assets/images/conferences/mini2020-groupphoto.jpg&quot; /&gt;
+        &lt;a href=&quot;/computeel//assets/images/conferences/mini2020-groupphoto.jpg&quot; alt=&quot;Group photo - find #Elenão!&quot; title=&quot;Group photo - find #Elenão!&quot; target=&quot;_blank&quot;&gt;
+        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/computeel//assets/images/conferences/mini2020-groupphoto.jpg&quot; /&gt;
         &lt;/a&gt;
       &lt;/div&gt;
       &lt;div class=&quot;modal-footer&quot;&gt;
@@ -82,7 +82,7 @@
 &lt;div class=&quot;text-center&quot;&gt;
 &lt;figure class=&quot;figure&quot;&gt;
   &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#mozao&quot;&gt;
-    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/people/pedro.jpg&quot; /&gt;
+    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel//assets/images/people/pedro.jpg&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;figure-caption&quot;&gt;
     Mozão
@@ -99,8 +99,8 @@
         &lt;/button&gt;
       &lt;/div&gt;
       &lt;div class=&quot;modal-body&quot;&gt;
-        &lt;a href=&quot;&quot; alt=&quot;Mozão&quot; title=&quot;Mozão&quot; target=&quot;_blank&quot;&gt;
-        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/assets/images/people/pedro.jpg&quot; /&gt;
+        &lt;a href=&quot;/computeel//assets/images/people/pedro.jpg&quot; alt=&quot;Mozão&quot; title=&quot;Mozão&quot; target=&quot;_blank&quot;&gt;
+        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/computeel//assets/images/people/pedro.jpg&quot; /&gt;
         &lt;/a&gt;
       &lt;/div&gt;
       &lt;div class=&quot;modal-footer&quot;&gt;
@@ -115,7 +115,7 @@
 
 &lt;/div&gt;
 
-&lt;p&gt;Today the qualifying exam of our group member &lt;strong&gt;&lt;a href=&quot;/team/PiresPedro.html&quot;&gt;Pedro P. Ferreira&lt;/a&gt;&lt;/strong&gt;, will take place in our department. The title of the work is &lt;strong&gt;“Ab initio investigation of the electronic and phononic structure of superconducting TMDs”&lt;/strong&gt;, supervised by &lt;strong&gt;&lt;a href=&quot;/team/01-luizeleno.html&quot;&gt;Prof. Luiz T. F. Eleno&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Today the qualifying exam of our group member &lt;strong&gt;&lt;a href=&quot;/computeel/team/PiresPedro.html&quot;&gt;Pedro P. Ferreira&lt;/a&gt;&lt;/strong&gt;, will take place in our department. The title of the work is &lt;strong&gt;“Ab initio investigation of the electronic and phononic structure of superconducting TMDs”&lt;/strong&gt;, supervised by &lt;strong&gt;&lt;a href=&quot;/computeel/team/01-luizeleno.html&quot;&gt;Prof. Luiz T. F. Eleno&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;A &lt;em&gt;qualifying exam&lt;/em&gt; is a typical step in MSci. and Ph.D. programs in Brazil, in which the candidate presents the ongoing work to a committee in order to verify whether the bibliographical review and the preliminary results obtained are compatible with the schedule originally planned, or else some steering proposals will have to be adopted.&lt;/p&gt;
 
@@ -123,7 +123,7 @@
 &lt;div class=&quot;text-center&quot;&gt;
 &lt;figure class=&quot;figure&quot;&gt;
   &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#dorini&quot;&gt;
-    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/defenses/dorini.jpeg&quot; /&gt;
+    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel//assets/images/defenses/dorini.jpeg&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;figure-caption&quot;&gt;
     From left to right: Prof. Cláudio G. Schön, Prof. Luiz T. F. Eleno (supervisor), MSci. Thiago T. Dorini, Prof. Carlos A. Nunes, and Prof. Flávio Ferreira
@@ -140,8 +140,8 @@
         &lt;/button&gt;
       &lt;/div&gt;
       &lt;div class=&quot;modal-body&quot;&gt;
-        &lt;a href=&quot;&quot; alt=&quot;From left to right: Prof. Cláudio G. Schön, Prof. Luiz T. F. Eleno (supervisor), MSci. Thiago T. Dorini, Prof. Carlos A. Nunes, and Prof. Flávio Ferreira&quot; title=&quot;From left to right: Prof. Cláudio G. Schön, Prof. Luiz T. F. Eleno (supervisor), MSci. Thiago T. Dorini, Prof. Carlos A. Nunes, and Prof. Flávio Ferreira&quot; target=&quot;_blank&quot;&gt;
-        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/assets/images/defenses/dorini.jpeg&quot; /&gt;
+        &lt;a href=&quot;/computeel//assets/images/defenses/dorini.jpeg&quot; alt=&quot;From left to right: Prof. Cláudio G. Schön, Prof. Luiz T. F. Eleno (supervisor), MSci. Thiago T. Dorini, Prof. Carlos A. Nunes, and Prof. Flávio Ferreira&quot; title=&quot;From left to right: Prof. Cláudio G. Schön, Prof. Luiz T. F. Eleno (supervisor), MSci. Thiago T. Dorini, Prof. Carlos A. Nunes, and Prof. Flávio Ferreira&quot; target=&quot;_blank&quot;&gt;
+        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/computeel//assets/images/defenses/dorini.jpeg&quot; /&gt;
         &lt;/a&gt;
       &lt;/div&gt;
       &lt;div class=&quot;modal-footer&quot;&gt;
@@ -166,7 +166,7 @@
 &lt;div class=&quot;text-center&quot;&gt;
 &lt;figure class=&quot;figure&quot;&gt;
   &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#conf&quot;&gt;
-    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/conferences/workchopp2019-poster.jpeg&quot; /&gt;
+    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel//assets/images/conferences/workchopp2019-poster.jpeg&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;figure-caption&quot;&gt;
     
@@ -184,7 +184,7 @@
       &lt;/div&gt;
       &lt;div class=&quot;modal-body&quot;&gt;
         &lt;a href=&quot;http://www.demar.eel.usp.br/en/fronteiras/&quot; alt=&quot;&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/assets/images/conferences/workchopp2019-poster.jpeg&quot; /&gt;
+        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/computeel//assets/images/conferences/workchopp2019-poster.jpeg&quot; /&gt;
         &lt;/a&gt;
       &lt;/div&gt;
       &lt;div class=&quot;modal-footer&quot;&gt;
@@ -199,7 +199,7 @@
 
 &lt;/div&gt;
 
-&lt;p&gt;Keeping the tradition started in the first edition of the event (read more about it on page 7 of the &lt;a href=&quot;https://site.eel.usp.br/sites/files/eel/publico/boletim/Boletim_EEL_USP_29.pdf&quot;&gt;29° EEL Newsletter&lt;/a&gt;, in portuguese), the workshop &lt;strong&gt;2nd Meeting - Technological Frontiers in Engineering&lt;/strong&gt; will be held at our department on &lt;strong&gt;October 09 and 10, 2019,&lt;/strong&gt; under the coordination of &lt;a href=&quot;/team/01-luizeleno.html&quot;&gt;Luiz T. F. Eleno&lt;/a&gt;. The event will be held again on &lt;a href=&quot;http://www.demar.eel.usp.br/en/&quot;&gt;DEMAR&lt;/a&gt; premises and support from &lt;a href=&quot;http://www.fapesp.br/en/&quot;&gt;FAPESP&lt;/a&gt;. The goal is to bring together researchers from various fields from the basic sciences to their technological applications and provide a forum for discussion and integration.&lt;/p&gt;
+&lt;p&gt;Keeping the tradition started in the first edition of the event (read more about it on page 7 of the &lt;a href=&quot;https://site.eel.usp.br/sites/files/eel/publico/boletim/Boletim_EEL_USP_29.pdf&quot;&gt;29° EEL Newsletter&lt;/a&gt;, in portuguese), the workshop &lt;strong&gt;2nd Meeting - Technological Frontiers in Engineering&lt;/strong&gt; will be held at our department on &lt;strong&gt;October 09 and 10, 2019,&lt;/strong&gt; under the coordination of &lt;a href=&quot;/computeel/team/01-luizeleno.html&quot;&gt;Luiz T. F. Eleno&lt;/a&gt;. The event will be held again on &lt;a href=&quot;http://www.demar.eel.usp.br/en/&quot;&gt;DEMAR&lt;/a&gt; premises and support from &lt;a href=&quot;http://www.fapesp.br/en/&quot;&gt;FAPESP&lt;/a&gt;. The goal is to bring together researchers from various fields from the basic sciences to their technological applications and provide a forum for discussion and integration.&lt;/p&gt;
 
 &lt;p&gt;Visit the &lt;a href=&quot;http://www.demar.eel.usp.br/en/fronteiras/&quot; target=&quot;_blank&quot;&gt;workshop’s official page&lt;/a&gt; for more information and to subscribe!&lt;/p&gt;
 
@@ -211,13 +211,13 @@
   &lt;li&gt;&lt;strong&gt;Roberto Gomes de Aguiar Veiga&lt;/strong&gt; (UFABC): &lt;em&gt;Atomic computational simulations applied to the study of plasticity in metals and their alloys&lt;/em&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Mauricio da Silva Baptista&lt;/strong&gt; (IQ-USP): &lt;em&gt;Spatial precision in targeting intracellular organelles by photo-sensitized oxidations&lt;/em&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Hernan Chaimovich&lt;/strong&gt; (IQ-USP): &lt;em&gt;Scientific Policy: Preliminary reflections&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Luiz T. F. Eleno</name></author><category term="talks" /><category term="workshops" /><summary type="html">&amp;times; OK</summary></entry><entry><title type="html">EOSBF2019</title><link href="https://luizeleno.github.io/computeel/news/2019/05/28/eosbf2019.html" rel="alternate" type="text/html" title="EOSBF2019" /><published>2019-05-28T00:00:00-03:00</published><updated>2019-05-28T00:00:00-03:00</updated><id>https://luizeleno.github.io/computeel/news/2019/05/28/eosbf2019</id><content type="html" xml:base="https://luizeleno.github.io/computeel/news/2019/05/28/eosbf2019.html">&lt;p&gt;&lt;img class=&quot;col-md-9 mx-auto&quot; src=&quot;/assets/images/conferences/eosbf-2019.jpg&quot; /&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Luiz T. F. Eleno</name></author><category term="talks" /><category term="workshops" /><summary type="html">&amp;times; OK</summary></entry><entry><title type="html">EOSBF2019</title><link href="https://luizeleno.github.io/computeel/news/2019/05/28/eosbf2019.html" rel="alternate" type="text/html" title="EOSBF2019" /><published>2019-05-28T00:00:00-03:00</published><updated>2019-05-28T00:00:00-03:00</updated><id>https://luizeleno.github.io/computeel/news/2019/05/28/eosbf2019</id><content type="html" xml:base="https://luizeleno.github.io/computeel/news/2019/05/28/eosbf2019.html">&lt;p&gt;&lt;img class=&quot;col-md-9 mx-auto&quot; src=&quot;/computeel/assets/images/conferences/eosbf-2019.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Two team members of ComputEEL/MatSci, &lt;a href=&quot;/team/01-luizeleno.html&quot;&gt;Luiz T. F. Eleno&lt;/a&gt; and &lt;a href=&quot;/team/YamamotoIgor.html&quot;&gt;Igor Hideki&lt;/a&gt;,  are taking part in the &lt;em&gt;Autumn Meeting of the Brazilian Society of Physics&lt;/em&gt; (&lt;a href=&quot;http://www.sbfisica.org.br/~eosbf/2019/index.php/en/&quot;&gt;EOSBF2019&lt;/a&gt;) in Aracaju, capital of the state of Sergipe, in northeastern Brazil.&lt;/p&gt;
+&lt;p&gt;Two team members of ComputEEL/MatSci, &lt;a href=&quot;/computeel/team/01-luizeleno.html&quot;&gt;Luiz T. F. Eleno&lt;/a&gt; and &lt;a href=&quot;/computeel/team/YamamotoIgor.html&quot;&gt;Igor Hideki&lt;/a&gt;,  are taking part in the &lt;em&gt;Autumn Meeting of the Brazilian Society of Physics&lt;/em&gt; (&lt;a href=&quot;http://www.sbfisica.org.br/~eosbf/2019/index.php/en/&quot;&gt;EOSBF2019&lt;/a&gt;) in Aracaju, capital of the state of Sergipe, in northeastern Brazil.&lt;/p&gt;
 
 &lt;p&gt;Aracaju is a very hot town, full of beaches, coconut trees, crabs, shrimp and lots of natural beauties that makes it a splendid spot to hold a Physics conference!&lt;/p&gt;
 
-&lt;p&gt;Therefore, we came here to show our results on brand new work performed by our younger team member, &lt;a href=&quot;/team/YamamotoIgor.html&quot;&gt;Igor Hideki&lt;/a&gt;, and also a proposal for a new python class to perform elasticity theory calculations — more on that in the future.&lt;/p&gt;</content><author><name>Luiz T. F. Eleno</name></author><category term="talks" /><category term="workshops" /><summary type="html"></summary></entry><entry><title type="html">A. Manesco’s PhD qualifying exam</title><link href="https://luizeleno.github.io/computeel/news/2019/03/22/phdqualifyingmanesco.html" rel="alternate" type="text/html" title="A. Manesco's PhD qualifying exam" /><published>2019-03-22T00:00:00-03:00</published><updated>2019-03-22T00:00:00-03:00</updated><id>https://luizeleno.github.io/computeel/news/2019/03/22/phdqualifyingmanesco</id><content type="html" xml:base="https://luizeleno.github.io/computeel/news/2019/03/22/phdqualifyingmanesco.html">&lt;p&gt;Today the qualifying exam of our theoretical collaborator, &lt;strong&gt;&lt;a href=&quot;/team/ManescoAntonio.html&quot;&gt;Antonio Manesco&lt;/a&gt;&lt;/strong&gt;, will take place in our department. The title of the work is &lt;strong&gt;“Quasi-unidimensional topological superconductivity in graphene”&lt;/strong&gt;, supervised by &lt;strong&gt;&lt;a href=&quot;http://lattes.cnpq.br/3165974522899237&quot;&gt;Prof. Durval Rodrigues Jr.&lt;/a&gt;&lt;/strong&gt; and co-supervised by &lt;strong&gt;&lt;a href=&quot;/team/WeberGabrielle.html&quot;&gt;Prof. Gabrielle W. Martins&lt;/a&gt;&lt;/strong&gt;, also our collaborator.&lt;/p&gt;
+&lt;p&gt;Therefore, we came here to show our results on brand new work performed by our younger team member, &lt;a href=&quot;/computeel/team/YamamotoIgor.html&quot;&gt;Igor Hideki&lt;/a&gt;, and also a proposal for a new python class to perform elasticity theory calculations — more on that in the future.&lt;/p&gt;</content><author><name>Luiz T. F. Eleno</name></author><category term="talks" /><category term="workshops" /><summary type="html"></summary></entry><entry><title type="html">A. Manesco’s PhD qualifying exam</title><link href="https://luizeleno.github.io/computeel/news/2019/03/22/phdqualifyingmanesco.html" rel="alternate" type="text/html" title="A. Manesco's PhD qualifying exam" /><published>2019-03-22T00:00:00-03:00</published><updated>2019-03-22T00:00:00-03:00</updated><id>https://luizeleno.github.io/computeel/news/2019/03/22/phdqualifyingmanesco</id><content type="html" xml:base="https://luizeleno.github.io/computeel/news/2019/03/22/phdqualifyingmanesco.html">&lt;p&gt;Today the qualifying exam of our theoretical collaborator, &lt;strong&gt;&lt;a href=&quot;/computeel/team/ManescoAntonio.html&quot;&gt;Antonio Manesco&lt;/a&gt;&lt;/strong&gt;, will take place in our department. The title of the work is &lt;strong&gt;“Quasi-unidimensional topological superconductivity in graphene”&lt;/strong&gt;, supervised by &lt;strong&gt;&lt;a href=&quot;http://lattes.cnpq.br/3165974522899237&quot;&gt;Prof. Durval Rodrigues Jr.&lt;/a&gt;&lt;/strong&gt; and co-supervised by &lt;strong&gt;&lt;a href=&quot;/computeel/team/WeberGabrielle.html&quot;&gt;Prof. Gabrielle W. Martins&lt;/a&gt;&lt;/strong&gt;, also our collaborator.&lt;/p&gt;
 
 &lt;p&gt;A &lt;em&gt;qualifying exam&lt;/em&gt; is a typical step in PhD programs in Brazil, in which the candidate presents the ongoing work to a committee in order to verify whether the bibliographical review and the preliminary results obtained are compatible with the schedule originally planned, or else some steering proposals will have to be adopted.&lt;/p&gt;
 
@@ -235,7 +235,7 @@ margin-right: auto;
 &lt;div class=&quot;text-center&quot;&gt;
 &lt;figure class=&quot;figure&quot;&gt;
   &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#group-logo&quot;&gt;
-    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/logos/logo-v1.jpeg&quot; /&gt;
+    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel//assets/images/logos/logo-v1.jpeg&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;figure-caption&quot;&gt;
     ComputEEL/MatSci logo
@@ -252,8 +252,8 @@ margin-right: auto;
         &lt;/button&gt;
       &lt;/div&gt;
       &lt;div class=&quot;modal-body&quot;&gt;
-        &lt;a href=&quot;/assets/images/logos/logo-v1.jpeg&quot; alt=&quot;ComputEEL/MatSci logo&quot; title=&quot;ComputEEL/MatSci logo&quot; target=&quot;_blank&quot;&gt;
-        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/assets/images/logos/logo-v1.jpeg&quot; /&gt;
+        &lt;a href=&quot;/computeel/assets/images/logos/logo-v1.jpeg&quot; alt=&quot;ComputEEL/MatSci logo&quot; title=&quot;ComputEEL/MatSci logo&quot; target=&quot;_blank&quot;&gt;
+        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/computeel//assets/images/logos/logo-v1.jpeg&quot; /&gt;
         &lt;/a&gt;
       &lt;/div&gt;
       &lt;div class=&quot;modal-footer&quot;&gt;
@@ -266,19 +266,19 @@ margin-right: auto;
 &lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;</content><author><name>Luiz T. F. Eleno</name></author><summary type="html">The ComputEEL/MatSci logo was designed by a talented Physics Engineering student, Mateus Vallim. He did it as a favor to us, just as he does most of the artwork for university-related projects around here. Thanks for the great job!</summary></entry><entry><title type="html">New group photo</title><link href="https://luizeleno.github.io/computeel/news/2019/02/28/Group-Photo.html" rel="alternate" type="text/html" title="New group photo" /><published>2019-02-28T00:00:00-03:00</published><updated>2019-02-28T00:00:00-03:00</updated><id>https://luizeleno.github.io/computeel/news/2019/02/28/Group-Photo</id><content type="html" xml:base="https://luizeleno.github.io/computeel/news/2019/02/28/Group-Photo.html">&lt;p&gt;&lt;a href=&quot;/assets/images/people/grupo-large.jpg&quot;&gt;
-&lt;img src=&quot;/assets/images/people/grupo-small.jpg&quot; class=&quot;float-right m-3 rounded&quot; width=&quot;40%&quot; title=&quot;ComputEEL/MatSci team&quot; alt=&quot;ComputEEL/MatSci team&quot; /&gt;
+&lt;/div&gt;</content><author><name>Luiz T. F. Eleno</name></author><summary type="html">The ComputEEL/MatSci logo was designed by a talented Physics Engineering student, Mateus Vallim. He did it as a favor to us, just as he does most of the artwork for university-related projects around here. Thanks for the great job!</summary></entry><entry><title type="html">New group photo</title><link href="https://luizeleno.github.io/computeel/news/2019/02/28/Group-Photo.html" rel="alternate" type="text/html" title="New group photo" /><published>2019-02-28T00:00:00-03:00</published><updated>2019-02-28T00:00:00-03:00</updated><id>https://luizeleno.github.io/computeel/news/2019/02/28/Group-Photo</id><content type="html" xml:base="https://luizeleno.github.io/computeel/news/2019/02/28/Group-Photo.html">&lt;p&gt;&lt;a href=&quot;/computeel/assets/images/people/grupo-large.jpg&quot;&gt;
+&lt;img src=&quot;/computeel/assets/images/people/grupo-small.jpg&quot; class=&quot;float-right m-3 rounded&quot; width=&quot;40%&quot; title=&quot;ComputEEL/MatSci team&quot; alt=&quot;ComputEEL/MatSci team&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Today we managed to gather the whole &lt;strong&gt;ComputEEL/MatSci&lt;/strong&gt;  team (not such a difficult task at all!) to a brand new photo just by the entrance of our department. Click on the image to see an enlarged version of us :smile: !&lt;/p&gt;
 
-&lt;p&gt;Find more information about each &lt;strong&gt;ComputEEL/MatSci&lt;/strong&gt; member and our collaborators at the &lt;a href=&quot;/team&quot;&gt;team&lt;/a&gt; profile pages.&lt;/p&gt;
+&lt;p&gt;Find more information about each &lt;strong&gt;ComputEEL/MatSci&lt;/strong&gt; member and our collaborators at the &lt;a href=&quot;/computeel/team&quot;&gt;team&lt;/a&gt; profile pages.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/assets/images/people/group-joke.jpeg&quot;&gt;:egg:&lt;/a&gt;&lt;/p&gt;</content><author><name>Luiz T. F. Eleno</name></author><category term="photos" /><summary type="html"></summary></entry><entry><title type="html">News from WorkNano 2019</title><link href="https://luizeleno.github.io/computeel/news/2019/02/23/worknano.html" rel="alternate" type="text/html" title="News from WorkNano 2019" /><published>2019-02-23T00:00:00-03:00</published><updated>2019-02-23T00:00:00-03:00</updated><id>https://luizeleno.github.io/computeel/news/2019/02/23/worknano</id><content type="html" xml:base="https://luizeleno.github.io/computeel/news/2019/02/23/worknano.html">&lt;div class=&quot;float-right mx-3&quot; style=&quot;width:35%&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;/computeel/assets/images/people/group-joke.jpeg&quot;&gt;:egg:&lt;/a&gt;&lt;/p&gt;</content><author><name>Luiz T. F. Eleno</name></author><category term="photos" /><summary type="html"></summary></entry><entry><title type="html">News from WorkNano 2019</title><link href="https://luizeleno.github.io/computeel/news/2019/02/23/worknano.html" rel="alternate" type="text/html" title="News from WorkNano 2019" /><published>2019-02-23T00:00:00-03:00</published><updated>2019-02-23T00:00:00-03:00</updated><id>https://luizeleno.github.io/computeel/news/2019/02/23/worknano</id><content type="html" xml:base="https://luizeleno.github.io/computeel/news/2019/02/23/worknano.html">&lt;div class=&quot;float-right mx-3&quot; style=&quot;width:35%&quot;&gt;
 &lt;div class=&quot;text-center&quot;&gt;
 &lt;figure class=&quot;figure&quot;&gt;
   &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#wn19&quot;&gt;
-    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/conferences/worknano2019-eleno.jpeg&quot; /&gt;
+    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel//assets/images/conferences/worknano2019-eleno.jpeg&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;figure-caption&quot;&gt;
     Having a go at the mic
@@ -295,8 +295,8 @@ margin-right: auto;
         &lt;/button&gt;
       &lt;/div&gt;
       &lt;div class=&quot;modal-body&quot;&gt;
-        &lt;a href=&quot;/assets/images/conferences/worknano2019-eleno.jpeg&quot; alt=&quot;Having a go at the mic&quot; title=&quot;Having a go at the mic&quot; target=&quot;_blank&quot;&gt;
-        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/assets/images/conferences/worknano2019-eleno.jpeg&quot; /&gt;
+        &lt;a href=&quot;/computeel/assets/images/conferences/worknano2019-eleno.jpeg&quot; alt=&quot;Having a go at the mic&quot; title=&quot;Having a go at the mic&quot; target=&quot;_blank&quot;&gt;
+        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/computeel//assets/images/conferences/worknano2019-eleno.jpeg&quot; /&gt;
         &lt;/a&gt;
       &lt;/div&gt;
       &lt;div class=&quot;modal-footer&quot;&gt;
@@ -321,7 +321,7 @@ margin-right: auto;
 &lt;div class=&quot;text-center&quot;&gt;
 &lt;figure class=&quot;figure&quot;&gt;
   &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#wn19&quot;&gt;
-    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/conferences/worknano_fev19-small.png&quot; /&gt;
+    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel//assets/images/conferences/worknano_fev19-small.png&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;figure-caption&quot;&gt;
     WorkNano2019 Poster
@@ -338,8 +338,8 @@ margin-right: auto;
         &lt;/button&gt;
       &lt;/div&gt;
       &lt;div class=&quot;modal-body&quot;&gt;
-        &lt;a href=&quot;/assets/images/conferences/worknano_fev19-small.png&quot; alt=&quot;WorkNano2019 Poster&quot; title=&quot;WorkNano2019 Poster&quot; target=&quot;_blank&quot;&gt;
-        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/assets/images/conferences/worknano_fev19-small.png&quot; /&gt;
+        &lt;a href=&quot;/computeel/assets/images/conferences/worknano_fev19-small.png&quot; alt=&quot;WorkNano2019 Poster&quot; title=&quot;WorkNano2019 Poster&quot; target=&quot;_blank&quot;&gt;
+        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/computeel//assets/images/conferences/worknano_fev19-small.png&quot; /&gt;
         &lt;/a&gt;
       &lt;/div&gt;
       &lt;div class=&quot;modal-footer&quot;&gt;

@@ -1,4 +1,4 @@
 {% if site.posts.size > 0 %}
-<p style="font-size:.8em" align="right" class="rss-subscribe"><img src="/assets/images/clipart/Rss-feed.png" width="16px">
-subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+<p style="font-size:.8em" align="right" class="rss-subscribe"><img src="{{site.baseurl}}/assets/images/clipart/Rss-feed.png" width="16px">
+subscribe <a href="{{ "{{site.baseurl}}feed.xml" | relative_url }}">via RSS</a></p>
 {% endif %}

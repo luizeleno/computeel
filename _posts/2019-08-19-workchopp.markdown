@@ -20,6 +20,6 @@ Visit the [workshop's official page](http://www.demar.eel.usp.br/en/fronteiras/)
 - **Mauricio da Silva Baptista** (IQ-USP): *Spatial precision in targeting intracellular organelles by photo-sensitized oxidations*
 - **Hernan Chaimovich** (IQ-USP): *Scientific Policy: Preliminary reflections*
 
-[Luiz T. F. Eleno]: /team/01-luizeleno.html
+[Luiz T. F. Eleno]: {{site.baseurl}}/team/01-luizeleno.html
 [FAPESP]: http://www.fapesp.br/en/
 [DEMAR]: http://www.demar.eel.usp.br/en/

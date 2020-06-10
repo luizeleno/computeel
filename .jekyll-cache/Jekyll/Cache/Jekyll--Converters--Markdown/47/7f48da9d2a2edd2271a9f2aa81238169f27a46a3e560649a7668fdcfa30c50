@@ -1,0 +1,44 @@
+I"/<div class="col-md-5 float-left mr-2">
+<div class="text-center">
+<figure class="figure">
+  <a href="#" data-toggle="modal" data-target="#mozao">
+    <img class="figure-img img-fluid rounded" src="/computeel//assets/images/people/pedro.jpg" />
+  </a>
+  <figcaption class="figure-caption">
+    Mozão
+  </figcaption>
+
+<!-- Modal -->
+<div class="modal fade" id="mozao" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header bg-dark text-light ">
+        <h5 class="modal-title" id="exampleModalLongTitle">Mozão</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span class="text-light" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <a href="/computeel//assets/images/people/pedro.jpg" alt="Mozão" title="Mozão" target="_blank">
+        <img class="figure-img img-fluid" src="/computeel//assets/images/people/pedro.jpg" />
+        </a>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</figure>
+</div>
+
+</div>
+
+<p>Today the qualifying exam of our group member <strong><a href="/computeel/team/PiresPedro.html">Pedro P. Ferreira</a></strong>, will take place in our department. The title of the work is <strong>“Ab initio investigation of the electronic and phononic structure of superconducting TMDs”</strong>, supervised by <strong><a href="/computeel/team/01-luizeleno.html">Prof. Luiz T. F. Eleno</a></strong>.</p>
+
+<p>A <em>qualifying exam</em> is a typical step in MSci. and Ph.D. programs in Brazil, in which the candidate presents the ongoing work to a committee in order to verify whether the bibliographical review and the preliminary results obtained are compatible with the schedule originally planned, or else some steering proposals will have to be adopted.</p>
+
+<p>Best of luck to Pedro <em>(Mozão)</em>!</p>
+
+:ET

@@ -14,17 +14,17 @@ You will also find a complete list of our scientific [publications]. Full refere
 
 To reach us, find my e-mail address at the bottom of the page, or use the [contact page].
 
-All the best!  
-[Prof. Luiz T. F. Eleno](/team/01-luizeleno.html)
+All the best!
+[Prof. Luiz T. F. Eleno]({{site.baseurl}}/team/01-luizeleno.html)
 
 ###### **P.S.:** On our department website ([Demar]) you'll find the briefer [ComputEEL/MatSci institutional page](http://www.demar.eel.usp.br/laboratorio-computeel-matsci). But the whole site is hosted here (using [Jekyll] on [Github pages], by the way) since it is so much easier (and fun!) to maintain and update.
 
 [EEL-USP]: http://www.eel.usp.br
-[contact page]: /contact
-[news]: /news
-[team]: /team
-[blog posts]: /blog
-[publications]: /papers
+[contact page]: {{site.baseurl}}/contact
+[news]: {{site.baseurl}}/news
+[team]: {{site.baseurl}}/team
+[blog posts]: {{site.baseurl}}/blog
+[publications]: {{site.baseurl}}/papers
 
 [Demar]: http://www.demar.eel.usp.br
 [Jekyll]: https://jekyllrb.com

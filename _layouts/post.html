@@ -5,9 +5,9 @@ layout: default
 <div class="well">
 
   <div class="mininav">
-    <p><a href="{{ site.url }}/"> {{ site.title | escape }}</a>
+    <p><a href="{{site.baseurl}}/"> {{ site.title | escape }}</a>
       >
-      <a href="/{{page.categories}}">{{ page.categories | first | capitalize }}</a>
+      <a href="{{site.baseurl}}/{{page.categories}}">{{ page.categories | first | capitalize }}</a>
       >
       {{page.title | liquify }}</p>
     </div>

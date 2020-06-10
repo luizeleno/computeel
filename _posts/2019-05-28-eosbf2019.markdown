@@ -5,7 +5,7 @@ title: "EOSBF2019"
 tags: [talks, workshops]
 ---
 
-<img class="col-md-9 mx-auto" src="/assets/images/conferences/eosbf-2019.jpg">
+<img class="col-md-9 mx-auto" src="{{site.baseurl}}/assets/images/conferences/eosbf-2019.jpg">
 
 Two team members of {{site.title}}, [Luiz T. F. Eleno] and [Igor Hideki],  are taking part in the *Autumn Meeting of the Brazilian Society of Physics* ([EOSBF2019]) in Aracaju, capital of the state of Sergipe, in northeastern Brazil.
 
@@ -14,5 +14,5 @@ Aracaju is a very hot town, full of beaches, coconut trees, crabs, shrimp and lo
 Therefore, we came here to show our results on brand new work performed by our younger team member, [Igor Hideki], and also a proposal for a new python class to perform elasticity theory calculations --- more on that in the future.
 
 [EOSBF2019]: http://www.sbfisica.org.br/~eosbf/2019/index.php/en/
-[Igor Hideki]: /team/YamamotoIgor.html
-[Luiz T. F. Eleno]: /team/01-luizeleno.html
+[Igor Hideki]: {{site.baseurl}}/team/YamamotoIgor.html
+[Luiz T. F. Eleno]: {{site.baseurl}}/team/01-luizeleno.html

@@ -1,7 +1,7 @@
 <div class="text-center">
 <figure class="figure">
   <a href="#" data-toggle="modal" data-target="#{{ include.id }}">
-    <img class="figure-img img-fluid rounded" src="{{site.baseurl}}{{ include.image }}">
+    <img class="figure-img img-fluid rounded" src="{{site.baseurl}}/{{ include.image }}">
   </a>
   <figcaption class="figure-caption">
     {{ include.caption }}
@@ -18,8 +18,8 @@
         </button>
       </div>
       <div class="modal-body">
-        <a href="{{include.link}}" alt="{{include.caption}}" title="{{ include.caption }}" target="_blank">
-        <img class="figure-img img-fluid" src="{{ include.image }}">
+        <a href="{% if include.link %}{{include.link}}{% else %}{{site.baseurl}}/{{include.image}}{% endif %}" alt="{{include.caption}}" title="{{ include.caption }}" target="_blank">
+        <img class="figure-img img-fluid" src="{{site.baseurl}}/{{ include.image }}">
         </a>
       </div>
       <div class="modal-footer">

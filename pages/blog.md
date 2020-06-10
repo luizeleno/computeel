@@ -11,7 +11,7 @@ mathjax: true
 {% for post in site.categories.blog %}
 <ul style="text-align: left">
 <li>{{ post.date | date_to_long_string }}:
-<a href="{{ post.url }}">{{ post.title | liquify }}</a></li>
+<a href="{{site.baseurl}}{{ post.url }}">{{ post.title | liquify }}</a></li>
 </ul>
 {% endfor %}
 

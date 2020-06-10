@@ -14,7 +14,7 @@ mathjax: true
   {% if membro.staff == "member" %}
 <tr>
 <td><img class="shadow-lg rounded" src="{{site.baseurl}}/assets/images/people/{{membro.image}}.jpg" width="100%" align="left" ></td>
-<td class="align-middle"><b><a href="{{membro.url}}">{{ membro.title  }}</a></b> <i>(aka {{ membro.apelido }})</i>
+<td class="align-middle"><b><a href="{{site.baseurl}}{{membro.url}}">{{ membro.title  }}</a></b> <i>(aka {{ membro.apelido }})</i>
 <br>{{ membro.position }}
 {% if membro.present %}
 <br><i>Present address: </i>{{ membro.present }}
@@ -56,13 +56,13 @@ mathjax: true
 # Experimental Collaborators
 
 <table class="table table-hover">
-<col width="25%">
+<col width="25%">{{site.title}}
 <col width="75%">
 {% for membro in site.team %}
   {% if membro.staff == "experimental" %}
 <tr>
-<td><img class="shadow-lg rounded" src="/assets/images/people/{{membro.image}}.jpg" width="100%" align="left"></td>
-<td class="align-middle"><b><a href="{{site.baseurl}}{{membro.url}}">{{ membro.title  }}</a></b> <i>(aka {{ membro.apelido }})</i>
+<td><img class="shadow-lg rounded" src="{{site.baseurl}}/assets/images/people/{{membro.image}}.jpg" width="100%" align="left"></td>
+<td class="align-middle"><b><a href="{{site.baseurl}}{{membro.url}}">{{ membro.title }}</a></b> <i>(aka {{ membro.apelido }})</i>
 <br>{{ membro.position  }}</td>
 </tr>
 {% endif %}

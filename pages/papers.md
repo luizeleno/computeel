@@ -12,4 +12,4 @@ mathjax: true
 
 {% bibliography --cited %}
 
-[profile page]: /team
+[profile page]: {{site.baseurl}}/team

@@ -14,5 +14,5 @@ A *qualifying exam* is a typical step in MSci. and Ph.D. programs in Brazil, in 
 
 Best of luck to Pedro *(Mozão)*!
 
-[Pedro P. Ferreira]: /team/PiresPedro.html
-[Prof. Luiz T. F. Eleno]: /team/01-luizeleno.html
+[Pedro P. Ferreira]: {{site.baseurl}}/team/PiresPedro.html
+[Prof. Luiz T. F. Eleno]: {{site.baseurl}}/team/01-luizeleno.html
