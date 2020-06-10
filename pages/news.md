@@ -4,7 +4,7 @@ permalink: /news/
 mathjax: true
 ---
 
-![news](/assets/images/clipart/news.png){: width="30%" class="float-right rounded m-3 shadow-lg"}
+![news]({{site.baseurl}}/assets/images/clipart/news.png){: width="30%" class="float-right rounded m-3 shadow-lg"}
 
 <div class="clearfix">
 

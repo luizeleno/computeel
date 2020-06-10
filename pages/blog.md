@@ -4,7 +4,7 @@ permalink: /blog/
 mathjax: true
 ---
 
-![blog](/assets/images/clipart/blog.jpg){: class="float-right rounded m-3 shadow-lg" width="30%"}
+![blog]({{site.baseurl}}/assets/images/clipart/blog.jpg){: class="float-right rounded m-3 shadow-lg" width="30%"}
 
 <div class="clearfix">
 

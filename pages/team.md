@@ -39,7 +39,7 @@ mathjax: true
 {% for membro in site.team %}
 {% if membro.staff == "theoretical" %}
 <tr>
-<td><img class="shadow-lg rounded" src="/assets/images/people/{{membro.image}}.jpg" width="100%" align="left"></td>
+<td><img class="shadow-lg rounded" src="{{site.baseurl}}/assets/images/people/{{membro.image}}.jpg" width="100%" align="left"></td>
 <td class="align-middle"><b><a href="{{membro.url}}">{{ membro.title }}</a></b> <i>(aka {{ membro.apelido }})</i>
 <br>{{ membro.position  }}
 {% if membro.present %}
