@@ -1,0 +1,84 @@
+# author: "#Elenão"
+title: ComputEEL/MatSci
+name: Luiz T. F. Eleno
+email: computeel@usp.br
+description: >- # this means to ignore newlines until "baseurl:"
+  # ComputEEL/MatSci
+  Computational Materials Science Research Group
+  at the Escola de Engenharia de Lorena, Universidade de São Paulo (EEL-USP).
+  Theoretical methods: Density Functional Theory, (DFT);
+  CALPHAD (Calculation of Phases Diagrams).
+  Scope: alloys and intermetallic compounds.
+baseurl: '' # the subpath of your site, e.g. /blog
+url: https://computeel.org # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: UA-135477852-1
+github:  luizeleno
+
+destination: docs/
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+#highlighter: pygments
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jemoji
+  - jekyll-figure
+  - jekyll-seo-tag
+  - 'jekyll/scholar'
+    #- jekyll-admin
+
+collections:
+  team:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+        layout: "post"
+        author: Luiz T. F. Eleno
+  -
+    scope:
+      path: ""
+      type: "team"
+    values:
+        layout: "member"
+        staff: "member"
+
+scholar:
+  source: /_bibliography
+  bibliography: references.bib
+  #use_raw_bibtex_entry: false
+  bibtex_quotes: ['"', '"']
+  style: /_bibliography/ima-journal-of-applied-mathematics-full.csl
+  sort_by: year, author
+  order: descending, descending
+  bibliography_template: bib
+  bibliography_list_attributes:
+      reversed: "reversed"
+
+sass:
+  load_paths:
+    - css
+    - js
+  style: compressed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock

@@ -1,0 +1,7 @@
+I"�<p>Some time ago I made a presentation about $\LaTeX$ to a freshmen class. I prepared the slides using the <code class="language-plaintext highlighter-rouge">beamer</code> document class and the help of the <a href="https://wiki2beamer.github.io/">wiki2beamer</a> markdown syntax.</p>
+
+<p>The whole project is freely available on Github: <a href="https://github.com/luizeleno/LaTeX-tutorial-for-newbies">https://github.com/luizeleno/LaTeX-tutorial-for-newbies</a>. If you’re new to $\LaTeX$, there are plenty of information there to get you started. Even in case you’re an expert, have at look at it. In case you find it useful, help spread it to the next generation.</p>
+
+<p>The whole project is made available under the GNU General Public License 3.0, that gives you full access to use and modify the source code as you see fit. Or just have a look at the <code class="language-plaintext highlighter-rouge">pdf</code> presentation.</p>
+
+:ET

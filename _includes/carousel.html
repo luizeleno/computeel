@@ -1,0 +1,25 @@
+<div id="{{ include.name }}" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    {% for item in include.data %}
+      {% if forloop.first %}
+        <li data-target="#{{ include.name }}" data-slide-to="0" class="active"></li>
+      {% else %}
+        <li data-target="#{{ include.name }}" data-slide-to="{{ forloop.index0 }}"></li>
+      {% endif %}
+    {% endfor %}
+  </ol>
+  <div class="carousel-inner">
+    {% for item in include.data %}
+      <div class="carousel-item {% if forloop.first %}active{% endif %}">
+        {% if item.link%}
+          <a href="{{ item.link}}" id="no-ext-link" target="_blank">
+        {% endif %}
+        <img class="d-block rounded" style="height:250px; width:auto" src="{{site.baseurl}}{{ item.url }}" alt="{{ item.title }}" title="{{ item.title }} (click to go to the paper)">
+        {% if item.link%}</a>{% endif %}
+        <div class="carousel-caption d-none d-md-block">
+          <h5>{{item.caption | liquify}}</h5>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

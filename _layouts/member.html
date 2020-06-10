@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+<div class="well">
+
+<div class="mininav">
+<p><a rel="author" href="{{ "/" | relative_url }}">
+{{ site.title | escape }}</a>
+>
+<a href="/team">Team</a>
+>
+{{page.title}}</p>
+</div>
+
+<hr>
+<h1>{{ page.title }}
+
+{% if page.ResearcherID %}
+<a href="http://www.researcherid.com/rid/{{page.ResearcherID}}" id="no-ext-link"><img src="/assets/images/logos/ResID.gif" title="ResearcherID" style="width:.8em;margin-right:.2em;"></a>
+{% endif %}
+{% if page.ORCID %}
+<a href="https://orcid.org/{{page.ORCID}}" id="no-ext-link"><img src="/assets/images/logos/ORCID.png" title="ORCID" style="width:.8em;margin-right:.2em;"></a>
+{% endif %}
+{% if page.GoogleScholar %}
+<a href=https://scholar.google.com.br/citations?hl=en&user={{page.GoogleScholar}} id="no-ext-link"><img src="/assets/images/logos/googlescholar.jpg" title="Google Scholar" style="width:.8em;margin-right:.2em;"></a>
+{% endif %}
+{% if page.Lattes %}
+<a href="http://lattes.cnpq.br/{{page.Lattes}}" id="no-ext-link"><img src="/assets/images/logos/lattes.jpg" title="Lattes" style="width:.8em;margin-right:.2em;"></a>
+{% endif %}
+</h1>
+
+
+<h2>
+{% if page.staff == 'member' %}
+Team member
+{% else %}
+{{page.staff | capitalize }} collaborator
+{% endif %}
+</h2>
+
+{% if page.CV %}
+<a href="/assets/CVs/{{page.CV}}.pdf">CV (pdf)</a>
+<br><br>
+{% endif %}
+
+{% if page.image %}
+<img class="float-right shadow-lg rounded mx-3" src="/assets/images/people/{{page.image}}.jpg" width="30%">
+{% endif %}
+<div class="clearfix">
+{{ content }}
+</div>
+
+<hr>
+<h1>Scientific publications</h1>
+
+{% bibliography --query @*[ computeel ~= {{page.bibname}} ] %}
+
+</div>

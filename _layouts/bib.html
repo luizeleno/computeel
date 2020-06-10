@@ -1,0 +1,13 @@
+---
+---
+
+{{ reference }}
+
+{% if entry.doi %}
+<p>DOI: <a href="https://doi.org/{{ entry.doi }}">{{ entry.doi }}</a></p>
+{% endif %}
+
+<!-- <pre class="highlight">{{entry.bibtex}}</pre> -->
+{% highlight bibtex %}
+{{entry.bibtex}}
+{% endhighlight %}

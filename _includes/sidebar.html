@@ -1,0 +1,56 @@
+<div class="d-none d-lg-block">
+  <div class="sidebar well">
+    <h1>{{ site.title }}</h1>
+    <!-- <a href="{{site.baseurl}}{% post_url 2019-03-02-computeellogo %}"> -->
+      <!-- <img class="border center" alt="{{site.title}} logo" title="{{site.title}} Logo" src="/assets/images/logos/logo-v1.jpeg" width="100%"> -->
+      {% include carousel.html name='paperimages' data=site.data.carousel.paperimages %}
+    <!-- </a> -->
+  </div>
+
+  <div class="sidebar well">
+    <h1>Pages</h1>
+    <ul>
+      {% if page.url == "/" %}
+        <li class="active">
+          Home
+        </li>
+      {% else %}
+        <li>
+          <a href="{{ site.baseurl}}/">Home</a>
+        </li>
+      {% endif %}
+      {% for item in site.data.navigation.pages %}
+        {% if page.url == item.url %}
+          <li class="active">
+              {{ item.title }}
+          </li>
+          {% else %}
+            <li>
+              <a href="{{ item.url }}">{{ item.title }}</a>
+            </li>
+          {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="sidebar well">
+    <h1>Breaking news</h1>
+    <ul>
+      {% for post in site.categories.news limit:5 %}
+      <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title | liquify }}</a></li>
+      {% endfor %}
+    </ul>
+    <a href="{{ site.baseurl}}/news">More...</a>
+  </div>
+
+  <div class="sidebar well">
+    <h1>Recent posts</h1>
+    <ul>
+      {% for post in site.categories.blog limit:5 %}
+        <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title | liquify }}</a></li>
+      {% endfor %}
+    </ul>
+    <a href="{{ site.baseurl}}/blog">More...</a>
+  </div>
+
+</div>

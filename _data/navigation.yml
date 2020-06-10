@@ -1,0 +1,23 @@
+pages: 
+
+  - title: Team
+    url: /team/
+    # sublinks:
+    #   - title: Team members
+    #     url: /team#members
+    #   - title: Theoretical collaborators
+    #     url: /team#theor
+    #   - title: Experimental collaborators
+    #     url: /team#exp
+
+  - title: Publications
+    url: /papers/
+
+  - title: News
+    url: /news/
+
+  - title: Blog
+    url: /blog/
+
+  - title: Contact
+    url: /contact/
