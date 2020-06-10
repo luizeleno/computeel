@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="https://luizeleno.github.io/computeel/feed.xml" rel="self" type="application/atom+xml" /><link href="https://luizeleno.github.io/computeel/" rel="alternate" type="text/html" /><updated>2020-06-10T09:50:06-03:00</updated><id>https://luizeleno.github.io/computeel/feed.xml</id><title type="html">ComputEEL/MatSci</title><subtitle># ComputEEL/MatSci Computational Materials Science Research Group at the Escola de Engenharia de Lorena, Universidade de São Paulo (EEL-USP). Theoretical methods: Density Functional Theory, (DFT); CALPHAD (Calculation of Phases Diagrams). Scope: alloys and intermetallic compounds.</subtitle><entry><title type="html">Workshop Total Energy and Force Methods 2020</title><link href="https://luizeleno.github.io/computeel/news/2020/01/13/MiniTotal2020.html" rel="alternate" type="text/html" title="Workshop Total Energy and Force Methods 2020" /><published>2020-01-13T00:00:00-03:00</published><updated>2020-01-13T00:00:00-03:00</updated><id>https://luizeleno.github.io/computeel/news/2020/01/13/MiniTotal2020</id><content type="html" xml:base="https://luizeleno.github.io/computeel/news/2020/01/13/MiniTotal2020.html">&lt;div class=&quot;col-md-5 float-left mr-2&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="https://luizeleno.github.io/computeel/feed.xml" rel="self" type="application/atom+xml" /><link href="https://luizeleno.github.io/computeel/" rel="alternate" type="text/html" /><updated>2020-06-10T09:52:58-03:00</updated><id>https://luizeleno.github.io/computeel/feed.xml</id><title type="html">ComputEEL/MatSci</title><subtitle># ComputEEL/MatSci Computational Materials Science Research Group at the Escola de Engenharia de Lorena, Universidade de São Paulo (EEL-USP). Theoretical methods: Density Functional Theory, (DFT); CALPHAD (Calculation of Phases Diagrams). Scope: alloys and intermetallic compounds.</subtitle><entry><title type="html">Workshop Total Energy and Force Methods 2020</title><link href="https://luizeleno.github.io/computeel/news/2020/01/13/MiniTotal2020.html" rel="alternate" type="text/html" title="Workshop Total Energy and Force Methods 2020" /><published>2020-01-13T00:00:00-03:00</published><updated>2020-01-13T00:00:00-03:00</updated><id>https://luizeleno.github.io/computeel/news/2020/01/13/MiniTotal2020</id><content type="html" xml:base="https://luizeleno.github.io/computeel/news/2020/01/13/MiniTotal2020.html">&lt;div class=&quot;col-md-5 float-left mr-2&quot;&gt;
 &lt;div class=&quot;text-center&quot;&gt;
 &lt;figure class=&quot;figure&quot;&gt;
   &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#mini&quot;&gt;
-    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/assets/images/conferences/mini2020.jpg&quot; /&gt;
+    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/conferences/mini2020.jpg&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;figure-caption&quot;&gt;
     Total Energy and Force Methods 2020
@@ -47,7 +47,7 @@
 &lt;div class=&quot;text-center&quot;&gt;
 &lt;figure class=&quot;figure&quot;&gt;
   &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#group&quot;&gt;
-    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/assets/images/conferences/mini2020-groupphoto.jpg&quot; /&gt;
+    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/conferences/mini2020-groupphoto.jpg&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;figure-caption&quot;&gt;
     Group photo - find #Elenão!
@@ -82,7 +82,7 @@
 &lt;div class=&quot;text-center&quot;&gt;
 &lt;figure class=&quot;figure&quot;&gt;
   &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#mozao&quot;&gt;
-    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/assets/images/people/pedro.jpg&quot; /&gt;
+    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/people/pedro.jpg&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;figure-caption&quot;&gt;
     Mozão
@@ -123,7 +123,7 @@
 &lt;div class=&quot;text-center&quot;&gt;
 &lt;figure class=&quot;figure&quot;&gt;
   &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#dorini&quot;&gt;
-    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/assets/images/defenses/dorini.jpeg&quot; /&gt;
+    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/defenses/dorini.jpeg&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;figure-caption&quot;&gt;
     From left to right: Prof. Cláudio G. Schön, Prof. Luiz T. F. Eleno (supervisor), MSci. Thiago T. Dorini, Prof. Carlos A. Nunes, and Prof. Flávio Ferreira
@@ -166,7 +166,7 @@
 &lt;div class=&quot;text-center&quot;&gt;
 &lt;figure class=&quot;figure&quot;&gt;
   &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#conf&quot;&gt;
-    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/assets/images/conferences/workchopp2019-poster.jpeg&quot; /&gt;
+    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/conferences/workchopp2019-poster.jpeg&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;figure-caption&quot;&gt;
     
@@ -235,7 +235,7 @@ margin-right: auto;
 &lt;div class=&quot;text-center&quot;&gt;
 &lt;figure class=&quot;figure&quot;&gt;
   &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#group-logo&quot;&gt;
-    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/assets/images/logos/logo-v1.jpeg&quot; /&gt;
+    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/logos/logo-v1.jpeg&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;figure-caption&quot;&gt;
     ComputEEL/MatSci logo
@@ -278,7 +278,7 @@ margin-right: auto;
 &lt;div class=&quot;text-center&quot;&gt;
 &lt;figure class=&quot;figure&quot;&gt;
   &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#wn19&quot;&gt;
-    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/assets/images/conferences/worknano2019-eleno.jpeg&quot; /&gt;
+    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/conferences/worknano2019-eleno.jpeg&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;figure-caption&quot;&gt;
     Having a go at the mic
@@ -321,7 +321,7 @@ margin-right: auto;
 &lt;div class=&quot;text-center&quot;&gt;
 &lt;figure class=&quot;figure&quot;&gt;
   &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#wn19&quot;&gt;
-    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/assets/images/conferences/worknano_fev19-small.png&quot; /&gt;
+    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/conferences/worknano_fev19-small.png&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;figure-caption&quot;&gt;
     WorkNano2019 Poster

@@ -1,25 +1,26 @@
+I"�<div class="col-md-5 float-left mr-2">
 <div class="text-center">
 <figure class="figure">
-  <a href="#" data-toggle="modal" data-target="#{{ include.id }}">
-    <img class="figure-img img-fluid rounded" src="{{site.baseurl}}{{ include.image }}">
+  <a href="#" data-toggle="modal" data-target="#mozao">
+    <img class="figure-img img-fluid rounded" src="/computeel/assets/images/people/pedro.jpg" />
   </a>
   <figcaption class="figure-caption">
-    {{ include.caption }}
+    Mozão
   </figcaption>
 
 <!-- Modal -->
-<div class="modal fade" id="{{ include.id }}" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal fade" id="mozao" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header bg-dark text-light ">
-        <h5 class="modal-title" id="exampleModalLongTitle">{{include.caption}}</h5>
+        <h5 class="modal-title" id="exampleModalLongTitle">Mozão</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span class="text-light" aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
-        <a href="{{include.link}}" alt="{{include.caption}}" title="{{ include.caption }}" target="_blank">
-        <img class="figure-img img-fluid" src="{{ include.image }}">
+        <a href="" alt="Mozão" title="Mozão" target="_blank">
+        <img class="figure-img img-fluid" src="/assets/images/people/pedro.jpg" />
         </a>
       </div>
       <div class="modal-footer">
@@ -31,3 +32,6 @@
 
 </figure>
 </div>
+
+</div>
+:ET
