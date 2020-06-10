@@ -5,7 +5,7 @@ title: "P. P. Ferreira MSci. qualifying exam"
 ---
 
 <div class="col-md-5 float-left mr-2">
-{% include figure.html image='/assets/images/people/pedro.jpg' modal=true id='mozao' caption="Mozão" %}
+{% include figure.html image='assets/images/people/pedro.jpg' modal=true id='mozao' caption="Mozão" %}
 </div>
 
 Today the qualifying exam of our group member **[Pedro P. Ferreira]**, will take place in our department. The title of the work is **"Ab initio investigation of the electronic and phononic structure of superconducting TMDs"**, supervised by **[Prof. Luiz T. F. Eleno]**.

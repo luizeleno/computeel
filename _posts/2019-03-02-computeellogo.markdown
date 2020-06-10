@@ -16,5 +16,5 @@ display:block;
 margin-left: auto;
 margin-right: auto;
 ">
-{% include figure.html image='/assets/images/logos/logo-v1.jpeg' caption='ComputEEL/MatSci logo' id='group-logo' link='/assets/images/logos/logo-v1.jpeg' %}
+{% include figure.html image='assets/images/logos/logo-v1.jpeg' caption='ComputEEL/MatSci logo' id='group-logo' link='/assets/images/logos/logo-v1.jpeg' %}
 </div>

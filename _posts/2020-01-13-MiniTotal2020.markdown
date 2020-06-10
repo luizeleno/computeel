@@ -5,7 +5,7 @@ title: "Workshop Total Energy and Force Methods 2020"
 ---
 
 <div class="col-md-5 float-left mr-2">
-{% include figure.html image='/assets/images/conferences/mini2020.jpg' link='http://totalenergy2020.dipc.org/' modal=true id='mini' caption="Total Energy and Force Methods 2020" %}
+{% include figure.html image='assets/images/conferences/mini2020.jpg' link='http://totalenergy2020.dipc.org/' modal=true id='mini' caption="Total Energy and Force Methods 2020" %}
 </div>
 
 ComputEEL/MatSci was present in San Sebastián, Spain, for the workshop "Total Energy and Force Methods 2020". We presented the work entitled *"Controlling type-II Dirac semimetal NiTe2 electronic and elastic properties via strain and alkaline-element intercalation"*
@@ -17,5 +17,5 @@ ComputEEL/MatSci was present in San Sebastián, Spain, for the workshop "Total E
 *The main objective of this event is to identify new developments and topics in the field of electronic-structure methods from the first-principles perspective, their diverse applications, and its mathematical foundations. As such, it provides a great opportunity to assemble a wide range of leading scientists working on different aspects of computational material science.*
 
 <div class="col-md-12 float-left mr-2">
-{% include figure.html image='/assets/images/conferences/mini2020-groupphoto.jpg' modal=true id='group' caption="Group photo - find #Elenão!" %}
+{% include figure.html image='assets/images/conferences/mini2020-groupphoto.jpg' modal=true id='group' caption="Group photo - find #Elenão!" %}
 </div>

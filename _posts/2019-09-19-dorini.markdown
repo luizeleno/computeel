@@ -5,7 +5,7 @@ title: "New Master of Science in the group"
 ---
 
 <div class="col-md-5 float-left mr-2">
-{% include figure.html image='/assets/images/defenses/dorini.jpeg' modal=true id='dorini' caption="From left to right: Prof. Cláudio G. Schön, Prof. Luiz T. F. Eleno (supervisor), MSci. Thiago T. Dorini, Prof. Carlos A. Nunes, and Prof. Flávio Ferreira" %}
+{% include figure.html image='assets/images/defenses/dorini.jpeg' modal=true id='dorini' caption="From left to right: Prof. Cláudio G. Schön, Prof. Luiz T. F. Eleno (supervisor), MSci. Thiago T. Dorini, Prof. Carlos A. Nunes, and Prof. Flávio Ferreira" %}
 </div>
 
 A new Master of Science in the Computeel Group: [Thiago Dorini]({{site.baseurl}}/team/DoriniThiago.html) has successfully presented his dissertation *"The defect structure of the T1 and T2 phases in the Cr-Si-B system"*, obtaining therefore his MSci. degree in our department.

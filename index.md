@@ -26,7 +26,7 @@ display:block;
 margin-left: auto;
 margin-right: auto;
 ">
-{% include figure.html image='/assets/images/logos/logo-v1.jpeg' caption='ComputEEL/MatSci logo' id='group-logo' link='/news/2019/03/02/computeellogo.html' %}
+{% include figure.html image='assets/images/logos/logo-v1.jpeg' caption='ComputEEL/MatSci logo' id='group-logo' link='/news/2019/03/02/computeellogo.html' %}
 </div>
 
 ###### **N.B.:** On our department website ([Demar]) you'll find the briefer [ComputEEL/MatSci institutional page](http://www.demar.eel.usp.br/labs/computeel-matsci.html). But the complete site is hosted here (using [Jekyll] on [Github pages], by the way) since it is so much easier (and fun!) to maintain and update. You can also access this page at [sites.usp.br/computeel](https://sites.usp.br/computeel/).

@@ -5,7 +5,7 @@ title: "2nd Meeting - Technological Frontiers in Engineering"
 tags: [talks, workshops]
 ---
 <div class="col-md-5 float-left mr-2">
-{% include figure.html image='/assets/images/conferences/workchopp2019-poster.jpeg' modal=true id='conf' link='http://www.demar.eel.usp.br/en/fronteiras/' %}
+{% include figure.html image='assets/images/conferences/workchopp2019-poster.jpeg' modal=true id='conf' link='http://www.demar.eel.usp.br/en/fronteiras/' %}
 </div>
 
 Keeping the tradition started in the first edition of the event (read more about it on page 7 of the [29° EEL Newsletter](https://site.eel.usp.br/sites/files/eel/publico/boletim/Boletim_EEL_USP_29.pdf), in portuguese), the workshop **2nd Meeting - Technological Frontiers in Engineering** will be held at our department on **October 09 and 10, 2019,** under the coordination of [Luiz T. F. Eleno]. The event will be held again on [DEMAR] premises and support from [FAPESP]. The goal is to bring together researchers from various fields from the basic sciences to their technological applications and provide a forum for discussion and integration.
