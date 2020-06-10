@@ -10,7 +10,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   CALPHAD (Calculation of Phases Diagrams).
   Scope: alloys and intermetallic compounds.
 baseurl: 'computeel' # the subpath of your site, e.g. /blog
-url: https://computeel.org # the base hostname & protocol for your site, e.g. http://example.com
+url: https://luizeleno.github.io # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-135477852-1
 github:  luizeleno
 
