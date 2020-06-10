@@ -1,4 +1,4 @@
-I"Ã<p>The <strong>ComputEEL/MatSci logo</strong> was designed by a talented Physics Engineering student, Mateus Vallim. He did it as a favor to us, just as he does most of the artwork for university-related projects around here. Thanks for the great job!</p>
+I"¹<p>The <strong>ComputEEL/MatSci logo</strong> was designed by a talented Physics Engineering student, Mateus Vallim. He did it as a favor to us, just as he does most of the artwork for university-related projects around here. Thanks for the great job!</p>
 
 <p>It is, of course, based on an electric eel. Got it?</p>
 
@@ -29,7 +29,7 @@ margin-right: auto;
         </button>
       </div>
       <div class="modal-body">
-        <a href="/computeel/assets/images/logos/logo-v1.jpeg" alt="ComputEEL/MatSci logo" title="ComputEEL/MatSci logo" target="_blank">
+        <a href="/assets/images/logos/logo-v1.jpeg" alt="ComputEEL/MatSci logo" title="ComputEEL/MatSci logo" target="_blank">
         <img class="figure-img img-fluid" src="//assets/images/logos/logo-v1.jpeg" />
         </a>
       </div>

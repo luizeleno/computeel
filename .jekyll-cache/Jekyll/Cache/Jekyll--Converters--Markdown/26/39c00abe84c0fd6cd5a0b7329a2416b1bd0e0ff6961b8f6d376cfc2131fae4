@@ -1,4 +1,4 @@
-I"†<div class="float-right mx-3" style="width:30%">
+I"|<div class="float-right mx-3" style="width:30%">
 <div class="text-center">
 <figure class="figure">
   <a href="#" data-toggle="modal" data-target="#wn19">
@@ -19,7 +19,7 @@
         </button>
       </div>
       <div class="modal-body">
-        <a href="/computeel/assets/images/conferences/worknano_fev19-small.png" alt="WorkNano2019 Poster" title="WorkNano2019 Poster" target="_blank">
+        <a href="/assets/images/conferences/worknano_fev19-small.png" alt="WorkNano2019 Poster" title="WorkNano2019 Poster" target="_blank">
         <img class="figure-img img-fluid" src="//assets/images/conferences/worknano_fev19-small.png" />
         </a>
       </div>
