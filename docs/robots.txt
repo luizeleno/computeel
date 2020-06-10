@@ -1,1 +1,1 @@
-Sitemap: https://luizeleno.github.io/computeel/sitemap.xml
+Sitemap: https://luizeleno.github.io/sitemap.xml

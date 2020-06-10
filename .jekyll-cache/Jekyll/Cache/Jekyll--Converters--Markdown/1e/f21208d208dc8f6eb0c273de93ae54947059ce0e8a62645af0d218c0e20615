@@ -1,0 +1,44 @@
+I"�<div class="float-right mx-3" style="width:30%">
+<div class="text-center">
+<figure class="figure">
+  <a href="#" data-toggle="modal" data-target="#wn19">
+    <img class="figure-img img-fluid rounded" src="//assets/images/conferences/worknano_fev19-small.png" />
+  </a>
+  <figcaption class="figure-caption">
+    WorkNano2019 Poster
+  </figcaption>
+
+<!-- Modal -->
+<div class="modal fade" id="wn19" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header bg-dark text-light ">
+        <h5 class="modal-title" id="exampleModalLongTitle">WorkNano2019 Poster</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span class="text-light" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <a href="/computeel/assets/images/conferences/worknano_fev19-small.png" alt="WorkNano2019 Poster" title="WorkNano2019 Poster" target="_blank">
+        <img class="figure-img img-fluid" src="//assets/images/conferences/worknano_fev19-small.png" />
+        </a>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</figure>
+</div>
+
+</div>
+
+<p>The workshop <strong><a href="http://fep.if.usp.br/~worknano/">WorkNano 2019</a></strong> - <em>“Materials Science addressed with modern analytical and theoretical methods”</em> is to be held at São Paulo from 21st to 22nd of February of 2019.</p>
+
+<p>I’ll be one of the speakers of the conference, with a short talk (15min) entitled <em>“Ab-initio DFT calculations applied to superconducting materials”</em></p>
+
+<p>I’ll soon post here the pdf with the slides I used for the talk, plus a few pictures taken during the workshop.</p>
+
+:ET

@@ -1,0 +1,242 @@
+I"�W<h6 id="below-youll-find-references-to-work-developed-within-the-scope-of-computeelmatsci-you-can-find-other-publications-from-different-collaborations-under-each-team-member-profile-page-including-links-to-academic-content-aggregators-doi-and-full-bibtex-entries-are-provided-so-that-you-can-easily-cite-us-wink">Below you’ll find references to work developed within the scope of <strong>ComputEEL/MatSci</strong>. You can find other publications, from different collaborations, under each team member <a href="/team">profile page</a>, including links to academic content aggregators. Doi and full $Bib\TeX$ entries are provided so that you can easily cite us :wink:!</h6>
+
+<div style="display:none">
+<a class="citation" href="#Bhattacharyya2020">(Bhattacharyya <i>et al.</i>, 2020; de Freitas <i>et al.</i>, 2019; Ferreira <i>et al.</i>, 2018; Ferreira <i>et al.</i>, 2018; Dorini &amp; Eleno, 2018; de Lima <i>et al.</i>, 2018; Machado <i>et al.</i>, 2017; Dorini &amp; Eleno, 2019)</a>
+</div>
+
+<ol class="bibliography" reversed="reversed"><li><span id="Bhattacharyya2020"><span style="font-variant: small-caps">Bhattacharyya</span>, A., <span style="font-variant: small-caps">Ferreira</span>, P.P., <span style="font-variant: small-caps">Santos</span>, F.B., <span style="font-variant: small-caps">Adroja</span>, D.T., <span style="font-variant: small-caps">Lord</span>, J.S., <span style="font-variant: small-caps">Correa</span>, L.E., <span style="font-variant: small-caps">Machado</span>, A.J.S., <span style="font-variant: small-caps">Manesco</span>, A.L.R., &amp; <span style="font-variant: small-caps">Eleno</span>, L.T.F. (2020) Two-band superconductivity with unconventional pairing symmetry in HfV_2Ga_4$. <i>Phys. Rev. Research</i>, <b>2</b>, 022001.</span>
+
+
+<p>DOI: <a href="https://doi.org/10.1103/PhysRevResearch.2.022001">10.1103/PhysRevResearch.2.022001</a></p>
+
+
+<!-- <pre class="highlight">@article{Bhattacharyya2020,
+  author = "Bhattacharyya, A. and Ferreira, P. P. and Santos, F. B. and Adroja, D. T. and Lord, J. S. and Correa, L. E. and Machado, A. J. S. and Manesco, A. L. R. and Eleno, L T. F.",
+  title = "Two-band superconductivity with unconventional pairing symmetry in HfV$_{2}Ga$_{4}$",
+  journal = "Phys. Rev. Research",
+  year = "2020",
+  volume = "2",
+  pages = "022001",
+  month = apr,
+  computeel = "Eleno, Ferreira, Machado, Santos, Correa, Manesco",
+  doi = "10.1103/PhysRevResearch.2.022001",
+  issue = "2"
+}
+</pre> -->
+<figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Bhattacharyya2020</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Bhattacharyya, A. and Ferreira, P. P. and Santos, F. B. and Adroja, D. T. and Lord, J. S. and Correa, L. E. and Machado, A. J. S. and Manesco, A. L. R. and Eleno, L T. F."</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"Two-band superconductivity with unconventional pairing symmetry in HfV$_{2}Ga$_{4}$"</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">"Phys. Rev. Research"</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2020"</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">"2"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"022001"</span><span class="p">,</span>
+  <span class="na">month</span> <span class="p">=</span> <span class="nv">apr</span><span class="p">,</span>
+  <span class="na">computeel</span> <span class="p">=</span> <span class="s">"Eleno, Ferreira, Machado, Santos, Correa, Manesco"</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1103/PhysRevResearch.2.022001"</span><span class="p">,</span>
+  <span class="na">issue</span> <span class="p">=</span> <span class="s">"2"</span>
+<span class="p">}</span></code></pre></figure>
+</li>
+<li><span id="bruno2019"><span style="font-variant: small-caps">de Freitas</span>, B.X., <span style="font-variant: small-caps">Dorini</span>, T.T., <span style="font-variant: small-caps">Coelho</span>, G.C., <span style="font-variant: small-caps">Nunes</span>, C.A., &amp; <span style="font-variant: small-caps">Eleno</span>, L.T.F. (2019) Thermodynamic assessment of the RE–Zn (RE = Dy, Er, Ho, Tb) binaries as a starting step for a Mg–Zn–Zr–Rare earth multicomponent database. <i>Calphad</i>, <b>67</b>, 101676.</span>
+
+
+<p>DOI: <a href="https://doi.org/10.1016/j.calphad.2019.101676">10.1016/j.calphad.2019.101676</a></p>
+
+
+<!-- <pre class="highlight">@article{bruno2019,
+  title = "Thermodynamic assessment of the RE–Zn (RE = Dy, Er, Ho, Tb) binaries as a starting step for a Mg–Zn–Zr–Rare earth multicomponent database",
+  author = "de Freitas, Bruno X. and Dorini, Thiago T. and Coelho, Gilberto C. and Nunes, Carlos A. and Eleno, Luiz T.F.",
+  journal = "Calphad",
+  volume = "67",
+  pages = "101676",
+  year = "2019",
+  doi = "10.1016/j.calphad.2019.101676",
+  computeel = "Eleno, Dorini"
+}
+</pre> -->
+<figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">bruno2019</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"Thermodynamic assessment of the RE–Zn (RE = Dy, Er, Ho, Tb) binaries as a starting step for a Mg–Zn–Zr–Rare earth multicomponent database"</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"de Freitas, Bruno X. and Dorini, Thiago T. and Coelho, Gilberto C. and Nunes, Carlos A. and Eleno, Luiz T.F."</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">"Calphad"</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">"67"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"101676"</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2019"</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1016/j.calphad.2019.101676"</span><span class="p">,</span>
+  <span class="na">computeel</span> <span class="p">=</span> <span class="s">"Eleno, Dorini"</span>
+<span class="p">}</span></code></pre></figure>
+</li>
+<li><span id="Dorini2019"><span style="font-variant: small-caps">Dorini</span>, T.T. &amp; <span style="font-variant: small-caps">Eleno</span>, L.T.F. (2019) Liquid Bi-Pb and Bi-Li alloys: Mining thermodynamic properties from ab-initio molecular dynamics calculations using thermodynamic models. <i>Calphad</i>, <b>67</b>, 101687.</span>
+
+
+<p>DOI: <a href="https://doi.org/10.1016/j.calphad.2019.101687">10.1016/j.calphad.2019.101687</a></p>
+
+
+<!-- <pre class="highlight">@article{Dorini2019,
+  author = "Dorini, Thiago T. and Eleno, Luiz T.F.",
+  title = "Liquid Bi-Pb and Bi-Li alloys: Mining thermodynamic properties from ab-initio molecular dynamics calculations using thermodynamic models",
+  journal = "Calphad",
+  year = "2019",
+  volume = "67",
+  pages = "101687",
+  computeel = "Eleno, Dorini",
+  doi = "10.1016/j.calphad.2019.101687"
+}
+</pre> -->
+<figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Dorini2019</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Dorini, Thiago T. and Eleno, Luiz T.F."</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"Liquid Bi-Pb and Bi-Li alloys: Mining thermodynamic properties from ab-initio molecular dynamics calculations using thermodynamic models"</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">"Calphad"</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2019"</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">"67"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"101687"</span><span class="p">,</span>
+  <span class="na">computeel</span> <span class="p">=</span> <span class="s">"Eleno, Dorini"</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1016/j.calphad.2019.101687"</span>
+<span class="p">}</span></code></pre></figure>
+</li>
+<li><span id="de_Lima_2018"><span style="font-variant: small-caps">de Lima</span>, B.S., <span style="font-variant: small-caps">de Cassia</span>, R.R., <span style="font-variant: small-caps">Santos</span>, F.B., <span style="font-variant: small-caps">Correa</span>, L.E., <span style="font-variant: small-caps">Grant</span>, T.W., <span style="font-variant: small-caps">Manesco</span>, A.L.R., <span style="font-variant: small-caps">Martins</span>, G.W., <span style="font-variant: small-caps">Eleno</span>, L.T.F., <span style="font-variant: small-caps">Torikachvili</span>, M.S., &amp; <span style="font-variant: small-caps">Machado</span>, A.J.S. (2018) Properties and superconductivity in Ti-doped NiTe2 single crystals. <i>Solid State Communications</i>, <b>283</b>, 27–31.</span>
+
+
+<p>DOI: <a href="https://doi.org/10.1016/j.ssc.2018.08.014">10.1016/j.ssc.2018.08.014</a></p>
+
+
+<!-- <pre class="highlight">@article{de_Lima_2018,
+  doi = "10.1016/j.ssc.2018.08.014",
+  year = "2018",
+  volume = "283",
+  pages = "27-31",
+  author = "de Lima, B.S. and de Cassia, R.R. and Santos, F.B. and Correa, L.E. and Grant, T.W. and Manesco, A.L.R. and Martins, GW and Eleno, LTF and Torikachvili, M.S. and Machado, A.J.S.",
+  title = "Properties and superconductivity in Ti-doped {NiTe}2 single crystals",
+  journal = "Solid State Communications",
+  computeel = "Eleno, Correa, Manesco, Martins, Machado"
+}
+</pre> -->
+<figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">de_Lima_2018</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1016/j.ssc.2018.08.014"</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2018"</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">"283"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"27-31"</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"de Lima, B.S. and de Cassia, R.R. and Santos, F.B. and Correa, L.E. and Grant, T.W. and Manesco, A.L.R. and Martins, GW and Eleno, LTF and Torikachvili, M.S. and Machado, A.J.S."</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"Properties and superconductivity in Ti-doped {NiTe}2 single crystals"</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">"Solid State Communications"</span><span class="p">,</span>
+  <span class="na">computeel</span> <span class="p">=</span> <span class="s">"Eleno, Correa, Manesco, Martins, Machado"</span>
+<span class="p">}</span></code></pre></figure>
+</li>
+<li><span id="Ferreira_2018"><span style="font-variant: small-caps">Ferreira</span>, P.P., <span style="font-variant: small-caps">Dorini</span>, T.T., <span style="font-variant: small-caps">Santos</span>, F.B., <span style="font-variant: small-caps">Machado</span>, A.J.S., &amp; <span style="font-variant: small-caps">Eleno</span>, L.T.F. (2018) Elastic anisotropy and thermal properties of extended linear chain compounds MV2Ga4 (M = Sc, Zr, Hf) from ab-initio calculations. <i>Materialia</i>, <b>4</b>, 529–539.</span>
+
+
+<p>DOI: <a href="https://doi.org/10.1016/j.mtla.2018.11.008">10.1016/j.mtla.2018.11.008</a></p>
+
+
+<!-- <pre class="highlight">@article{Ferreira_2018,
+  doi = "10.1016/j.mtla.2018.11.008",
+  year = "2018",
+  volume = "4",
+  pages = "529-539",
+  author = "Ferreira, P.P. and Dorini, T.T. and Santos, F.B. and Machado, A.J.S. and Eleno, LTF",
+  title = "Elastic anisotropy and thermal properties of extended linear chain compounds {MV}2Ga4 (M = Sc, Zr, Hf) from ab-initio calculations",
+  journal = "Materialia",
+  computeel = "Eleno, Ferreira, Dorini, Santos, Machado",
+  addendum = "(3 citations)"
+}
+</pre> -->
+<figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Ferreira_2018</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1016/j.mtla.2018.11.008"</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2018"</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">"4"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"529-539"</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Ferreira, P.P. and Dorini, T.T. and Santos, F.B. and Machado, A.J.S. and Eleno, LTF"</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"Elastic anisotropy and thermal properties of extended linear chain compounds {MV}2Ga4 (M = Sc, Zr, Hf) from ab-initio calculations"</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">"Materialia"</span><span class="p">,</span>
+  <span class="na">computeel</span> <span class="p">=</span> <span class="s">"Eleno, Ferreira, Dorini, Santos, Machado"</span><span class="p">,</span>
+  <span class="na">addendum</span> <span class="p">=</span> <span class="s">"(3 citations)"</span>
+<span class="p">}</span></code></pre></figure>
+</li>
+<li><span id="Ferreira_2018a"><span style="font-variant: small-caps">Ferreira</span>, P.P., <span style="font-variant: small-caps">Santos</span>, F.B., <span style="font-variant: small-caps">Machado</span>, A.J.S., <span style="font-variant: small-caps">Petrilli</span>, H.M., &amp; <span style="font-variant: small-caps">Eleno</span>, L.T.F. (2018) Insights into the unconventional superconductivity in HfV2Ga4 and ScV2Ga4 from first-principles electronic-structure calculations. <i>Physical Review B</i>, <b>98</b>, 045126.</span>
+
+
+<p>DOI: <a href="https://doi.org/10.1103/physrevb.98.045126">10.1103/physrevb.98.045126</a></p>
+
+
+<!-- <pre class="highlight">@article{Ferreira_2018a,
+  doi = "10.1103/physrevb.98.045126",
+  year = "2018",
+  pages = "045126",
+  volume = "98",
+  author = "Ferreira, P. P. and Santos, F. B. and Machado, A. J. S. and Petrilli, H. M. and Eleno, LTF",
+  title = "Insights into the unconventional superconductivity in {HfV}2Ga4 and {ScV}2Ga4 from first-principles electronic-structure calculations",
+  journal = "Physical Review B",
+  computeel = "Eleno, Ferreira, Machado, Santos",
+  addendum = "(2 citations)"
+}
+</pre> -->
+<figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Ferreira_2018a</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1103/physrevb.98.045126"</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2018"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"045126"</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">"98"</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Ferreira, P. P. and Santos, F. B. and Machado, A. J. S. and Petrilli, H. M. and Eleno, LTF"</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"Insights into the unconventional superconductivity in {HfV}2Ga4 and {ScV}2Ga4 from first-principles electronic-structure calculations"</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">"Physical Review B"</span><span class="p">,</span>
+  <span class="na">computeel</span> <span class="p">=</span> <span class="s">"Eleno, Ferreira, Machado, Santos"</span><span class="p">,</span>
+  <span class="na">addendum</span> <span class="p">=</span> <span class="s">"(2 citations)"</span>
+<span class="p">}</span></code></pre></figure>
+</li>
+<li><span id="Dorini_2018"><span style="font-variant: small-caps">Dorini</span>, T.T. &amp; <span style="font-variant: small-caps">Eleno</span>, L.T.F. (2018) Thermodynamic reassessment of the Ni-In system using ab-initio data for end-member compound energies. <i>Calphad</i>, <b>62</b>, 42–48.</span>
+
+
+<p>DOI: <a href="https://doi.org/10.1016/j.calphad.2018.05.004">10.1016/j.calphad.2018.05.004</a></p>
+
+
+<!-- <pre class="highlight">@article{Dorini_2018,
+  doi = "10.1016/j.calphad.2018.05.004",
+  year = "2018",
+  volume = "62",
+  pages = "42-48",
+  author = "Dorini, Thiago T. and Eleno, LTF",
+  title = "Thermodynamic reassessment of the Ni-In system using ab-initio data for end-member compound energies",
+  journal = "Calphad",
+  computeel = "Eleno, Dorini"
+}
+</pre> -->
+<figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Dorini_2018</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1016/j.calphad.2018.05.004"</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2018"</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">"62"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"42-48"</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Dorini, Thiago T. and Eleno, LTF"</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"Thermodynamic reassessment of the Ni-In system using ab-initio data for end-member compound energies"</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">"Calphad"</span><span class="p">,</span>
+  <span class="na">computeel</span> <span class="p">=</span> <span class="s">"Eleno, Dorini"</span>
+<span class="p">}</span></code></pre></figure>
+</li>
+<li><span id="Machado2017"><span style="font-variant: small-caps">Machado</span>, A.J.S., <span style="font-variant: small-caps">Baptista</span>, N.P., <span style="font-variant: small-caps">de Lima</span>, B.S., <span style="font-variant: small-caps">Chaia</span>, N., <span style="font-variant: small-caps">Grant</span>, T.W., <span style="font-variant: small-caps">Corrêa</span>, L.E., <span style="font-variant: small-caps">Renosto</span>, S.T., <span style="font-variant: small-caps">Scaramussa</span>, A.C., <span style="font-variant: small-caps">Jardim</span>, R.F., <span style="font-variant: small-caps">Torikachvili</span>, M.S., <span style="font-variant: small-caps">de Aguiar</span>, J.A.O., <span style="font-variant: small-caps">Cigarroa</span>, O.C., <span style="font-variant: small-caps">Eleno</span>, L.T.F., &amp; <span style="font-variant: small-caps">Fisk</span>, Z. (2017) Evidence for topological behavior in superconducting Cu_xZrTe_2-y. <i>Physical Review B</i>, <b>95</b>, 144505.</span>
+
+
+<p>DOI: <a href="https://doi.org/10.1103/PhysRevB.95.144505">10.1103/PhysRevB.95.144505</a></p>
+
+
+<!-- <pre class="highlight">@article{Machado2017,
+  author = "Machado, A. J. S. and Baptista, N. P. and de Lima, B. S. and Chaia, N. and Grant, T. W. and Corrêa, L. E. and Renosto, S. T. and Scaramussa, A. C. and Jardim, R. F. and Torikachvili, M. S. and de Aguiar, J. A. O. and Cigarroa, O. C. and Eleno, LTF and Fisk, Z.",
+  title = "Evidence for topological behavior in superconducting Cu$_x$ZrTe$_{2-y}$",
+  journal = "Physical Review B",
+  year = "2017",
+  volume = "95",
+  doi = "10.1103/PhysRevB.95.144505",
+  pages = "144505",
+  computeel = "Eleno, Machado, Correa",
+  addendum = "(6 citations)"
+}
+</pre> -->
+<figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Machado2017</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Machado, A. J. S. and Baptista, N. P. and de Lima, B. S. and Chaia, N. and Grant, T. W. and Corrêa, L. E. and Renosto, S. T. and Scaramussa, A. C. and Jardim, R. F. and Torikachvili, M. S. and de Aguiar, J. A. O. and Cigarroa, O. C. and Eleno, LTF and Fisk, Z."</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"Evidence for topological behavior in superconducting Cu$_x$ZrTe$_{2-y}$"</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">"Physical Review B"</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2017"</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">"95"</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1103/PhysRevB.95.144505"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"144505"</span><span class="p">,</span>
+  <span class="na">computeel</span> <span class="p">=</span> <span class="s">"Eleno, Machado, Correa"</span><span class="p">,</span>
+  <span class="na">addendum</span> <span class="p">=</span> <span class="s">"(6 citations)"</span>
+<span class="p">}</span></code></pre></figure>
+</li></ol>
+
+:ET
