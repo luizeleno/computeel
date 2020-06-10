@@ -1,8 +1,8 @@
-I"u<div class="float-right m-3" style="width:40%;">
+I"ê<div class="float-right m-3" style="width:40%;">
 <div class="text-center">
 <figure class="figure">
   <a href="#" data-toggle="modal" data-target="#group-photo">
-    <img class="figure-img img-fluid rounded" src="/assets/images/people/grupo-small.jpg" />
+    <img class="figure-img img-fluid rounded" src="computeel/assets/images/people/grupo-small.jpg" />
   </a>
   <figcaption class="figure-caption">
     ComputEEL/MatSci team
@@ -19,8 +19,8 @@
         </button>
       </div>
       <div class="modal-body">
-        <a href="/news/2019/02/28/Group-Photo.html" alt="ComputEEL/MatSci team" title="ComputEEL/MatSci team" target="_blank">
-        <img class="figure-img img-fluid" src="/assets/images/people/grupo-small.jpg" />
+        <a href="computeel/news/2019/02/28/Group-Photo.html" alt="ComputEEL/MatSci team" title="ComputEEL/MatSci team" target="_blank">
+        <img class="figure-img img-fluid" src="computeel/assets/images/people/grupo-small.jpg" />
         </a>
       </div>
       <div class="modal-footer">

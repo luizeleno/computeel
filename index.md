@@ -5,7 +5,7 @@ mathjax: true
 ---
 
 <div class="float-right m-3" style="width:40%;">
-{% include figure.html image='/assets/images/people/grupo-small.jpg' caption='ComputEEL/MatSci team' id='group-photo' link='/news/2019/02/28/Group-Photo.html' %}
+{% include figure.html image='computeel/assets/images/people/grupo-small.jpg' caption='ComputEEL/MatSci team' id='group-photo' link='computeel/news/2019/02/28/Group-Photo.html' %}
 </div>
 
 **{{site.title}}** is a Materials Science-dedicated computational group located at the **Materials Engineering Department** ([Demar], *Depto. de Engenharia de Materiais*) of the **Lorena School of Engineering** ([EEL], *Escola de Engenharia de Lorena*), part of  **University of São Paulo** ([USP], *Universidade de São Paulo*). It started in 2017 as a computational support group for a experimentally-driven research lab investigating  superconducting compounds at the department, but has since grown to be a fully functional and independent research group working on several areas of Materials Physics, such as superconductivity, magnetism, and thermodynamics. The focus of **{{site.title}}** is on ab-initio electronic-structure DFT calculations, thermodynamic modeling using the CALPHAD method, and simulation of thermal properties of alloys and intermetallic compounds.
@@ -15,7 +15,7 @@ mathjax: true
 
 Have a look at the list of {{site.title}} [publications](/papers).
 
-Check out also our [news](/news) to follow the work developed at **{{site.title}}**, and our [blog posts](/blog) for miscellaneous topics.
+Check out also our [news](/news) to follow the work developed at **{{site.title}}**, and our [blog posts]({{site.basurl}}/blog) for miscellaneous topics.
 
 **Contact:** use the [contact page] or send an e-mail directly to [{{site.email}}](mailto:{{site.email}}).
 
@@ -34,7 +34,7 @@ margin-right: auto;
 [Demar]: http://www.demar.eel.usp.br
 [EEL]: http://site.eel.usp.br
 [USP]: https://www5.usp.br
-[{{site.title}} Team]: /team
-[contact page]: /contact
+[{{site.title}} Team]: {{site.basurl}}/team
+[contact page]: {{site.basurl}}/contact
 [Jekyll]: https://jekyllrb.com
 [Github pages]: https://pages.github.com/
