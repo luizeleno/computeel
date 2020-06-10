@@ -1,0 +1,37 @@
+I"g<div class="float-right mx-3" style="width:30%">
+<div class="text-center">
+<figure class="figure">
+  <a href="#" data-toggle="modal" data-target="#wn19">
+    <img class="figure-img img-fluid rounded" src="/computeel/assets/images/conferences/worknano_fev19-small.png" />
+  </a>
+  <figcaption class="figure-caption">
+    WorkNano2019 Poster
+  </figcaption>
+
+<!-- Modal -->
+<div class="modal fade" id="wn19" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header bg-dark text-light ">
+        <h5 class="modal-title" id="exampleModalLongTitle">WorkNano2019 Poster</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span class="text-light" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <a href="/assets/images/conferences/worknano_fev19-small.png" alt="WorkNano2019 Poster" title="WorkNano2019 Poster" target="_blank">
+        <img class="figure-img img-fluid" src="/computeel/assets/images/conferences/worknano_fev19-small.png" />
+        </a>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</figure>
+</div>
+
+</div>
+:ET
