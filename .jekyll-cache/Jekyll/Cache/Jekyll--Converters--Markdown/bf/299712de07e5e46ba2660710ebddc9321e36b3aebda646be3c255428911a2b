@@ -1,4 +1,4 @@
-I"<p><a name="members"></a></p>
+I"	<p><a name="members"></a></p>
 <h1 id="members">Members</h1>
 
 <table class="table table-hover">
@@ -7,13 +7,13 @@
 
   
 <tr>
-<td><img class="shadow-lg rounded" src="computeel/assets/images/people/eleno.jpg" width="100%" align="left" /></td>
+<td><img class="shadow-lg rounded" src="/computeel/assets/images/people/eleno.jpg" width="100%" align="left" /></td>
 <td class="align-middle"><b><a href="/team/01-luizeleno.html">Prof. Luiz T. F. Eleno</a></b> <i>(aka #Elenão)</i>
 <br />Coordinator
 
 
 <br />
-<a href="computeel/assets/CVs/eleno.pdf">CV (pdf)</a>
+<a href="/computeel/assets/CVs/eleno.pdf">CV (pdf)</a>
 
 </td>
 </tr>
@@ -29,7 +29,7 @@
 
   
 <tr>
-<td><img class="shadow-lg rounded" src="computeel/assets/images/people/thiago.jpg" width="100%" align="left" /></td>
+<td><img class="shadow-lg rounded" src="/computeel/assets/images/people/thiago.jpg" width="100%" align="left" /></td>
 <td class="align-middle"><b><a href="/team/DoriniThiago.html">Thiago Trevizam Dorini</a></b> <i>(aka van Helsing)</i>
 <br />Graduate Student
 
@@ -48,7 +48,7 @@
 
   
 <tr>
-<td><img class="shadow-lg rounded" src="computeel/assets/images/people/pedro.jpg" width="100%" align="left" /></td>
+<td><img class="shadow-lg rounded" src="/computeel/assets/images/people/pedro.jpg" width="100%" align="left" /></td>
 <td class="align-middle"><b><a href="/team/PiresPedro.html">Pedro Pires Ferreira</a></b> <i>(aka Mozão)</i>
 <br />Graduate Student
 
@@ -61,7 +61,7 @@
 
   
 <tr>
-<td><img class="shadow-lg rounded" src="computeel/assets/images/people/igor.jpg" width="100%" align="left" /></td>
+<td><img class="shadow-lg rounded" src="/computeel/assets/images/people/igor.jpg" width="100%" align="left" /></td>
 <td class="align-middle"><b><a href="/team/YamamotoIgor.html">Igor Hideki Cabianca Yamamoto</a></b> <i>(aka Amazonense)</i>
 <br />Undergraduate student
 

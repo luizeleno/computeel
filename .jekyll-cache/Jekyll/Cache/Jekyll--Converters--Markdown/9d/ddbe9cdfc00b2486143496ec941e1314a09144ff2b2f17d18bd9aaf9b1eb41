@@ -1,4 +1,4 @@
-I"�<h1 id="prof-luiz-t-f-eleno">Prof. Luiz T. F. Eleno</h1>
+I"�<h1 id="prof-luiz-t-f-eleno">Prof. Luiz T. F. Eleno</h1>
 
 <p class="lead">Material didático de apoio</p>
 
@@ -8,9 +8,9 @@
 
 <p>O material principal é disponibilizado aos alunos na forma de capítulos de uma apostila em preparação, mas em estado avançado de finalização. O assessor pode verificar que vários capítulos estão completos, outros ainda por terminar ou mesmo começar a serem redigidos. Neste último caso, entretanto, o material está disponível na forma de apresentações em pdf e deve ser transladado para a apostila assim que possível. Um exemplo de aula é fornecido para avaliação.</p>
 
-<p><a href="computeel/assets/classes/MetCompPhys-Eleno.pdf" class="btn btn-primary" target="\_blank">Baixar a apostila de LOM3257</a></p>
+<p><a href="/computeel/assets/classes/MetCompPhys-Eleno.pdf" class="btn btn-primary" target="\_blank">Baixar a apostila de LOM3257</a></p>
 
-<p><a href="computeel/assets/classes/Aula-Zeros.pdf" class="btn btn-primary" target="\_blank">Baixar exemplo de aula</a></p>
+<p><a href="/computeel/assets/classes/Aula-Zeros.pdf" class="btn btn-primary" target="\_blank">Baixar exemplo de aula</a></p>
 
 <p>Além da apostila, existe muito material na forma de códigos python a serem adaptados ou utilizados como modelos (<em>templates</em>) pelos alunos da disciplina. Julguei desnecessário fornecer tal material aqui, por se tratar apenas de uma amostra.</p>
 
@@ -30,11 +30,11 @@
   <li>uma aula de LOM3226 - Mecânica Quântica sobre o oscilador harmônico:</li>
 </ul>
 
-<p><a href="computeel/assets/classes/Osc-harm-algebr.pdf" class="btn btn-primary" target="\_blank">Baixar amostra de aula de LOM3226</a></p>
+<p><a href="/computeel/assets/classes/Osc-harm-algebr.pdf" class="btn btn-primary" target="\_blank">Baixar amostra de aula de LOM3226</a></p>
 
 <ul>
   <li>material da disciplina LOM3213 - Fenômenos de Transporte B, sobre radiação de corpo negro:</li>
 </ul>
 
-<p><a href="computeel/assets/classes/CorpoNegro.pdf" class="btn btn-primary" target="\_blank">Baixar amostra de aula de LOM3213</a></p>
+<p><a href="/computeel/assets/classes/CorpoNegro.pdf" class="btn btn-primary" target="\_blank">Baixar amostra de aula de LOM3213</a></p>
 :ET
