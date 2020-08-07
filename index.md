@@ -31,7 +31,7 @@ margin-right: auto;
 
 ###### **N.B.:** On our department website ([Demar]) you'll find the briefer [ComputEEL/MatSci institutional page](http://www.demar.eel.usp.br/labs/computeel-matsci.html). But the complete site is hosted here (using [Jekyll] on [Github pages], by the way) since it is so much easier (and fun!) to maintain and update. You can also access this page at [sites.usp.br/computeel](https://sites.usp.br/computeel/).
 
-[Demar]: http://www.demar.eel.usp.br
+[Demar]: http://www.demar.eel.usp.br/en/
 [EEL]: http://site.eel.usp.br
 [USP]: https://www5.usp.br
 [{{site.title}} Team]: {{site.baseurl}}/team
