@@ -1,10 +1,10 @@
-I"-W<h6 id="below-youll-find-references-to-work-developed-within-the-scope-of-computeelmatsci-you-can-find-other-publications-from-different-collaborations-under-each-team-member-profile-page-including-links-to-academic-content-aggregators-doi-and-full-bibtex-entries-are-provided-so-that-you-can-easily-cite-us-wink">Below you’ll find references to work developed within the scope of <strong>ComputEEL/MatSci</strong>. You can find other publications, from different collaborations, under each team member <a href="/computeel/team">profile page</a>, including links to academic content aggregators. Doi and full $Bib\TeX$ entries are provided so that you can easily cite us :wink:!</h6>
+I"*W<h6 id="below-youll-find-references-to-work-developed-within-the-scope-of-computeelmatsci-you-can-find-other-publications-from-different-collaborations-under-each-team-member-profile-page-including-links-to-academic-content-aggregators-doi-and-full-bibtex-entries-are-provided-so-that-you-can-easily-cite-us-wink">Below you’ll find references to work developed within the scope of <strong>ComputEEL/MatSci</strong>. You can find other publications, from different collaborations, under each team member <a href="/computeel/team">profile page</a>, including links to academic content aggregators. Doi and full $Bib\TeX$ entries are provided so that you can easily cite us :wink:!</h6>
 
 <div style="display:none">
 <a class="citation" href="#Bhattacharyya2020">(Bhattacharyya <i>et al.</i>, 2020; de Freitas <i>et al.</i>, 2019; Ferreira <i>et al.</i>, 2018; Ferreira <i>et al.</i>, 2018; Dorini &amp; Eleno, 2018; de Lima <i>et al.</i>, 2018; Machado <i>et al.</i>, 2017; Dorini &amp; Eleno, 2019)</a>
 </div>
 
-<ol class="bibliography" reversed="reversed"><li><span id="Bhattacharyya2020"><span style="font-variant: small-caps">Bhattacharyya</span>, A., <span style="font-variant: small-caps">Ferreira</span>, P.P., <span style="font-variant: small-caps">Santos</span>, F.B., <span style="font-variant: small-caps">Adroja</span>, D.T., <span style="font-variant: small-caps">Lord</span>, J.S., <span style="font-variant: small-caps">Correa</span>, L.E., <span style="font-variant: small-caps">Machado</span>, A.J.S., <span style="font-variant: small-caps">Manesco</span>, A.L.R., &amp; <span style="font-variant: small-caps">Eleno</span>, L.T.F. (2020) Two-band superconductivity with unconventional pairing symmetry in HfV_2Ga_4$. <i>Phys. Rev. Research</i>, <b>2</b>, 022001.</span>
+<ol class="bibliography" reversed="reversed"><li><span id="Bhattacharyya2020"><span style="font-variant: small-caps">Bhattacharyya</span>, A., <span style="font-variant: small-caps">Ferreira</span>, P.P., <span style="font-variant: small-caps">Santos</span>, F.B., <span style="font-variant: small-caps">Adroja</span>, D.T., <span style="font-variant: small-caps">Lord</span>, J.S., <span style="font-variant: small-caps">Correa</span>, L.E., <span style="font-variant: small-caps">Machado</span>, A.J.S., <span style="font-variant: small-caps">Manesco</span>, A.L.R., &amp; <span style="font-variant: small-caps">Eleno</span>, L.T.F. (2020) Two-band superconductivity with unconventional pairing symmetry in HfV_2Ga_4. <i>Phys. Rev. Research</i>, <b>2</b>, 022001.</span>
 
 
 <p>DOI: <a href="https://doi.org/10.1103/PhysRevResearch.2.022001">10.1103/PhysRevResearch.2.022001</a></p>
@@ -12,7 +12,7 @@
 
 <!-- <pre class="highlight">@article{Bhattacharyya2020,
   author = "Bhattacharyya, A. and Ferreira, P. P. and Santos, F. B. and Adroja, D. T. and Lord, J. S. and Correa, L. E. and Machado, A. J. S. and Manesco, A. L. R. and Eleno, L T. F.",
-  title = "Two-band superconductivity with unconventional pairing symmetry in HfV$_{2}Ga$_{4}$",
+  title = "Two-band superconductivity with unconventional pairing symmetry in HfV$_2$Ga$_{4}$",
   journal = "Phys. Rev. Research",
   year = "2020",
   volume = "2",
@@ -24,7 +24,7 @@
 </pre> -->
 <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Bhattacharyya2020</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">"Bhattacharyya, A. and Ferreira, P. P. and Santos, F. B. and Adroja, D. T. and Lord, J. S. and Correa, L. E. and Machado, A. J. S. and Manesco, A. L. R. and Eleno, L T. F."</span><span class="p">,</span>
-  <span class="na">title</span> <span class="p">=</span> <span class="s">"Two-band superconductivity with unconventional pairing symmetry in HfV$_{2}Ga$_{4}$"</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"Two-band superconductivity with unconventional pairing symmetry in HfV$_2$Ga$_{4}$"</span><span class="p">,</span>
   <span class="na">journal</span> <span class="p">=</span> <span class="s">"Phys. Rev. Research"</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">"2020"</span><span class="p">,</span>
   <span class="na">volume</span> <span class="p">=</span> <span class="s">"2"</span><span class="p">,</span>
