@@ -16,8 +16,9 @@ Pedro Pires Ferreira
 ## Dissertação de mestrado
 
 A versão aqui fornecida é aquela enviada para a banca examinadora composta por:
+- Prof. Dr. Luiz Tadeu Fernandes Eleno (EEL/USP, orientador)
 - Profa. Dra. Cristina Bórmio Nunes (EEL/USP)
-- Profa. Dra. Helena Maria Petrilli (IF/USP)
+- Profa. Dra. Helena Maria Petrilli (IFUSP)
 - Prof. Dr. Marcelo Marques (ITA)
 
 A versão definitiva da dissertação será depositada na [Biblioteca Digital de Teses e Dissertações da USP](https://teses.usp.br/) após a defesa, a ser realizada em 18/09/2020 de maneira online pelo link <https://meet.google.com/peg-czwr-ars>, com eventuais correções propostas pela banca.
