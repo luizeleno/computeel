@@ -1,4 +1,145 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://computeel.org/computeel/feed.xml" rel="self" type="application/atom+xml" /><link href="https://computeel.org/computeel/" rel="alternate" type="text/html" /><updated>2020-09-09T14:54:33-03:00</updated><id>https://computeel.org/computeel/feed.xml</id><title type="html">ComputEEL/MatSci</title><subtitle># ComputEEL/MatSci Computational Materials Science Research Group at the Escola de Engenharia de Lorena, Universidade de São Paulo (EEL-USP). Theoretical methods: Density Functional Theory, (DFT); CALPHAD (Calculation of Phases Diagrams). Scope: alloys and intermetallic compounds.</subtitle><entry><title type="html">Workshop Total Energy and Force Methods 2020</title><link href="https://computeel.org/computeel/news/2020/01/13/MiniTotal2020.html" rel="alternate" type="text/html" title="Workshop Total Energy and Force Methods 2020" /><published>2020-01-13T00:00:00-03:00</published><updated>2020-01-13T00:00:00-03:00</updated><id>https://computeel.org/computeel/news/2020/01/13/MiniTotal2020</id><content type="html" xml:base="https://computeel.org/computeel/news/2020/01/13/MiniTotal2020.html">&lt;div class=&quot;col-md-5 float-left mr-2&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://computeel.org/computeel/feed.xml" rel="self" type="application/atom+xml" /><link href="https://computeel.org/computeel/" rel="alternate" type="text/html" /><updated>2020-09-18T14:27:35-03:00</updated><id>https://computeel.org/computeel/feed.xml</id><title type="html">ComputEEL/MatSci</title><subtitle># ComputEEL/MatSci Computational Materials Science Research Group at the Escola de Engenharia de Lorena, Universidade de São Paulo (EEL-USP). Theoretical methods: Density Functional Theory, (DFT); CALPHAD (Calculation of Phases Diagrams). Scope: alloys and intermetallic compounds.</subtitle><entry><title type="html">P. P. Ferreira, the newest MSci. at Computeel</title><link href="https://computeel.org/computeel/news/2020/09/18/master-mozao.html" rel="alternate" type="text/html" title="P. P. Ferreira, the newest MSci. at Computeel" /><published>2020-09-18T00:00:00-03:00</published><updated>2020-09-18T00:00:00-03:00</updated><id>https://computeel.org/computeel/news/2020/09/18/master-mozao</id><content type="html" xml:base="https://computeel.org/computeel/news/2020/09/18/master-mozao.html">&lt;div class=&quot;col-md-5 float-left mr-2&quot;&gt;
+&lt;div class=&quot;text-center&quot;&gt;
+&lt;figure class=&quot;figure&quot;&gt;
+  &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#defesa&quot;&gt;
+    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/foto.png&quot; /&gt;
+  &lt;/a&gt;
+  &lt;figcaption class=&quot;figure-caption&quot;&gt;
+    The official photo, pandemic-style
+  &lt;/figcaption&gt;
+
+&lt;!-- Modal --&gt;
+&lt;div class=&quot;modal fade&quot; id=&quot;defesa&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-hidden=&quot;true&quot;&gt;
+  &lt;div class=&quot;modal-dialog modal-dialog-centered modal-lg&quot; role=&quot;document&quot;&gt;
+    &lt;div class=&quot;modal-content&quot;&gt;
+      &lt;div class=&quot;modal-header bg-dark text-light &quot;&gt;
+        &lt;h5 class=&quot;modal-title&quot; id=&quot;exampleModalLongTitle&quot;&gt;The official photo, pandemic-style&lt;/h5&gt;
+        &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot; aria-label=&quot;Close&quot;&gt;
+          &lt;span class=&quot;text-light&quot; aria-hidden=&quot;true&quot;&gt;&amp;times;&lt;/span&gt;
+        &lt;/button&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;modal-body&quot;&gt;
+        &lt;a href=&quot;/computeel/assets/images/defenses/mozao/mestrado/foto.png&quot; alt=&quot;The official photo, pandemic-style&quot; title=&quot;The official photo, pandemic-style&quot; target=&quot;_blank&quot;&gt;
+        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/foto.png&quot; /&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;modal-footer&quot;&gt;
+        &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; data-dismiss=&quot;modal&quot;&gt;OK&lt;/button&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Today the exam of our group member &lt;strong&gt;&lt;a href=&quot;/computeel/team/PiresPedro.html&quot;&gt;Pedro P. Ferreira&lt;/a&gt;&lt;/strong&gt;, took place in our department. The work titled &lt;strong&gt;“Ab initio investigation of superconducting and topological phases in transition metal dicalchogenides”&lt;/strong&gt; was supervised by &lt;strong&gt;&lt;a href=&quot;/computeel/team/01-luizeleno.html&quot;&gt;Prof. Luiz T. F. Eleno&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Due to our current pandemic, the exam was carried out online via Google Meet.&lt;/p&gt;
+
+&lt;p&gt;Now the freshest Master of Science of the department, &lt;em&gt;Mozão&lt;/em&gt; is about to start his PhD project working on state-of-the-art techniques in condensed matter. All the best!&lt;/p&gt;
+
+&lt;div class=&quot;w-100 mr-2&quot;&gt;
+&lt;ul id=&quot;mestrado&quot;&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/foto.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/foto.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao01.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao01.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao02.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao02.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao03.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao03.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao04.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao04.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao05.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao05.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao06.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao06.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao07.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao07.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao08.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao08.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao09.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao09.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao10.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao10.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao11.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao11.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao12.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao12.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao13.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao13.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao14.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao14.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao15.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao15.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao16.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao16.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao17.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao17.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao18.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao18.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao19.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao19.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao20.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao20.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao21.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao21.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao22.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao22.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao23.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao23.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao24.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao24.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao25.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao25.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao26.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao26.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao27.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao27.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao28.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao28.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao29.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao29.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao30.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao30.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao31.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao31.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao32.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao32.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao33.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao33.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao34.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao34.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao35.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao35.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao36.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao36.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao37.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao37.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao38.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao38.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao39.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao39.png&quot; /&gt;&lt;/li&gt;
+
+&lt;li data-thumb=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao40.png&quot;&gt;&lt;img class=&quot;w-100&quot; src=&quot;/computeel/assets/images/defenses/mozao/mestrado/mozao40.png&quot; /&gt;&lt;/li&gt;
+
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+$(document).ready(function() {
+    $('#mestrado').lightSlider({
+        gallery: true,
+        item: 1,
+        loop: true,
+        slideMargin: 0,
+        thumbItem: 9
+    });
+});
+&lt;/script&gt;</content><author><name>Luiz T. F. Eleno</name></author><category term="news" /><summary type="html">The official photo, pandemic-style The official photo, pandemic-style &amp;times; OK</summary></entry><entry><title type="html">Workshop Total Energy and Force Methods 2020</title><link href="https://computeel.org/computeel/news/2020/01/13/MiniTotal2020.html" rel="alternate" type="text/html" title="Workshop Total Energy and Force Methods 2020" /><published>2020-01-13T00:00:00-03:00</published><updated>2020-01-13T00:00:00-03:00</updated><id>https://computeel.org/computeel/news/2020/01/13/MiniTotal2020</id><content type="html" xml:base="https://computeel.org/computeel/news/2020/01/13/MiniTotal2020.html">&lt;div class=&quot;col-md-5 float-left mr-2&quot;&gt;
 &lt;div class=&quot;text-center&quot;&gt;
 &lt;figure class=&quot;figure&quot;&gt;
   &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#mini&quot;&gt;
@@ -317,45 +458,4 @@ margin-right: auto;
 
 &lt;p&gt;You’ll find a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pdf&lt;/code&gt; file of &lt;a href=&quot;https://drive.google.com/open?id=1Fmevm0uWEeBS4HgBxK6vea35E3kDmAdj&quot;&gt;my talk&lt;/a&gt; at this &lt;a href=&quot;https://goo.gl/PAK7Ls&quot;&gt;Google Drive&lt;/a&gt; repository, maintained by the workshop’s main organizer, &lt;a href=&quot;http://lattes.cnpq.br/9646485680649234&quot;&gt;Prof. Cristiano Oliveira&lt;/a&gt;, whom I congratulate for the great job!&lt;/p&gt;
 
-&lt;p&gt;You’ll also find there the official picture of the conference. Unfortunately, I had a meeting elsewhere, at exactly the same time the picture was taken! Tell me about bad timing…&lt;/p&gt;</content><author><name>Luiz T. F. Eleno</name></author><category term="news" /><category term="talks" /><category term="workshops" /><summary type="html">Having a go at the mic Having a go at the mic &amp;times; OK</summary></entry><entry><title type="html">Talk at WorkNano 2019</title><link href="https://computeel.org/computeel/news/2019/02/19/worknano.html" rel="alternate" type="text/html" title="Talk at WorkNano 2019" /><published>2019-02-19T00:00:00-03:00</published><updated>2019-02-19T00:00:00-03:00</updated><id>https://computeel.org/computeel/news/2019/02/19/worknano</id><content type="html" xml:base="https://computeel.org/computeel/news/2019/02/19/worknano.html">&lt;div class=&quot;float-right mx-3&quot; style=&quot;width:30%&quot;&gt;
-&lt;div class=&quot;text-center&quot;&gt;
-&lt;figure class=&quot;figure&quot;&gt;
-  &lt;a href=&quot;#&quot; data-toggle=&quot;modal&quot; data-target=&quot;#wn19&quot;&gt;
-    &lt;img class=&quot;figure-img img-fluid rounded&quot; src=&quot;/computeel/assets/images/conferences/worknano_fev19-small.png&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption class=&quot;figure-caption&quot;&gt;
-    WorkNano2019 Poster
-  &lt;/figcaption&gt;
-
-&lt;!-- Modal --&gt;
-&lt;div class=&quot;modal fade&quot; id=&quot;wn19&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-hidden=&quot;true&quot;&gt;
-  &lt;div class=&quot;modal-dialog modal-dialog-centered modal-lg&quot; role=&quot;document&quot;&gt;
-    &lt;div class=&quot;modal-content&quot;&gt;
-      &lt;div class=&quot;modal-header bg-dark text-light &quot;&gt;
-        &lt;h5 class=&quot;modal-title&quot; id=&quot;exampleModalLongTitle&quot;&gt;WorkNano2019 Poster&lt;/h5&gt;
-        &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot; aria-label=&quot;Close&quot;&gt;
-          &lt;span class=&quot;text-light&quot; aria-hidden=&quot;true&quot;&gt;&amp;times;&lt;/span&gt;
-        &lt;/button&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;modal-body&quot;&gt;
-        &lt;a href=&quot;/assets/images/conferences/worknano_fev19-small.png&quot; alt=&quot;WorkNano2019 Poster&quot; title=&quot;WorkNano2019 Poster&quot; target=&quot;_blank&quot;&gt;
-        &lt;img class=&quot;figure-img img-fluid&quot; src=&quot;/computeel/assets/images/conferences/worknano_fev19-small.png&quot; /&gt;
-        &lt;/a&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;modal-footer&quot;&gt;
-        &lt;button type=&quot;button&quot; class=&quot;btn btn-secondary&quot; data-dismiss=&quot;modal&quot;&gt;OK&lt;/button&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/figure&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;The workshop &lt;strong&gt;&lt;a href=&quot;http://fep.if.usp.br/~worknano/&quot;&gt;WorkNano 2019&lt;/a&gt;&lt;/strong&gt; - &lt;em&gt;“Materials Science addressed with modern analytical and theoretical methods”&lt;/em&gt; is to be held at São Paulo from 21st to 22nd of February of 2019.&lt;/p&gt;
-
-&lt;p&gt;I’ll be one of the speakers of the conference, with a short talk (15min) entitled &lt;em&gt;“Ab-initio DFT calculations applied to superconducting materials”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I’ll soon post here the pdf with the slides I used for the talk, plus a few pictures taken during the workshop.&lt;/p&gt;</content><author><name>Luiz T. F. Eleno</name></author><category term="news" /><category term="talks" /><category term="workshops" /><summary type="html">WorkNano2019 Poster WorkNano2019 Poster &amp;times; OK</summary></entry></feed>
+&lt;p&gt;You’ll also find there the official picture of the conference. Unfortunately, I had a meeting elsewhere, at exactly the same time the picture was taken! Tell me about bad timing…&lt;/p&gt;</content><author><name>Luiz T. F. Eleno</name></author><category term="news" /><category term="talks" /><category term="workshops" /><summary type="html">Having a go at the mic Having a go at the mic &amp;times; OK</summary></entry></feed>

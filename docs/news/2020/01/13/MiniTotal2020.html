@@ -39,6 +39,31 @@
 
   
 
+
+  <!-- JS -->
+  <script src="/computeel/js/jquery.min.js"></script>
+  <script src="/computeel/js//popper.min.js"></script>
+  <script src="/computeel/js/bootstrap.min.js"></script>
+  <script>
+    
+    var elements = document.querySelectorAll('p');
+    Array.prototype.forEach.call(elements, function(el, i){
+        if(el.innerHTML=='[expand]') {
+            var parentcontent = el.parentNode.innerHTML.replace('<p>[expand]</p>','<div class="expand" style="display: none; height: 0; overflow: hidden;">').replace('<p>[/expand]</p>','</div>');
+            el.parentNode.innerHTML = parentcontent;
+        }
+    });
+
+    var elements = document.querySelectorAll('div.expand');
+    Array.prototype.forEach.call(elements, function(el, i){
+        el.previousElementSibling.innerHTML = el.previousElementSibling.innerHTML + '<span>..&nbsp; <a href="#" style="cursor: pointer;" onclick="this.parentNode.parentNode.nextElementSibling.style.display = \'block\'; this.parentNode.parentNode.nextElementSibling.style.height = \'auto\'; this.parentNode.style.display = \'none\';">read&nbsp;more&nbsp;&rarr;</a></span>';
+    });
+
+</script>
+
+  <link type="text/css" rel="stylesheet" href="/computeel/js/lightslider/css/lightslider.css" />
+  <script src="/computeel/js/lightslider/js/lightslider.js"></script>
+
 </head>
 
 <body>
@@ -273,6 +298,8 @@
     <h1>Breaking news</h1>
     <ul>
       
+      <li><a href="/computeel/news/2020/09/18/master-mozao.html">P. P. Ferreira, the newest MSci. at Computeel</a></li>
+      
       <li><a href="/computeel/news/2020/01/13/MiniTotal2020.html">Workshop Total Energy and Force Methods 2020</a></li>
       
       <li><a href="/computeel/news/2019/11/27/mozao.html">P. P. Ferreira MSci. qualifying exam</a></li>
@@ -280,8 +307,6 @@
       <li><a href="/computeel/news/2019/09/19/dorini.html">New Master of Science in the group</a></li>
       
       <li><a href="/computeel/news/2019/08/19/workchopp.html">2nd Meeting - Technological Frontiers in Engineering</a></li>
-      
-      <li><a href="/computeel/news/2019/05/28/eosbf2019.html">EOSBF2019</a></li>
       
     </ul>
     <a href="/computeel/news">More...</a>
@@ -427,11 +452,6 @@ subscribe <a href="/computeelfeed.xml" | relative_url }}">via RSS</a></p>
     under
     <a href="http://creativecommons.org/licenses/by/4.0/" id="no-ext-link">Creative Commons Attribution</a>
 </footer>
-
-<!-- JS -->
-<script src="/computeel/js/jquery.min.js"></script>
-<script src="/computeel/js//popper.min.js"></script>
-<script src="/computeel/js/bootstrap.min.js"></script>
 
 </body>
 </html>
