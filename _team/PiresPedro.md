@@ -20,7 +20,7 @@ I'm a 22-year-young Physical Engineer - i.e., neither a blue-ribbon physicist no
 - "Ab-initio investigation of electronic and phononic properties of superconducting TMDs". Master project (*mestrado*) [FAPESP], Grant number:	[18/10835-6].
 - "Ab-initio electronic structure and elastic properties of the compound ScV2Ga4". Undergrad project (*iniciação científica*) [FAPESP], Grant number:	[17/11023-2].
 
-[20/08258-0]: https://bv.fapesp.br/pt/bolsas/193915
+[20/08258-0]: https://bv.fapesp.br/en/bolsas/193915
 [18/10835-6]: https://bv.fapesp.br/en/bolsas/180283
 [17/11023-2]: https://bv.fapesp.br/en/bolsas/172585
 [USP]: https://www5.usp.br/
