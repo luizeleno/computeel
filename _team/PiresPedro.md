@@ -16,6 +16,7 @@ I'm a 22-year-young Physical Engineer - i.e., neither a blue-ribbon physicist no
 ---
 # Grants
 
+- "Estudo ab initio de sistemas supercondutores e topológicos". PhD project (*doutorado*) [FAPESP], Grant number:	[20/08258-0].
 - "Ab-initio investigation of electronic and phononic properties of superconducting TMDs". Master project (*mestrado*) [FAPESP], Grant number:	[18/10835-6].
 - "Ab-initio electronic structure and elastic properties of the compound ScV2Ga4". Undergrad project (*iniciação científica*) [FAPESP], Grant number:	[17/11023-2].
 
