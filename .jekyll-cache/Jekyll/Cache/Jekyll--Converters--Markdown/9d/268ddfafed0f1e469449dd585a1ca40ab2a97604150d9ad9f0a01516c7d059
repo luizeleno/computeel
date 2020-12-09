@@ -1,0 +1,64 @@
+I"�
+<h2 id="pontos-para-a-prova-didática">Pontos para a prova didática:</h2>
+
+<ol>
+
+<li><input id="1" class="form-control form-control-sm" type="text" placeholder="Abacaxi" /></li>
+
+
+<li><input id="2" class="form-control form-control-sm" type="text" placeholder="Banana" /></li>
+
+
+<li><input id="3" class="form-control form-control-sm" type="text" placeholder="Carambola" /></li>
+
+
+<li><input id="4" class="form-control form-control-sm" type="text" placeholder="Damasco" /></li>
+
+
+<li><input id="5" class="form-control form-control-sm" type="text" placeholder="Framboesa" /></li>
+
+
+<li><input id="6" class="form-control form-control-sm" type="text" placeholder="Goiaba" /></li>
+
+
+<li><input id="7" class="form-control form-control-sm" type="text" placeholder="Jabuticaba" /></li>
+
+
+<li><input id="8" class="form-control form-control-sm" type="text" placeholder="Laranja" /></li>
+
+
+<li><input id="9" class="form-control form-control-sm" type="text" placeholder="Melão" /></li>
+
+
+<li><input id="10" class="form-control form-control-sm" type="text" placeholder="Romã" /></li>
+
+
+</ol>
+
+<hr />
+
+<p><button type="button" id="sorteio" class="btn btn-primary" onclick="document.getElementById('pontosorteado').innerHTML = getRndInteger(1, 10)">Sortear ponto</button>
+<button type="button" class="btn btn-primary" onclick="resetstyle()">Reiniciar</button></p>
+
+<h4 id="ponto-sorteado-">Ponto sorteado: <span class="badge badge-success" id="pontosorteado">  </span></h4>
+
+<script>
+function getRndInteger(min, max) {
+  var num = Math.floor(Math.random() * (max - min + 1) ) + min;
+  document.getElementById(num).style.fontWeight = "900";
+  document.getElementById("sorteio").disabled = true;
+  return num;
+}
+</script>
+
+<script>
+function resetstyle() {
+  for(num=1; num<=10; num++) {
+    document.getElementById(num).style.fontWeight = null;
+    document.getElementById('pontosorteado').innerHTML = '&nbsp;&nbsp;';
+    document.getElementById("sorteio").disabled = false;
+  }
+}
+</script>
+
+:ET
