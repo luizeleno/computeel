@@ -1,7 +1,7 @@
 ---
 title: Processo Seletivo - Edital ATAc/EEL/USP 10/2020
 permalink: /sorteador/
-layout: nosidebar
+nosidebar: true
 ---
 
 {% assign min = 1 %}
