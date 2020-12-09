@@ -1,4 +1,4 @@
-I"�
+I"�
 <h2 id="pontos-para-a-prova-didática">Pontos para a prova didática:</h2>
 
 <ol>
@@ -38,15 +38,20 @@
 <hr />
 
 <p><button type="button" id="sorteio" class="btn btn-primary" onclick="document.getElementById('pontosorteado').innerHTML = getRndInteger(1, 10)">Sortear ponto</button>
-<button type="button" class="btn btn-primary" onclick="resetstyle()">Reiniciar</button></p>
+<button type="button" id="reinicio" class="btn btn-primary" onclick="resetstyle()">Reiniciar</button></p>
 
 <h4 id="ponto-sorteado-">Ponto sorteado: <span class="badge badge-success" id="pontosorteado">  </span></h4>
+
+<script>
+document.getElementById("reinicio").disabled = true;
+</script>
 
 <script>
 function getRndInteger(min, max) {
   var num = Math.floor(Math.random() * (max - min + 1) ) + min;
   document.getElementById(num).style.fontWeight = "900";
   document.getElementById("sorteio").disabled = true;
+  document.getElementById("reinicio").disabled = false;
   return num;
 }
 </script>
@@ -57,6 +62,7 @@ function resetstyle() {
     document.getElementById(num).style.fontWeight = null;
     document.getElementById('pontosorteado').innerHTML = '&nbsp;&nbsp;';
     document.getElementById("sorteio").disabled = false;
+    document.getElementById("reinicio").disabled = true;
   }
 }
 </script>

@@ -20,15 +20,20 @@ nosidebar: true
 ---
 
 <button type="button" id='sorteio' class='btn btn-primary' onclick="document.getElementById('pontosorteado').innerHTML = getRndInteger({{min}}, {{max}})">Sortear ponto</button>
-<button type="button" class='btn btn-primary' onclick="resetstyle()">Reiniciar</button>
+<button type="button" id='reinicio' class='btn btn-primary' onclick="resetstyle()">Reiniciar</button>
 
 #### Ponto sorteado: <span class="badge badge-success" id="pontosorteado">&nbsp;&nbsp;</span>
+
+<script>
+document.getElementById("reinicio").disabled = true;
+</script>
 
 <script>
 function getRndInteger(min, max) {
   var num = Math.floor(Math.random() * (max - min + 1) ) + min;
   document.getElementById(num).style.fontWeight = "900";
   document.getElementById("sorteio").disabled = true;
+  document.getElementById("reinicio").disabled = false;
   return num;
 }
 </script>
@@ -39,6 +44,7 @@ function resetstyle() {
     document.getElementById(num).style.fontWeight = null;
     document.getElementById('pontosorteado').innerHTML = '&nbsp;&nbsp;';
     document.getElementById("sorteio").disabled = false;
+    document.getElementById("reinicio").disabled = true;
   }
 }
 </script>
