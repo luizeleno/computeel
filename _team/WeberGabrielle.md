@@ -1,7 +1,7 @@
 ---
 short_name: Gabrielle
 apelido: UEBA!
-bibname: Martins
+bibname: Weber
 title: Prof. Gabrielle Weber Martins
 position: Collaborator
 Lattes: 0473784991529055
