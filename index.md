@@ -10,8 +10,8 @@ mathjax: true
 
 **{{site.title}}** is a Materials Science-dedicated computational group located at the **Materials Engineering Department** ([Demar], *Depto. de Engenharia de Materiais*) of the **Lorena School of Engineering** ([EEL], *Escola de Engenharia de Lorena*), part of  **University of São Paulo** ([USP], *Universidade de São Paulo*). It started in 2017 as a computational support group for a experimentally-driven research lab investigating  superconducting compounds at the department, but has since grown to be a fully functional and independent research group working on several areas of Materials Physics, such as superconductivity, magnetism, and thermodynamics. The focus of **{{site.title}}** is on ab-initio electronic-structure DFT calculations, thermodynamic modeling using the CALPHAD method, and simulation of thermal properties of alloys and intermetallic compounds.
 
-- **Coordinator:** Prof. Luiz T. F. Eleno
-  - [{{site.title}} Team]
+* **Coordinator:** Prof. Luiz T. F. Eleno
+  * [{{site.title}} Team]
 
 Have a look at the list of {{site.title}} [publications]({{site.baseurl}}/papers).
 
