@@ -9,7 +9,7 @@ mathjax: true
 Material didático de apoio
 {: .lead}
 
- <span class='badge badge-pill badge-warning'>Aviso:</span> O material aqui apresentado destina-se a complementar o 3° Relatório Bianual de Atividades (2018-2020) do prof. Luiz T. F. Eleno. Esta página será apagada tão logo o relatório tenha sido avaliado. Os alunos têm acesso a este material pelos canais usuais de comunicação (*Google Classroom* e edisciplinas.usp.br, ou diretamente em sala de aula).
+ <span class='badge badge-pill badge-warning'>Aviso:</span> O material aqui apresentado destina-se a complementar o 3° Relatório Bianual de Atividades (2018-2020) do prof. Luiz T. F. Eleno. ~~Esta página será apagada tão logo o relatório tenha sido avaliado~~. Também será usada para o processo de avaliação docente para progressão horizontal, em 2021. Será apagada tão logo o processo de avaliação termine. Os alunos têm acesso a este material pelos canais usuais de comunicação (*Google Classroom* e <edisciplinas.usp.br>, ou diretamente em sala de aula). 
 {: .alert .alert-primary }
 
 ## LOM3257 - Métodos Computacionais da Física
