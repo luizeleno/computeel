@@ -22,10 +22,10 @@ Segue o link para o próprio relatório acadêmico, como gerado pela plataforma 
 
 O documento abaixo contém comprovantes das atividades que julguei relevantes fornecer para fins desta avaliação. Como descrito no relatório, deixei algumas atividades de fora pois não seriam contempladas no processo de ranqueamento elaborado pela EEL. 
 
-[Baixar o relatório acadêmico]({{site.baseurl}}/assets/avaldoc/comprovantes-eleno.pdf){: .btn .btn-primary target="\_blank"}
+[Baixar os comprovantes]({{site.baseurl}}/assets/avaldoc/comprovantes-eleno.pdf){: .btn .btn-primary target="\_blank"}
 
 ## Planilha de atividades
 
 O documento abaixo traz os indicadores e respectivos pesos para cada uma das atividades comprovadas pelo documento acima. A pontuação ao final da última página será usada para ranquear os docentes da EEL habilitados à progressão horizontal.
 
-[Baixar o relatório acadêmico]({{site.baseurl}}/assets/avaldoc/Planilha-eleno.pdf){: .btn .btn-primary target="\_blank"}
+[Baixar a planilha de atividades]({{site.baseurl}}/assets/avaldoc/Planilha-eleno.pdf){: .btn .btn-primary target="\_blank"}
