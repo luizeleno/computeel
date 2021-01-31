@@ -6,7 +6,7 @@ mathjax: true
 
 # Prof. Luiz T. F. Eleno
 
-Material didático de apoio
+Relatório e comprovantes
 {: .lead}
 
  <span class='badge badge-pill badge-warning'>Aviso:</span> O material aqui apresentado destina-se a complementar o **Edital de Avaliação Docente** (AVALDOC) para progressão horizontal. A página será apagada tão logo o processo de avaliação terminar.
