@@ -5,9 +5,13 @@ permalink: /contact/
 
 Leave a message below, or simply send an e-mail directly to [{{site.email}}](mailto:{{site.email}}), that we'll get back to you as soon as possible.
 
-<form class="wj-contact" action="https://formspree.io/luizeleno@usp.br" method="POST">
-    <input type="text" name="email" placeholder="Email Address">
-    <textarea type="text" name="content" rows="10" placeholder="Message"></textarea><br />
+<form
+  action="https://formspree.io/f/luizeleno@usp.br"
+  method="POST"
+  class="wj-contact"
+>
+    <input type="text" name="email" placeholder="Email Address*" required>
+    <textarea type="text" name="content" rows="10" placeholder="Message" required></textarea><br />
     <input type="submit" value="Submit">
 </form>
 
