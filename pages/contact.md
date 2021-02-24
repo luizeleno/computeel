@@ -6,7 +6,7 @@ permalink: /contact/
 Leave a message below, or simply send an e-mail directly to [{{site.email}}](mailto:{{site.email}}), that we'll get back to you as soon as possible.
 
 <form
-  action="https://formspree.io/f/luizeleno@usp.br"
+  action="https://formspree.io/f/mbjpvrvd"
   method="POST"
   class="wj-contact"
 >
