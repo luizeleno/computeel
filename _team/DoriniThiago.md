@@ -7,6 +7,7 @@ position: Graduate Student
 present: Institute Jean Lamour, Université de Lorraine
 Lattes: 9026683781660550
 image: thiago
+staff: former
 ---
 
 {% if present %}

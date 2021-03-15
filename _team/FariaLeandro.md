@@ -3,7 +3,7 @@ short_name: Leandro
 apelido: ???
 title: Leandro Rodrigues de Faria
 bibname: Faria
-position: graduate student
+position: Graduate student
 Lattes:
 image: leandro
 staff: experimental

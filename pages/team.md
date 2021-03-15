@@ -4,7 +4,6 @@ permalink: /team/
 mathjax: true
 ---
 
-<a name="members">
 # Members
 
 <table class="table table-hover">
@@ -29,15 +28,15 @@ mathjax: true
 {% endfor %}
 </table>
 
-<a name="theor">
 ---
-# Theoretical Collaborators
+
+# Former members
 
 <table class="table table-hover">
 <col width="25%">
 <col width="75%">
 {% for membro in site.team %}
-{% if membro.staff == "theoretical" %}
+{% if membro.staff == 'former' %}
 <tr>
 <td><img class="shadow-lg rounded" src="{{site.baseurl}}/assets/images/people/{{membro.image}}.jpg" width="100%" align="left"></td>
 <td class="align-middle"><b><a href="{{site.baseurl}}{{membro.url}}">{{ membro.title }}</a></b> <i>(aka {{ membro.apelido }})</i>
@@ -51,19 +50,23 @@ mathjax: true
 {% endfor %}
 </table>
 
-<a name="exp">
 ---
-# Experimental Collaborators
+
+# Collaborators
 
 <table class="table table-hover">
-<col width="25%">{{site.title}}
+<col width="25%">
 <col width="75%">
 {% for membro in site.team %}
-  {% if membro.staff == "experimental" %}
+{% if membro.staff == 'theoretical' or membro.staff == 'experimental' %}
 <tr>
 <td><img class="shadow-lg rounded" src="{{site.baseurl}}/assets/images/people/{{membro.image}}.jpg" width="100%" align="left"></td>
 <td class="align-middle"><b><a href="{{site.baseurl}}{{membro.url}}">{{ membro.title }}</a></b> <i>(aka {{ membro.apelido }})</i>
-<br>{{ membro.position  }}</td>
+<br>{{ membro.position  }}
+{% if membro.present %}
+<br><i>Present address: </i>{{ membro.present }}
+{% endif %}
+</td>
 </tr>
 {% endif %}
 {% endfor %}

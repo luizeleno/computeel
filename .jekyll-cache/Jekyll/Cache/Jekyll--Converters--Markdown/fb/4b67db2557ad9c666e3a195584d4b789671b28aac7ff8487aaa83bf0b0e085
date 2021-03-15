@@ -1,10 +1,40 @@
-I"*W<h6 id="below-youll-find-references-to-work-developed-within-the-scope-of-computeelmatsci-you-can-find-other-publications-from-different-collaborations-under-each-team-member-profile-page-including-links-to-academic-content-aggregators-doi-and-full-bibtex-entries-are-provided-so-that-you-can-easily-cite-us-wink">Below you’ll find references to work developed within the scope of <strong>ComputEEL/MatSci</strong>. You can find other publications, from different collaborations, under each team member <a href="/computeel/team">profile page</a>, including links to academic content aggregators. Doi and full $Bib\TeX$ entries are provided so that you can easily cite us :wink:!</h6>
+I"�a<h6 id="below-youll-find-references-to-work-developed-within-the-scope-of-computeelmatsci-you-can-find-other-publications-from-different-collaborations-under-each-team-member-profile-page-including-links-to-academic-content-aggregators-doi-and-full-bibtex-entries-are-provided-so-that-you-can-easily-cite-us-wink">Below you’ll find references to work developed within the scope of <strong>ComputEEL/MatSci</strong>. You can find other publications, from different collaborations, under each team member <a href="/computeel/team">profile page</a>, including links to academic content aggregators. Doi and full $Bib\TeX$ entries are provided so that you can easily cite us :wink:!</h6>
 
 <div style="display:none">
-<a class="citation" href="#Bhattacharyya2020">(Bhattacharyya <i>et al.</i>, 2020; de Freitas <i>et al.</i>, 2019; Ferreira <i>et al.</i>, 2018; Ferreira <i>et al.</i>, 2018; Dorini &amp; Eleno, 2018; de Lima <i>et al.</i>, 2018; Machado <i>et al.</i>, 2017; Dorini &amp; Eleno, 2019)</a>
+<a class="citation" href="#Bhattacharyya2020">(Bhattacharyya <i>et al.</i>, 2020; de Freitas <i>et al.</i>, 2019; Ferreira <i>et al.</i>, 2018; Ferreira <i>et al.</i>, 2018; Dorini &amp; Eleno, 2018; de Lima <i>et al.</i>, 2018; Machado <i>et al.</i>, 2017; Dorini &amp; Eleno, 2019; Ferreira <i>et al.</i>, 2021)</a>
 </div>
 
-<ol class="bibliography" reversed="reversed"><li><span id="Bhattacharyya2020"><span style="font-variant: small-caps">Bhattacharyya</span>, A., <span style="font-variant: small-caps">Ferreira</span>, P.P., <span style="font-variant: small-caps">Santos</span>, F.B., <span style="font-variant: small-caps">Adroja</span>, D.T., <span style="font-variant: small-caps">Lord</span>, J.S., <span style="font-variant: small-caps">Correa</span>, L.E., <span style="font-variant: small-caps">Machado</span>, A.J.S., <span style="font-variant: small-caps">Manesco</span>, A.L.R., &amp; <span style="font-variant: small-caps">Eleno</span>, L.T.F. (2020) Two-band superconductivity with unconventional pairing symmetry in HfV_2Ga_4. <i>Phys. Rev. Research</i>, <b>2</b>, 022001.</span>
+<ol class="bibliography" reversed="reversed"><li><span id="Ferreira2021"><span style="font-variant: small-caps">Ferreira</span>, P.P., <span style="font-variant: small-caps">Manesco</span>, A.L.R., <span style="font-variant: small-caps">Dorini</span>, T.T., <span style="font-variant: small-caps">Correa</span>, L.E., <span style="font-variant: small-caps">Weber</span>, G., <span style="font-variant: small-caps">Machado</span>, A.J.S., &amp; <span style="font-variant: small-caps">Eleno</span>, L.T.F. (2021) Strain engineering the topological type-II Dirac semimetal NiTe_2. <i>Phys. Rev. B</i>, <b>103</b>, 125134.</span>
+
+
+<p>DOI: <a href="https://doi.org/10.1103/PhysRevB.103.125134">10.1103/PhysRevB.103.125134</a></p>
+
+
+<!-- <pre class="highlight">@article{Ferreira2021,
+  author = "Ferreira, P. P. and Manesco, A. L. R. and Dorini, T. T. and Correa, L. E. and Weber, G. and Machado, A. J. S. and Eleno, L. T. F.",
+  title = "Strain engineering the topological type-{II} {D}irac semimetal {NiTe}$_{2}$",
+  journal = "Phys. Rev. B",
+  year = "2021",
+  volume = "103",
+  number = "12",
+  pages = "125134",
+  computeel = "Eleno, Ferreira, Manesco, Dorini, Correa, Weber, Machado",
+  doi = "10.1103/PhysRevB.103.125134"
+}
+</pre> -->
+<figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Ferreira2021</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Ferreira, P. P. and Manesco, A. L. R. and Dorini, T. T. and Correa, L. E. and Weber, G. and Machado, A. J. S. and Eleno, L. T. F."</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"Strain engineering the topological type-{II} {D}irac semimetal {NiTe}$_{2}$"</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">"Phys. Rev. B"</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2021"</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">"103"</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">"12"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"125134"</span><span class="p">,</span>
+  <span class="na">computeel</span> <span class="p">=</span> <span class="s">"Eleno, Ferreira, Manesco, Dorini, Correa, Weber, Machado"</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1103/PhysRevB.103.125134"</span>
+<span class="p">}</span></code></pre></figure>
+</li>
+<li><span id="Bhattacharyya2020"><span style="font-variant: small-caps">Bhattacharyya</span>, A., <span style="font-variant: small-caps">Ferreira</span>, P.P., <span style="font-variant: small-caps">Santos</span>, F.B., <span style="font-variant: small-caps">Adroja</span>, D.T., <span style="font-variant: small-caps">Lord</span>, J.S., <span style="font-variant: small-caps">Correa</span>, L.E., <span style="font-variant: small-caps">Machado</span>, A.J.S., <span style="font-variant: small-caps">Manesco</span>, A.L.R., &amp; <span style="font-variant: small-caps">Eleno</span>, L.T.F. (2020) Two-band superconductivity with unconventional pairing symmetry in HfV_2Ga_4. <i>Phys. Rev. Research</i>, <b>2</b>, 022001.</span>
 
 
 <p>DOI: <a href="https://doi.org/10.1103/PhysRevResearch.2.022001">10.1103/PhysRevResearch.2.022001</a></p>
