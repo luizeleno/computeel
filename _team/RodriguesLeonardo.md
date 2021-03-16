@@ -4,7 +4,7 @@ apelido: ???
 bibname: Rodrigues
 title: Leonardo Izaias Rodrigues
 position: Undergraduate Student
-Lattes: 
+Lattes: 9248247410365126
 image: leonardo
 ResearcherID: 
 ORCID: 
