@@ -447,8 +447,37 @@ computeel={Eleno},
   pages     = {113854},
   month     = {Jul},
   issn      = {1359-6462},
+  computeel = {Eleno, Dorini, Ferreira},
   doi       = {10.1016/j.scriptamat.2021.113854},
   publisher = {Pergamon},
+}
+
+@Article{Santos2021,
+  author    = {Santos, J{\ifmmode\acute{u}\else\'{u}\fi}lio C{\ifmmode\acute{e}\else\'{e}\fi}sar Pereira dos and Silva, Antonio Augusto Ara{\ifmmode\acute{u}\else\'{u}\fi}jo Pinto da and Ferreira, Pedro Pires and Dorini, Thiago Trevizam and Barros, Denis Felipe de and Abreu, Danilo Alencar de and Eleno, Luiz Tadeu Fernandes and Nunes, Carlos Angelo and Coelho, Gilberto Carvalho},
+  title     = {{Thermodynamic modeling of the Al{\textendash}Nb{\textendash}V system}},
+  journal   = {Calphad},
+  year      = {2021},
+  volume    = {74},
+  pages     = {102321},
+  month     = {Sep},
+  issn      = {0364-5916},
+  computeel = {Eleno, Dorini, Ferreira},
+  doi       = {10.1016/j.calphad.2021.102321},
+  publisher = {Pergamon},
+}
+
+@Article{Silva2021,
+  author    = {Silva, Antonio A. A. P. and Lamoglia, Marcela S. and Silva, Gilbert and Fiorani, Jean-Marc and David, Nicolas and Vilasi, Michel and Coelho, Gilberto C. and Nunes, Carlos A. and Eleno, Luiz T. F.},
+  title     = {{Heat capacity measurements of the Fe2Nb and Fe7Nb6 intermetallic compounds}},
+  journal   = {J. Alloys Compd.},
+  year      = {2021},
+  volume    = {878},
+  pages     = {160411},
+  month     = {Oct},
+  issn      = {0925-8388},
+  computeel = {Eleno},
+  doi       = {10.1016/j.jallcom.2021.160411},
+  publisher = {Elsevier},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
