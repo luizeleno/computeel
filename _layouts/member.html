@@ -39,6 +39,12 @@ Team member
 {% endif %}
 </h2>
 
+{% if page.present %}
+<p>
+<i>Present address:</i> {{page.present}}
+</p>
+{% endif %}
+
 {% if page.CV %}
 <a href="{{site.baseurl}}/assets/CVs/{{page.CV}}.pdf">CV (pdf)</a>
 <br><br>
@@ -48,6 +54,7 @@ Team member
 <img class="float-right shadow-lg rounded mx-3" src="{{site.baseurl}}/assets/images/people/{{page.image}}.jpg" width="30%">
 {% endif %}
 <div class="clearfix">
+
 {{ content }}
 </div>
 

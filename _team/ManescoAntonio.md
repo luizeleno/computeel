@@ -4,10 +4,10 @@ apelido: Tonhão
 bibname: Manesco
 title: Antônio Lucas Rigotti Manesco
 position: Graduate student
-# present: Kavli Institute of Nanoscience, Delft University of Technology
+present: Kavli Institute of Nanoscience, Delft University of Technology
 Lattes: 8633814807202592
 image: tonhao
-staff: member
+staff: former
 ---
 
 I started my journey in Physics as an experimentalist with
