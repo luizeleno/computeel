@@ -4,8 +4,8 @@ apelido: ???
 bibname: Almeida
 title: Pedro Luís Rodrigues de Almeida
 position: Undergraduate Student
-Lattes: 
 image: pedroluis
+Lattes: 8940725442338331
 ResearcherID: 
 ORCID: 0000-0002-5617-9914
 GoogleScholar: 
@@ -19,7 +19,7 @@ In 2019, Physics Engineering chose me. I began my graduation course in Lorena Sc
 ---
 # Grants
 
-- "Ab-initio calculation and thermodynamic modeling of Mo-Si-B ternary system". Undergrad project (*iniciação científica*) [FAPESP], Grant number:	[21/06318-9].
+- "Ab-initio calculation and thermodynamic modeling of Mo-Si-B ternary system". Undergrad project (*iniciação científica*) [FAPESP], Grant number: [21/06318-9].
 
 [21/06318-9]: https://bv.fapesp.br/en/bolsas/197504/
 [USP]: https://www5.usp.br/
