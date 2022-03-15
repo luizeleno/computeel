@@ -1,418 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
+I"��<h6 id="below-youll-find-references-to-work-developed-within-the-scope-of-computeelmatsci-you-can-find-other-publications-from-different-collaborations-under-each-team-member-profile-page-including-links-to-academic-content-aggregators-doi-and-full-bibtex-entries-are-provided-so-that-you-can-easily-cite-us-wink">Below you’ll find references to work developed within the scope of <strong>ComputEEL/MatSci</strong>. You can find other publications, from different collaborations, under each team member <a href="/computeel/team">profile page</a>, including links to academic content aggregators. Doi and full $Bib\TeX$ entries are provided so that you can easily cite us :wink:!</h6>
 
-<head>
-  <meta charset="utf-8">
-  <title>ComputEEL/MatSci :: Pedro Pires Ferreira</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="shortcut icon" type="image/x-icon" href="/computeel/assets/images/logos/computeel-logoonly.png">
-  <link rel="stylesheet" href="/computeel/css/bootstrap.min.css">
-  <link href="/computeel/css/syntax.css" rel="stylesheet" type="text/css">
-  <link href="/computeel/css/theme.css" rel="stylesheet" type="text/css"><link type="application/atom+xml" rel="alternate" href="https://computeel.org/computeel/feed.xml" title="ComputEEL/MatSci" />
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-135477852-1', 'auto');
-    ga('send', 'pageview');
-  </script>
-
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Pedro Pires Ferreira | ComputEEL/MatSci</title>
-<meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="Pedro Pires Ferreira" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="I’m a 22-year-young Physical Engineer - i.e., neither a blue-ribbon physicist nor a tough, old-school engineer, but a messy entanglement of both - from the Lorena School of Engineering (EEL), University of São Paulo (USP ), Brazil. While still an undergrad I met Prof. Luiz T. F. Eleno (aka #Elenão) and started my long-road adventure in Computational Solid State Physics, with some tricky and cool unusual superconducting materials. It was love at first sight - for the Physics, not for Luiz, let me make that clear. Right after I completed my bachelor’s degree with honors (at least my mom was very proud of me) midyear in 2018, I started my master studies on Computational Materials Science with my in-progress dissertation “Ab-initio investigation of electronic and phononic properties of superconducting TMDs”. I still have a long and go-ahead journey to become a great scientist, but certainly, as you can see here in the website, I’ll enjoy a very nice company and some beer along the way." />
-<meta property="og:description" content="I’m a 22-year-young Physical Engineer - i.e., neither a blue-ribbon physicist nor a tough, old-school engineer, but a messy entanglement of both - from the Lorena School of Engineering (EEL), University of São Paulo (USP ), Brazil. While still an undergrad I met Prof. Luiz T. F. Eleno (aka #Elenão) and started my long-road adventure in Computational Solid State Physics, with some tricky and cool unusual superconducting materials. It was love at first sight - for the Physics, not for Luiz, let me make that clear. Right after I completed my bachelor’s degree with honors (at least my mom was very proud of me) midyear in 2018, I started my master studies on Computational Materials Science with my in-progress dissertation “Ab-initio investigation of electronic and phononic properties of superconducting TMDs”. I still have a long and go-ahead journey to become a great scientist, but certainly, as you can see here in the website, I’ll enjoy a very nice company and some beer along the way." />
-<link rel="canonical" href="https://computeel.org/computeel/team/FerreiraPedro.html" />
-<meta property="og:url" content="https://computeel.org/computeel/team/FerreiraPedro.html" />
-<meta property="og:site_name" content="ComputEEL/MatSci" />
-<meta property="og:image" content="https://computeel.org/computeel/pedro" />
-<meta property="og:type" content="article" />
-<meta property="article:published_time" content="2022-03-15T15:07:39-03:00" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="https://computeel.org/computeel/pedro" />
-<meta property="twitter:title" content="Pedro Pires Ferreira" />
-<script type="application/ld+json">
-{"description":"I’m a 22-year-young Physical Engineer - i.e., neither a blue-ribbon physicist nor a tough, old-school engineer, but a messy entanglement of both - from the Lorena School of Engineering (EEL), University of São Paulo (USP ), Brazil. While still an undergrad I met Prof. Luiz T. F. Eleno (aka #Elenão) and started my long-road adventure in Computational Solid State Physics, with some tricky and cool unusual superconducting materials. It was love at first sight - for the Physics, not for Luiz, let me make that clear. Right after I completed my bachelor’s degree with honors (at least my mom was very proud of me) midyear in 2018, I started my master studies on Computational Materials Science with my in-progress dissertation “Ab-initio investigation of electronic and phononic properties of superconducting TMDs”. I still have a long and go-ahead journey to become a great scientist, but certainly, as you can see here in the website, I’ll enjoy a very nice company and some beer along the way.","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://computeel.org/computeel/team/FerreiraPedro.html"},"image":"https://computeel.org/computeel/pedro","headline":"Pedro Pires Ferreira","dateModified":"2022-03-15T15:07:39-03:00","datePublished":"2022-03-15T15:07:39-03:00","url":"https://computeel.org/computeel/team/FerreiraPedro.html","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-  
-
-
-  <!-- JS -->
-  <script src="/computeel/js/jquery.min.js"></script>
-  <script src="/computeel/js//popper.min.js"></script>
-  <script src="/computeel/js/bootstrap.min.js"></script>
-  <script>
-    
-    var elements = document.querySelectorAll('p');
-    Array.prototype.forEach.call(elements, function(el, i){
-        if(el.innerHTML=='[expand]') {
-            var parentcontent = el.parentNode.innerHTML.replace('<p>[expand]</p>','<div class="expand" style="display: none; height: 0; overflow: hidden;">').replace('<p>[/expand]</p>','</div>');
-            el.parentNode.innerHTML = parentcontent;
-        }
-    });
-
-    var elements = document.querySelectorAll('div.expand');
-    Array.prototype.forEach.call(elements, function(el, i){
-        el.previousElementSibling.innerHTML = el.previousElementSibling.innerHTML + '<span>..&nbsp; <a href="#" style="cursor: pointer;" onclick="this.parentNode.parentNode.nextElementSibling.style.display = \'block\'; this.parentNode.parentNode.nextElementSibling.style.height = \'auto\'; this.parentNode.style.display = \'none\';">read&nbsp;more&nbsp;&rarr;</a></span>';
-    });
-
-</script>
-
-  <link type="text/css" rel="stylesheet" href="/computeel/js/lightslider/css/lightslider.css" />
-  <script src="/computeel/js/lightslider/js/lightslider.js"></script>
-
-</head>
-
-<body>
-
-<div class="fixed-top">
-
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark py-0 my-0" role="navigation">
-    <a class="navbar-brand" href="/computeel/">ComputEEL/MatSci</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
-        
-        
-        <li class="nav-item">
-          <a class="nav-link" href="/computeel/team/">Team</a>
-        </li>
-        
-      
-        
-        <li class="nav-item">
-          <a class="nav-link" href="/computeel/papers/">Publications</a>
-        </li>
-        
-      
-        
-        <li class="nav-item">
-          <a class="nav-link" href="/computeel/news/">News</a>
-        </li>
-        
-      
-        
-        <li class="nav-item">
-          <a class="nav-link" href="/computeel/blog/">Blog</a>
-        </li>
-        
-      
-        
-        <li class="nav-item">
-          <a class="nav-link" href="/computeel/contact/">Contact</a>
-        </li>
-        
-      
-    </ul>
-
-    <div class="my-2 mr-2 my-lg-0">
-      <a id="no-ext-link" href="https://www5.usp.br" title="USP"><img src="/computeel/assets/images/logos/usp-2018-logo.png" height="30px"></a>
-    </div>
-
-    <div class="my-2 mr-2 my-lg-0">
-      <a id="no-ext-link" href="http://www.demar.eel.usp.br/en/" title="EEL"><img src="/computeel/assets/images/logos/logo_eel_2017.png" height="30px"></a>
-    </div>
-
-  </div>
-</nav>
-
-<hr class="top-color-bar" style="background-color:#fcb421;">
-<hr class="top-color-bar" style="background-color:#64c4d2;">
-<hr class="top-color-bar" style="background-color:#1094ab;">
+<div style="display:none">
+<a class="citation" href="#Dorini2021">(Dorini <i>et al.</i>, 2021; Bhattacharyya <i>et al.</i>, 2020; de Freitas <i>et al.</i>, 2019; Ferreira <i>et al.</i>, 2018; Ferreira <i>et al.</i>, 2018; Dorini &amp; Eleno, 2018; de Lima <i>et al.</i>, 2018; Machado <i>et al.</i>, 2017; Dorini &amp; Eleno, 2019; Ferreira <i>et al.</i>, 2021; Santos <i>et al.</i>, 2021; Silva <i>et al.</i>, 2021; De Faria <i>et al.</i>, 2021; Bhattacharyya <i>et al.</i>, 2021; Correa <i>et al.</i>, 2022)</a>
 </div>
-
-
-  <div class="container">
-    <div class="row">
-      
-        <div class="col-lg-3 padding-0 hidden-xs">
-          <div class="d-none d-lg-block">
-  <div class="sidebar well">
-    <h1>ComputEEL/MatSci</h1>
-    <!-- <a href="/computeel/computeel/news/2019/03/02/computeellogo.html"> -->
-      <!-- <img class="border center" alt="ComputEEL/MatSci logo" title="ComputEEL/MatSci Logo" src="/assets/images/logos/logo-v1.jpeg" width="100%"> -->
-      <div id="paperimages" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    
-      
-        <li data-target="#paperimages" data-slide-to="0" class="active"></li>
-      
-    
-      
-        <li data-target="#paperimages" data-slide-to="1"></li>
-      
-    
-      
-        <li data-target="#paperimages" data-slide-to="2"></li>
-      
-    
-      
-        <li data-target="#paperimages" data-slide-to="3"></li>
-      
-    
-      
-        <li data-target="#paperimages" data-slide-to="4"></li>
-      
-    
-      
-        <li data-target="#paperimages" data-slide-to="5"></li>
-      
-    
-      
-        <li data-target="#paperimages" data-slide-to="6"></li>
-      
-    
-      
-        <li data-target="#paperimages" data-slide-to="7"></li>
-      
-    
-  </ol>
-  <div class="carousel-inner">
-    
-      <div class="carousel-item active">
-        
-          <a href="https://doi.org/10.1103/PhysRevB.103.125134" id="no-ext-link" target="_blank">
-        
-        <img class="d-block rounded" style="height:250px; width:auto" src="/computeel/assets/images/carousel/paper-images/nite2.png" alt="NiTe2 Dirac cone tunability" title="NiTe2 Dirac cone tunability (click to go to the paper)">
-        </a>
-        <div class="carousel-caption d-none d-md-block">
-          <h5>PRB 103, 125134 (2021)</h5>
-        </div>
-      </div>
-    
-      <div class="carousel-item ">
-        
-          <a href="https://doi.org/10.1103/PhysRevResearch.2.022001" id="no-ext-link" target="_blank">
-        
-        <img class="d-block rounded" style="height:250px; width:auto" src="/computeel/assets/images/carousel/paper-images/india.png" alt="σsc(T) data in field-cooling mode with fits using various gap models in HfV2Ga4" title="σsc(T) data in field-cooling mode with fits using various gap models in HfV2Ga4 (click to go to the paper)">
-        </a>
-        <div class="carousel-caption d-none d-md-block">
-          <h5>PRR 2 (2020) 022001(R)</h5>
-        </div>
-      </div>
-    
-      <div class="carousel-item ">
-        
-          <a href="https://doi.org/10.1016/j.calphad.2019.101687" id="no-ext-link" target="_blank">
-        
-        <img class="d-block rounded" style="height:250px; width:auto" src="/computeel/assets/images/carousel/paper-images/Pb-Bi.jpg" alt="Liquid Bi–Pb and Bi–Li alloys: Mining thermodynamic properties from ab-initio molecular dynamics calculations using thermodynamic models" title="Liquid Bi–Pb and Bi–Li alloys: Mining thermodynamic properties from ab-initio molecular dynamics calculations using thermodynamic models (click to go to the paper)">
-        </a>
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Calphad 67 (2019) 101687</h5>
-        </div>
-      </div>
-    
-      <div class="carousel-item ">
-        
-          <a href="https://doi.org/10.1016/j.calphad.2019.101676" id="no-ext-link" target="_blank">
-        
-        <img class="d-block rounded" style="height:250px; width:auto" src="/computeel/assets/images/carousel/paper-images/bruno.jpg" alt="Formation enthalpies in Zn-RE systems" title="Formation enthalpies in Zn-RE systems (click to go to the paper)">
-        </a>
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Calphad 67 (2019) 101676</h5>
-        </div>
-      </div>
-    
-      <div class="carousel-item ">
-        
-          <a href="http://doi.org/10.1016/j.mtla.2018.11.008" id="no-ext-link" target="_blank">
-        
-        <img class="d-block rounded" style="height:250px; width:auto" src="/computeel/assets/images/carousel/paper-images/E-3Dplot.png" alt="ZrV2Ga4 Young modulus" title="ZrV2Ga4 Young modulus (click to go to the paper)">
-        </a>
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Materialia 4 (2018) 529</h5>
-        </div>
-      </div>
-    
-      <div class="carousel-item ">
-        
-          <a href="http://doi.org/10.1103/PhysRevB.98.045126" id="no-ext-link" target="_blank">
-        
-        <img class="d-block rounded" style="height:250px; width:auto" src="/computeel/assets/images/carousel/paper-images/HfV2Ga-dens.png" alt="HfV2Ga3 electronic density in (001) planes" title="HfV2Ga3 electronic density in (001) planes (click to go to the paper)">
-        </a>
-        <div class="carousel-caption d-none d-md-block">
-          <h5>PRB 98 (2018) 045126</h5>
-        </div>
-      </div>
-    
-      <div class="carousel-item ">
-        
-          <a href="http://doi.org/10.1016/j.calphad.2018.05.004" id="no-ext-link" target="_blank">
-        
-        <img class="d-block rounded" style="height:250px; width:auto" src="/computeel/assets/images/carousel/paper-images/NiIn-PhD.png" alt="Ni-In phase diagram" title="Ni-In phase diagram (click to go to the paper)">
-        </a>
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Calphad 62 (2018) 42</h5>
-        </div>
-      </div>
-    
-      <div class="carousel-item ">
-        
-          <a href="http://doi.org/10.1016/j.ssc.2018.08.014" id="no-ext-link" target="_blank">
-        
-        <img class="d-block rounded" style="height:250px; width:auto" src="/computeel/assets/images/carousel/paper-images/NiTiTe2-bands.png" alt="NiTiTe2 band structure" title="NiTiTe2 band structure (click to go to the paper)">
-        </a>
-        <div class="carousel-caption d-none d-md-block">
-          <h5>SSC 283 (2018) 27</h5>
-        </div>
-      </div>
-    
-  </div>
-</div>
-
-    <!-- </a> -->
-  </div>
-
-  <div class="sidebar well">
-    <h1>Pages</h1>
-    <ul>
-      
-        <li>
-          <a href="/computeel/">Home</a>
-        </li>
-      
-      
-        
-            <li>
-              <a href="/computeel/team/">Team</a>
-            </li>
-          
-      
-        
-            <li>
-              <a href="/computeel/papers/">Publications</a>
-            </li>
-          
-      
-        
-            <li>
-              <a href="/computeel/news/">News</a>
-            </li>
-          
-      
-        
-            <li>
-              <a href="/computeel/blog/">Blog</a>
-            </li>
-          
-      
-        
-            <li>
-              <a href="/computeel/contact/">Contact</a>
-            </li>
-          
-      
-    </ul>
-  </div>
-
-  <div class="sidebar well">
-    <h1>Breaking news</h1>
-    <ul>
-      
-      <li><a href="/computeel/news/2020/09/18/master-mozao.html">P. P. Ferreira, the newest MSci. at Computeel</a></li>
-      
-      <li><a href="/computeel/news/2020/01/13/MiniTotal2020.html">Workshop Total Energy and Force Methods 2020</a></li>
-      
-      <li><a href="/computeel/news/2019/11/27/mozao.html">P. P. Ferreira MSci. qualifying exam</a></li>
-      
-      <li><a href="/computeel/news/2019/09/19/dorini.html">New Master of Science in the group</a></li>
-      
-      <li><a href="/computeel/news/2019/08/19/workchopp.html">2nd Meeting - Technological Frontiers in Engineering</a></li>
-      
-    </ul>
-    <a href="/computeel/news">More...</a>
-  </div>
-
-  <div class="sidebar well">
-    <h1>Recent posts</h1>
-    <ul>
-      
-        <li><a href="/computeel/blog/2019/02/18/LaTeX.html">LaTeX tutorial for newbies</a></li>
-      
-        <li><a href="/computeel/blog/2019/01/17/Bibtex.html">How to grab bib from doi</a></li>
-      
-    </ul>
-    <a href="/computeel/blog">More...</a>
-  </div>
-
-</div>
-
-        </div>
-      
-      
-        <div class="col-lg-9">
-      
-        <div class="well">
-
-<div class="mininav">
-<p><a rel="author" href="/computeel/">
-ComputEEL/MatSci</a>
->
-<a href="/computeel/team">Team</a>
->
-Pedro Pires Ferreira</p>
-</div>
-
-<hr>
-<h1>Pedro Pires Ferreira
-
-
-<a href="http://www.researcherid.com/rid/D-1419-2019" id="no-ext-link"><img src="/computeel/assets/images/logos/ResID.gif" title="ResearcherID" style="width:.8em;margin-right:.2em;"></a>
-
-
-<a href="https://orcid.org/0000-0002-1135-0570" id="no-ext-link"><img src="/computeel/assets/images/logos/ORCID.png" title="ORCID" style="width:.8em;margin-right:.2em;"></a>
-
-
-<a href=https://scholar.google.com.br/citations?hl=en&user=znT2QDIAAAAJ id="no-ext-link"><img src="/computeel/assets/images/logos/googlescholar.jpg" title="Google Scholar" style="width:.8em;margin-right:.2em;"></a>
-
-
-<a href="http://lattes.cnpq.br/6935367749223404" id="no-ext-link"><img src="/computeel/assets/images/logos/lattes.jpg" title="Lattes" style="width:.8em;margin-right:.2em;"></a>
-
-</h1>
-
-
-<h2>
-
-Team member
-
-</h2>
-
-
-
-
-<a href="/computeel/assets/CVs/CV-PedroPiresFerreira.pdf">CV (pdf)</a>
-<br><br>
-
-
-
-<img class="float-right shadow-lg rounded mx-3" src="/computeel/assets/images/people/pedro.jpg" width="30%">
-
-<div class="clearfix">
-
-<p>I’m a 22-year-young Physical Engineer - i.e., neither a blue-ribbon physicist nor a tough, old-school engineer, but a messy entanglement of both - from the Lorena School of Engineering (<a href="https://site.eel.usp.br/">EEL</a>), University of São Paulo (<a href="https://www5.usp.br/">USP</a> ), Brazil. While still an undergrad I met Prof. Luiz T. F. Eleno (aka #Elenão) and started my long-road adventure in Computational Solid State Physics, with some tricky and cool unusual superconducting materials. It was love at first sight - for the Physics, not for Luiz, let me make that clear. Right after I completed my bachelor’s degree with honors (at least my mom was very proud of me) midyear in 2018, I started my master studies on Computational Materials Science with my in-progress dissertation <em>“Ab-initio investigation of electronic and phononic properties of superconducting TMDs”</em>. I still have a long and go-ahead journey to become a great scientist, but certainly, as you can see here in the website, I’ll enjoy a very nice company and some beer along the way.</p>
-
-<hr />
-<h1 id="grants">Grants</h1>
-
-<ul>
-  <li>“Estudo ab initio de sistemas supercondutores e topológicos”. PhD project (<em>doutorado</em>) <a href="http://www.fapesp.br/en/">FAPESP</a>, Grant number:	<a href="https://bv.fapesp.br/en/bolsas/193915">20/08258-0</a>.</li>
-  <li>“Ab-initio investigation of electronic and phononic properties of superconducting TMDs”. Master project (<em>mestrado</em>) <a href="http://www.fapesp.br/en/">FAPESP</a>, Grant number:	<a href="https://bv.fapesp.br/en/bolsas/180283">18/10835-6</a>.</li>
-  <li>“Ab-initio electronic structure and elastic properties of the compound ScV2Ga4”. Undergrad project (<em>iniciação científica</em>) <a href="http://www.fapesp.br/en/">FAPESP</a>, Grant number:	<a href="https://bv.fapesp.br/en/bolsas/172585">17/11023-2</a>.</li>
-</ul>
-
-
-</div>
-
-<hr>
-<h1>Scientific publications</h1>
 
 <ol class="bibliography" reversed="reversed"><li><span id="Correa2022"><span style="font-variant: small-caps">Correa</span>, L.E., <span style="font-variant: small-caps">Ferreira</span>, P.P., <span style="font-variant: small-caps">de Faria</span>, L.R., <span style="font-variant: small-caps">Dorini</span>, T.T., <span style="font-variant: small-caps">da Luz</span>, M.S., <span style="font-variant: small-caps">Fisk</span>, Z., <span style="font-variant: small-caps">Torikachvili</span>, M.S., <span style="font-variant: small-caps">Eleno</span>, L.T.F., &amp; <span style="font-variant: small-caps">Machado</span>, A.J.S. (2022) Evidence for multiband superconductivity and charge density waves in Ni-doped ZrTe2. <i>Journal of Alloys and Compounds</i>, <b>907</b>, 164477.</span>
 
@@ -446,6 +36,40 @@ Team member
   <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1016/j.jallcom.2022.164477"</span><span class="p">,</span>
   <span class="na">publisher</span> <span class="p">=</span> <span class="s">"Elsevier {BV}"</span><span class="p">,</span>
   <span class="na">url</span> <span class="p">=</span> <span class="s">"https://doi.org/10.1016%2Fj.jallcom.2022.164477"</span>
+<span class="p">}</span></code></pre></figure>
+</li>
+<li><span id="Silva2021"><span style="font-variant: small-caps">Silva</span>, A.A.A.P., <span style="font-variant: small-caps">Lamoglia</span>, M.S., <span style="font-variant: small-caps">Silva</span>, G., <span style="font-variant: small-caps">Fiorani</span>, J.-M., <span style="font-variant: small-caps">David</span>, N., <span style="font-variant: small-caps">Vilasi</span>, M., <span style="font-variant: small-caps">Coelho</span>, G.C., <span style="font-variant: small-caps">Nunes</span>, C.A., &amp; <span style="font-variant: small-caps">Eleno</span>, L.T.F. (2021) Heat capacity measurements of the Fe2Nb and Fe7Nb6 intermetallic compounds. <i>J. Alloys Compd.</i>, <b>878</b>, 160411.</span>
+
+
+<p>DOI: <a href="https://doi.org/10.1016/j.jallcom.2021.160411">10.1016/j.jallcom.2021.160411</a></p>
+
+
+<!-- <pre class="highlight">@article{Silva2021,
+  author = "Silva, Antonio A. A. P. and Lamoglia, Marcela S. and Silva, Gilbert and Fiorani, Jean-Marc and David, Nicolas and Vilasi, Michel and Coelho, Gilberto C. and Nunes, Carlos A. and Eleno, Luiz T. F.",
+  title = "{Heat capacity measurements of the Fe2Nb and Fe7Nb6 intermetallic compounds}",
+  journal = "J. Alloys Compd.",
+  year = "2021",
+  volume = "878",
+  pages = "160411",
+  month = oct,
+  issn = "0925-8388",
+  computeel = "Eleno",
+  doi = "10.1016/j.jallcom.2021.160411",
+  publisher = "Elsevier"
+}
+</pre> -->
+<figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Silva2021</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Silva, Antonio A. A. P. and Lamoglia, Marcela S. and Silva, Gilbert and Fiorani, Jean-Marc and David, Nicolas and Vilasi, Michel and Coelho, Gilberto C. and Nunes, Carlos A. and Eleno, Luiz T. F."</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"{Heat capacity measurements of the Fe2Nb and Fe7Nb6 intermetallic compounds}"</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">"J. Alloys Compd."</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2021"</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">"878"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"160411"</span><span class="p">,</span>
+  <span class="na">month</span> <span class="p">=</span> <span class="nv">oct</span><span class="p">,</span>
+  <span class="na">issn</span> <span class="p">=</span> <span class="s">"0925-8388"</span><span class="p">,</span>
+  <span class="na">computeel</span> <span class="p">=</span> <span class="s">"Eleno"</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1016/j.jallcom.2021.160411"</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">"Elsevier"</span>
 <span class="p">}</span></code></pre></figure>
 </li>
 <li><span id="Santos2021"><span style="font-variant: small-caps">Santos</span>, J.C.P.dos, <span style="font-variant: small-caps">Silva</span>, A.A.A.P.da, <span style="font-variant: small-caps">Ferreira</span>, P.P., <span style="font-variant: small-caps">Dorini</span>, T.T., <span style="font-variant: small-caps">Barros</span>, D.F.de, <span style="font-variant: small-caps">Abreu</span>, D.A.de, <span style="font-variant: small-caps">Eleno</span>, L.T.F., <span style="font-variant: small-caps">Nunes</span>, C.A., &amp; <span style="font-variant: small-caps">Coelho</span>, G.C. (2021) Thermodynamic modeling of the Al–Nb–V system. <i>Calphad</i>, <b>74</b>, 102321.</span>
@@ -644,6 +268,90 @@ Team member
   <span class="na">issue</span> <span class="p">=</span> <span class="s">"2"</span>
 <span class="p">}</span></code></pre></figure>
 </li>
+<li><span id="bruno2019"><span style="font-variant: small-caps">de Freitas</span>, B.X., <span style="font-variant: small-caps">Dorini</span>, T.T., <span style="font-variant: small-caps">Coelho</span>, G.C., <span style="font-variant: small-caps">Nunes</span>, C.A., &amp; <span style="font-variant: small-caps">Eleno</span>, L.T.F. (2019) Thermodynamic assessment of the RE–Zn (RE = Dy, Er, Ho, Tb) binaries as a starting step for a Mg–Zn–Zr–Rare earth multicomponent database. <i>Calphad</i>, <b>67</b>, 101676.</span>
+
+
+<p>DOI: <a href="https://doi.org/10.1016/j.calphad.2019.101676">10.1016/j.calphad.2019.101676</a></p>
+
+
+<!-- <pre class="highlight">@article{bruno2019,
+  title = "Thermodynamic assessment of the RE–Zn (RE = Dy, Er, Ho, Tb) binaries as a starting step for a Mg–Zn–Zr–Rare earth multicomponent database",
+  author = "de Freitas, Bruno X. and Dorini, Thiago T. and Coelho, Gilberto C. and Nunes, Carlos A. and Eleno, Luiz T.F.",
+  journal = "Calphad",
+  volume = "67",
+  pages = "101676",
+  year = "2019",
+  doi = "10.1016/j.calphad.2019.101676",
+  computeel = "Eleno, Dorini"
+}
+</pre> -->
+<figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">bruno2019</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"Thermodynamic assessment of the RE–Zn (RE = Dy, Er, Ho, Tb) binaries as a starting step for a Mg–Zn–Zr–Rare earth multicomponent database"</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"de Freitas, Bruno X. and Dorini, Thiago T. and Coelho, Gilberto C. and Nunes, Carlos A. and Eleno, Luiz T.F."</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">"Calphad"</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">"67"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"101676"</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2019"</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1016/j.calphad.2019.101676"</span><span class="p">,</span>
+  <span class="na">computeel</span> <span class="p">=</span> <span class="s">"Eleno, Dorini"</span>
+<span class="p">}</span></code></pre></figure>
+</li>
+<li><span id="Dorini2019"><span style="font-variant: small-caps">Dorini</span>, T.T. &amp; <span style="font-variant: small-caps">Eleno</span>, L.T.F. (2019) Liquid Bi-Pb and Bi-Li alloys: Mining thermodynamic properties from ab-initio molecular dynamics calculations using thermodynamic models. <i>Calphad</i>, <b>67</b>, 101687.</span>
+
+
+<p>DOI: <a href="https://doi.org/10.1016/j.calphad.2019.101687">10.1016/j.calphad.2019.101687</a></p>
+
+
+<!-- <pre class="highlight">@article{Dorini2019,
+  author = "Dorini, Thiago T. and Eleno, Luiz T.F.",
+  title = "Liquid Bi-Pb and Bi-Li alloys: Mining thermodynamic properties from ab-initio molecular dynamics calculations using thermodynamic models",
+  journal = "Calphad",
+  year = "2019",
+  volume = "67",
+  pages = "101687",
+  computeel = "Eleno, Dorini",
+  doi = "10.1016/j.calphad.2019.101687"
+}
+</pre> -->
+<figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Dorini2019</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Dorini, Thiago T. and Eleno, Luiz T.F."</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"Liquid Bi-Pb and Bi-Li alloys: Mining thermodynamic properties from ab-initio molecular dynamics calculations using thermodynamic models"</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">"Calphad"</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2019"</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">"67"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"101687"</span><span class="p">,</span>
+  <span class="na">computeel</span> <span class="p">=</span> <span class="s">"Eleno, Dorini"</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1016/j.calphad.2019.101687"</span>
+<span class="p">}</span></code></pre></figure>
+</li>
+<li><span id="de_Lima_2018"><span style="font-variant: small-caps">de Lima</span>, B.S., <span style="font-variant: small-caps">de Cassia</span>, R.R., <span style="font-variant: small-caps">Santos</span>, F.B., <span style="font-variant: small-caps">Correa</span>, L.E., <span style="font-variant: small-caps">Grant</span>, T.W., <span style="font-variant: small-caps">Manesco</span>, A.L.R., <span style="font-variant: small-caps">Martins</span>, G.W., <span style="font-variant: small-caps">Eleno</span>, L.T.F., <span style="font-variant: small-caps">Torikachvili</span>, M.S., &amp; <span style="font-variant: small-caps">Machado</span>, A.J.S. (2018) Properties and superconductivity in Ti-doped NiTe2 single crystals. <i>Solid State Communications</i>, <b>283</b>, 27–31.</span>
+
+
+<p>DOI: <a href="https://doi.org/10.1016/j.ssc.2018.08.014">10.1016/j.ssc.2018.08.014</a></p>
+
+
+<!-- <pre class="highlight">@article{de_Lima_2018,
+  doi = "10.1016/j.ssc.2018.08.014",
+  year = "2018",
+  volume = "283",
+  pages = "27-31",
+  author = "de Lima, B.S. and de Cassia, R.R. and Santos, F.B. and Correa, L.E. and Grant, T.W. and Manesco, A.L.R. and Martins, GW and Eleno, LTF and Torikachvili, M.S. and Machado, A.J.S.",
+  title = "Properties and superconductivity in Ti-doped {NiTe}2 single crystals",
+  journal = "Solid State Communications",
+  computeel = "Eleno, Correa, Manesco, Martins, Machado"
+}
+</pre> -->
+<figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">de_Lima_2018</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1016/j.ssc.2018.08.014"</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2018"</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">"283"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"27-31"</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"de Lima, B.S. and de Cassia, R.R. and Santos, F.B. and Correa, L.E. and Grant, T.W. and Manesco, A.L.R. and Martins, GW and Eleno, LTF and Torikachvili, M.S. and Machado, A.J.S."</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"Properties and superconductivity in Ti-doped {NiTe}2 single crystals"</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">"Solid State Communications"</span><span class="p">,</span>
+  <span class="na">computeel</span> <span class="p">=</span> <span class="s">"Eleno, Correa, Manesco, Martins, Machado"</span>
+<span class="p">}</span></code></pre></figure>
+</li>
 <li><span id="Ferreira_2018"><span style="font-variant: small-caps">Ferreira</span>, P.P., <span style="font-variant: small-caps">Dorini</span>, T.T., <span style="font-variant: small-caps">Santos</span>, F.B., <span style="font-variant: small-caps">Machado</span>, A.J.S., &amp; <span style="font-variant: small-caps">Eleno</span>, L.T.F. (2018) Elastic anisotropy and thermal properties of extended linear chain compounds MV2Ga4 (M = Sc, Zr, Hf) from ab-initio calculations. <i>Materialia</i>, <b>4</b>, 529–539.</span>
 
 
@@ -703,28 +411,64 @@ Team member
   <span class="na">computeel</span> <span class="p">=</span> <span class="s">"Eleno, Ferreira, Machado, Santos"</span><span class="p">,</span>
   <span class="na">addendum</span> <span class="p">=</span> <span class="s">"(2 citations)"</span>
 <span class="p">}</span></code></pre></figure>
+</li>
+<li><span id="Dorini_2018"><span style="font-variant: small-caps">Dorini</span>, T.T. &amp; <span style="font-variant: small-caps">Eleno</span>, L.T.F. (2018) Thermodynamic reassessment of the Ni-In system using ab-initio data for end-member compound energies. <i>Calphad</i>, <b>62</b>, 42–48.</span>
+
+
+<p>DOI: <a href="https://doi.org/10.1016/j.calphad.2018.05.004">10.1016/j.calphad.2018.05.004</a></p>
+
+
+<!-- <pre class="highlight">@article{Dorini_2018,
+  doi = "10.1016/j.calphad.2018.05.004",
+  year = "2018",
+  volume = "62",
+  pages = "42-48",
+  author = "Dorini, Thiago T. and Eleno, LTF",
+  title = "Thermodynamic reassessment of the Ni-In system using ab-initio data for end-member compound energies",
+  journal = "Calphad",
+  computeel = "Eleno, Dorini"
+}
+</pre> -->
+<figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Dorini_2018</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1016/j.calphad.2018.05.004"</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2018"</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">"62"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"42-48"</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Dorini, Thiago T. and Eleno, LTF"</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"Thermodynamic reassessment of the Ni-In system using ab-initio data for end-member compound energies"</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">"Calphad"</span><span class="p">,</span>
+  <span class="na">computeel</span> <span class="p">=</span> <span class="s">"Eleno, Dorini"</span>
+<span class="p">}</span></code></pre></figure>
+</li>
+<li><span id="Machado2017"><span style="font-variant: small-caps">Machado</span>, A.J.S., <span style="font-variant: small-caps">Baptista</span>, N.P., <span style="font-variant: small-caps">de Lima</span>, B.S., <span style="font-variant: small-caps">Chaia</span>, N., <span style="font-variant: small-caps">Grant</span>, T.W., <span style="font-variant: small-caps">Corrêa</span>, L.E., <span style="font-variant: small-caps">Renosto</span>, S.T., <span style="font-variant: small-caps">Scaramussa</span>, A.C., <span style="font-variant: small-caps">Jardim</span>, R.F., <span style="font-variant: small-caps">Torikachvili</span>, M.S., <span style="font-variant: small-caps">de Aguiar</span>, J.A.O., <span style="font-variant: small-caps">Cigarroa</span>, O.C., <span style="font-variant: small-caps">Eleno</span>, L.T.F., &amp; <span style="font-variant: small-caps">Fisk</span>, Z. (2017) Evidence for topological behavior in superconducting Cu_xZrTe_2-y. <i>Physical Review B</i>, <b>95</b>, 144505.</span>
+
+
+<p>DOI: <a href="https://doi.org/10.1103/PhysRevB.95.144505">10.1103/PhysRevB.95.144505</a></p>
+
+
+<!-- <pre class="highlight">@article{Machado2017,
+  author = "Machado, A. J. S. and Baptista, N. P. and de Lima, B. S. and Chaia, N. and Grant, T. W. and Corrêa, L. E. and Renosto, S. T. and Scaramussa, A. C. and Jardim, R. F. and Torikachvili, M. S. and de Aguiar, J. A. O. and Cigarroa, O. C. and Eleno, LTF and Fisk, Z.",
+  title = "Evidence for topological behavior in superconducting Cu$_x$ZrTe$_{2-y}$",
+  journal = "Physical Review B",
+  year = "2017",
+  volume = "95",
+  doi = "10.1103/PhysRevB.95.144505",
+  pages = "144505",
+  computeel = "Eleno, Machado, Correa",
+  addendum = "(6 citations)"
+}
+</pre> -->
+<figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Machado2017</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Machado, A. J. S. and Baptista, N. P. and de Lima, B. S. and Chaia, N. and Grant, T. W. and Corrêa, L. E. and Renosto, S. T. and Scaramussa, A. C. and Jardim, R. F. and Torikachvili, M. S. and de Aguiar, J. A. O. and Cigarroa, O. C. and Eleno, LTF and Fisk, Z."</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"Evidence for topological behavior in superconducting Cu$_x$ZrTe$_{2-y}$"</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">"Physical Review B"</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2017"</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">"95"</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1103/PhysRevB.95.144505"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"144505"</span><span class="p">,</span>
+  <span class="na">computeel</span> <span class="p">=</span> <span class="s">"Eleno, Machado, Correa"</span><span class="p">,</span>
+  <span class="na">addendum</span> <span class="p">=</span> <span class="s">"(6 citations)"</span>
+<span class="p">}</span></code></pre></figure>
 </li></ol>
 
-</div>
-
-        
-<p style="font-size:.8em" align="right" class="rss-subscribe"><img src="/computeel/assets/images/clipart/Rss-feed.png" width="16px">
-subscribe <a href="/computeelfeed.xml" | relative_url }}">via RSS</a></p>
-
-
-      </div>
-    </div>
-  </div>
-
-<footer class="footer navbar-dark bg-dark">
-    © 2022 Luiz T. F. Eleno.
-    Contact: <a href="mailto:computeel@usp.br">computeel@usp.br</a>.
-    Powered by <a href="http://jekyllrb.com" id="no-ext-link">Jekyll</a> and <a href="https://pages.github.com/" id="no-ext-link">Github pages</a>.
-    <a href="https://github.com/scotte/jekyll-clean" id="no-ext-link">Original theme</a>
-    under
-    <a href="http://creativecommons.org/licenses/by/4.0/" id="no-ext-link">Creative Commons Attribution</a>
-</footer>
-
-</body>
-</html>
-
+:ET
