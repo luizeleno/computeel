@@ -1,6 +1,6 @@
 ---
 short_name: JoaoPedro
-apelido: ???
+apelido: Jão Segredo
 bibname: Cardoso
 title: João Pedro Ribeiro Cardoso
 position: Undergraduate Student
