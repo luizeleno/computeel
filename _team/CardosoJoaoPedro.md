@@ -2,7 +2,7 @@
 short_name: JoaoPedro
 apelido: ???
 bibname: Cardoso
-title: Jão Pedro Ribeiro Cardoso
+title: João Pedro Ribeiro Cardoso
 position: Undergraduate Student
 image: joaopedro
 Lattes: 
