@@ -1,5 +1,10 @@
 paperimages:
 
+  - title: "Nodeless time-reversal symmetry breaking in Sc5Co4Si10"
+    url: /assets/images/carousel/paper-images/sccosi.jpg
+    caption: PRM 6, 064802 (2022)
+    link: "https://doi.org/10.1103/PhysRevMaterials.6.064802"
+
   - title: "NiTe2 Dirac cone tunability"
     url: /assets/images/carousel/paper-images/nite2.png
     caption: PRB 103, 125134 (2021)

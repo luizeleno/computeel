@@ -1,7 +1,7 @@
-I"ƒ°<h6 id="below-youll-find-references-to-work-developed-within-the-scope-of-computeelmatsci-you-can-find-other-publications-from-different-collaborations-under-each-team-member-profile-page-including-links-to-academic-content-aggregators-doi-and-full-bibtex-entries-are-provided-so-that-you-can-easily-cite-us-wink">Below youâ€™ll find references to work developed within the scope of <strong>ComputEEL/MatSci</strong>. You can find other publications, from different collaborations, under each team member <a href="/computeel/team">profile page</a>, including links to academic content aggregators. Doi and full $Bib\TeX$ entries are provided so that you can easily cite us :wink:!</h6>
+I"ú½<h6 id="below-youll-find-references-to-work-developed-within-the-scope-of-computeelmatsci-you-can-find-other-publications-from-different-collaborations-under-each-team-member-profile-page-including-links-to-academic-content-aggregators-doi-and-full-bibtex-entries-are-provided-so-that-you-can-easily-cite-us-wink">Below youâ€™ll find references to work developed within the scope of <strong>ComputEEL/MatSci</strong>. You can find other publications, from different collaborations, under each team member <a href="/computeel/team">profile page</a>, including links to academic content aggregators. Doi and full $Bib\TeX$ entries are provided so that you can easily cite us :wink:!</h6>
 
 <div style="display:none">
-<a class="citation" href="#Dorini2021">(Dorini <i>et al.</i>, 2021; Bhattacharyya <i>et al.</i>, 2020; de Freitas <i>et al.</i>, 2019; Ferreira <i>et al.</i>, 2018; Ferreira <i>et al.</i>, 2018; Dorini &amp; Eleno, 2018; de Lima <i>et al.</i>, 2018; Machado <i>et al.</i>, 2017; Dorini &amp; Eleno, 2019; Ferreira <i>et al.</i>, 2021; Santos <i>et al.</i>, 2021; Silva <i>et al.</i>, 2021; De Faria <i>et al.</i>, 2021; Bhattacharyya <i>et al.</i>, 2021; Correa <i>et al.</i>, 2022)</a>
+<a class="citation" href="#Dorini2021">(Dorini <i>et al.</i>, 2021; Bhattacharyya <i>et al.</i>, 2020; de Freitas <i>et al.</i>, 2019; Ferreira <i>et al.</i>, 2018; Ferreira <i>et al.</i>, 2018; Dorini &amp; Eleno, 2018; de Lima <i>et al.</i>, 2018; Machado <i>et al.</i>, 2017; Dorini &amp; Eleno, 2019; Ferreira <i>et al.</i>, 2021; Santos <i>et al.</i>, 2021; Silva <i>et al.</i>, 2021; De Faria <i>et al.</i>, 2021; Bhattacharyya <i>et al.</i>, 2021; Correa <i>et al.</i>, 2022; Bhattacharyya <i>et al.</i>, 2022)</a>
 </div>
 
 <ol class="bibliography" reversed="reversed"><li><span id="Correa2022"><span style="font-variant: small-caps">Correa</span>, L.E., <span style="font-variant: small-caps">Ferreira</span>, P.P., <span style="font-variant: small-caps">de Faria</span>, L.R., <span style="font-variant: small-caps">Dorini</span>, T.T., <span style="font-variant: small-caps">da Luz</span>, M.S., <span style="font-variant: small-caps">Fisk</span>, Z., <span style="font-variant: small-caps">Torikachvili</span>, M.S., <span style="font-variant: small-caps">Eleno</span>, L.T.F., &amp; <span style="font-variant: small-caps">Machado</span>, A.J.S. (2022) Evidence for multiband superconductivity and charge density waves in Ni-doped ZrTe2. <i>Journal of Alloys and Compounds</i>, <b>907</b>, 164477.</span>
@@ -36,6 +36,36 @@
   <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1016/j.jallcom.2022.164477"</span><span class="p">,</span>
   <span class="na">publisher</span> <span class="p">=</span> <span class="s">"Elsevier {BV}"</span><span class="p">,</span>
   <span class="na">url</span> <span class="p">=</span> <span class="s">"https://doi.org/10.1016%2Fj.jallcom.2022.164477"</span>
+<span class="p">}</span></code></pre></figure>
+</li>
+<li><span id="Bhattacharyya2022"><span style="font-variant: small-caps">Bhattacharyya</span>, A., <span style="font-variant: small-caps">Lees</span>, M.R., <span style="font-variant: small-caps">Panda</span>, K., <span style="font-variant: small-caps">Ferreira</span>, P.P., <span style="font-variant: small-caps">Dorini</span>, T.T., <span style="font-variant: small-caps">Gaudry</span>, E., <span style="font-variant: small-caps">Eleno</span>, L.T.F., <span style="font-variant: small-caps">Anand</span>, V.K., <span style="font-variant: small-caps">Sannigrahi</span>, J., <span style="font-variant: small-caps">Biswas</span>, P.K., <span style="font-variant: small-caps">Tripathi</span>, R., &amp; <span style="font-variant: small-caps">Adroja</span>, D.T. (2022) Nodeless time-reversal symmetry breaking in the centrosymmetric superconductor \mathrmSc_5\mathrmCo_4\mathrmSi_10 probed by muon-spin spectroscopy. <i>Phys. Rev. Mater.</i>, <b>6</b>, 064802.</span>
+
+
+<p>DOI: <a href="https://doi.org/10.1103/PhysRevMaterials.6.064802">10.1103/PhysRevMaterials.6.064802</a></p>
+
+
+<!-- <pre class="highlight">@article{Bhattacharyya2022,
+  author = "Bhattacharyya, A. and Lees, M. R. and Panda, K. and Ferreira, P. P. and Dorini, T. T. and Gaudry, Emilie and Eleno, L. T. F. and Anand, V. K. and Sannigrahi, J. and Biswas, P. K. and Tripathi, R. and Adroja, D. T.",
+  title = "{Nodeless time-reversal symmetry breaking in the centrosymmetric superconductor ${\mathrm{Sc}}_{5}{\mathrm{Co}}_{4}{\mathrm{Si}}_{10}$ probed by muon-spin spectroscopy}",
+  journal = "Phys. Rev. Mater.",
+  year = "2022",
+  volume = "6",
+  number = "6",
+  pages = "064802",
+  computeel = "Eleno, Ferreira, Dorini",
+  doi = "10.1103/PhysRevMaterials.6.064802"
+}
+</pre> -->
+<figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Bhattacharyya2022</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Bhattacharyya, A. and Lees, M. R. and Panda, K. and Ferreira, P. P. and Dorini, T. T. and Gaudry, Emilie and Eleno, L. T. F. and Anand, V. K. and Sannigrahi, J. and Biswas, P. K. and Tripathi, R. and Adroja, D. T."</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"{Nodeless time-reversal symmetry breaking in the centrosymmetric superconductor ${\mathrm{Sc}}_{5}{\mathrm{Co}}_{4}{\mathrm{Si}}_{10}$ probed by muon-spin spectroscopy}"</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">"Phys. Rev. Mater."</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2022"</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">"6"</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">"6"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"064802"</span><span class="p">,</span>
+  <span class="na">computeel</span> <span class="p">=</span> <span class="s">"Eleno, Ferreira, Dorini"</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">"10.1103/PhysRevMaterials.6.064802"</span>
 <span class="p">}</span></code></pre></figure>
 </li>
 <li><span id="Silva2021"><span style="font-variant: small-caps">Silva</span>, A.A.A.P., <span style="font-variant: small-caps">Lamoglia</span>, M.S., <span style="font-variant: small-caps">Silva</span>, G., <span style="font-variant: small-caps">Fiorani</span>, J.-M., <span style="font-variant: small-caps">David</span>, N., <span style="font-variant: small-caps">Vilasi</span>, M., <span style="font-variant: small-caps">Coelho</span>, G.C., <span style="font-variant: small-caps">Nunes</span>, C.A., &amp; <span style="font-variant: small-caps">Eleno</span>, L.T.F. (2021) Heat capacity measurements of the Fe2Nb and Fe7Nb6 intermetallic compounds. <i>J. Alloys Compd.</i>, <b>878</b>, 160411.</span>
