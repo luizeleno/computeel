@@ -1,5 +1,15 @@
 paperimages:
 
+  - title: Lu-H-N, Nature Communications
+    url: /assets/news/LuHN.jpg
+    caption:  Nat Commun 14, 5367 (2023)
+    link: "https://doi.org/10.1038/s41467-023-41005-2"
+
+  - title: NiTiTe2 band structure
+    url: /assets/images/carousel/paper-images/NiTiTe2-bands.png
+    caption: SSC 283 (2018) 27
+    link: "http://doi.org/10.1016/j.ssc.2018.08.014"
+
   - title: "Nodeless time-reversal symmetry breaking in Sc5Co4Si10"
     url: /assets/images/carousel/paper-images/sccosi.png
     caption: PRM 6, 064802 (2022)
@@ -39,11 +49,6 @@ paperimages:
     url: /assets/images/carousel/paper-images/NiIn-PhD.png
     caption: Calphad 62 (2018) 42
     link: "http://doi.org/10.1016/j.calphad.2018.05.004"
-
-  - title: NiTiTe2 band structure
-    url: /assets/images/carousel/paper-images/NiTiTe2-bands.png
-    caption: SSC 283 (2018) 27
-    link: "http://doi.org/10.1016/j.ssc.2018.08.014"
 
 people:
   - title: Caju

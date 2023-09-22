@@ -1,4 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://computeel.org/computeel/feed.xml" rel="self" type="application/atom+xml" /><link href="https://computeel.org/computeel/" rel="alternate" type="text/html" /><updated>2022-09-09T14:48:49-03:00</updated><id>https://computeel.org/computeel/feed.xml</id><title type="html">ComputEEL/MatSci</title><subtitle># ComputEEL/MatSci Computational Materials Science Research Group at the Escola de Engenharia de Lorena, Universidade de São Paulo (EEL-USP). Theoretical methods: Density Functional Theory, (DFT); CALPHAD (Calculation of Phases Diagrams). Scope: alloys and intermetallic compounds.</subtitle><entry><title type="html">New group photo</title><link href="https://computeel.org/computeel/news/2022/03/20/NewGroup.html" rel="alternate" type="text/html" title="New group photo" /><published>2022-03-20T00:00:00-03:00</published><updated>2022-03-20T00:00:00-03:00</updated><id>https://computeel.org/computeel/news/2022/03/20/NewGroup</id><content type="html" xml:base="https://computeel.org/computeel/news/2022/03/20/NewGroup.html"><![CDATA[<p><a href="/computeel/assets/images/people/Group-2022.jpeg">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://computeel.org/computeel/feed.xml" rel="self" type="application/atom+xml" /><link href="https://computeel.org/computeel/" rel="alternate" type="text/html" /><updated>2023-09-22T09:08:43-03:00</updated><id>https://computeel.org/computeel/feed.xml</id><title type="html">ComputEEL/MatSci</title><subtitle># ComputEEL/MatSci Computational Materials Science Research Group at the Escola de Engenharia de Lorena, Universidade de São Paulo (EEL-USP). Theoretical methods: Density Functional Theory, (DFT); CALPHAD (Calculation of Phases Diagrams). Scope: alloys and intermetallic compounds.</subtitle><entry><title type="html">Our Nature Communications</title><link href="https://computeel.org/computeel/news/2023/09/22/LuHN-Nature.html" rel="alternate" type="text/html" title="Our Nature Communications" /><published>2023-09-22T00:00:00-03:00</published><updated>2023-09-22T00:00:00-03:00</updated><id>https://computeel.org/computeel/news/2023/09/22/LuHN-Nature</id><content type="html" xml:base="https://computeel.org/computeel/news/2023/09/22/LuHN-Nature.html"><![CDATA[<div class="col-md-5 float-left mr-2">
+<div class="text-center">
+<figure class="figure">
+  <a href="#" data-toggle="modal" data-target="#luhn">
+    <img class="figure-img img-fluid rounded" src="/computeel/assets/news/LuHN.jpg" />
+  </a>
+  <figcaption class="figure-caption">
+    Featured image
+  </figcaption>
+
+<!-- Modal -->
+<div class="modal fade" id="luhn" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header bg-dark text-light ">
+        <h5 class="modal-title" id="exampleModalLongTitle">Featured image</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span class="text-light" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <a href="/computeel/assets/news/LuHN.jpg" alt="Featured image" title="Featured image" target="_blank">
+        <img class="figure-img img-fluid" src="/computeel/assets/news/LuHN.jpg" />
+        </a>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</figure>
+</div>
+
+</div>
+
+<p><em>By Simone Colombo, originally published in portuguese <a href="https://www.eel.usp.br/noticias/eel-na-busca-por-supercondutividade-em-condicoes-ambientes-artigo-foi-publicado-na-nature" target="_blank">here</a>.</em></p>
+
+<p>With important properties for quantum computing, medical applications, power generation, etc., the discovery of this type of superconductor would revolutionize modern technology</p>
+
+<p>Superconductors conduct electrical current without any resistance. With this, it would be possible to eliminate many energy losses in the transmission of electrical energy. Another thing is that superconductors have other important properties for quantum computing, medical applications, energy generation, among many others. But today, superconductors are only known at low temperatures and high pressures, so most applications are still very expensive and often even economically unfeasible. A superconductor at room temperature and pressure would revolutionize all modern technology.</p>
+
+<p>Recently, an experimental group announced the discovery of a superconducting material at room temperature and near-ambient pressure (Dasenbrock-Gammon, N. et al. Evidence of near-ambient superconductivity in an N-doped lutetium hydride. Nature 615, 244–250 2023) in a compound of the Lu-N-H system (lutetium-nitrogen-hydrogen).</p>
+
+<p>After the authors’ publication, however, other experimental groups tried, unsuccessfully, to reproduce the results. Simultaneously, theoretical and computational groups began to investigate the possibility of the existence of superconductivity at room temperature and low pressures in this system. Among them, a group of researchers from the Postgraduate Program in Materials Engineering at the Lorena School of Engineering (EEL) at USP in cooperation with cutting-edge computational groups from Austria (Graz), Italy (Rome) and Great Britain ( Cambridge).</p>
+
+<p>The first author of the research is EEL’s PPGEM doctoral student, Pedro Pires Ferreira, supervised by Professor Luiz Tadeu Fernandes Eleno (EEL). Pedro, a FAPESP scholarship holder, did an Internship and Research Abroad (BEPE), also through FAPESP, and spent a year at the Technical University of Graz (TU-Graz), in Austria, under the co-supervision of Prof. Christoph Heil to develop this work.</p>
+
+<p>The superconducting behavior of more than 200 thousand different structures, spread throughout the Lu-N-H system, was investigated. The calculations were made using the most advanced computational techniques within Density Functional Theory (DFT), evolutionary algorithms, machine learning techniques and effective theories in superconductivity. “Our calculations provide the most comprehensive and complete analysis to date, and were published in the renowned scientific journal Nature Communications”, says Prof. Luiz Eleno. “hundreds of thousands of hours of calculations were necessary to obtain the results carried out on Austrian and British supercomputers. The level of detail and sophistication of the techniques used is incredibly intricate – only an international collaboration like the one undertaken would account for all the details,” he reports.</p>
+
+<p>Of all the compounds analyzed, none presents even remotely the slightest possibility of being a superconducting material close to room temperature. “As a result, the possibility of the existence of a compound like the one experimentally reported was ruled out. Thus, the hunting season for the first superconductor at ambient temperature and pressure, which has been going on for almost a century, is still open”, says the researcher.</p>
+
+<p>On the other hand, the calculation strategies, which were combined and used for the first time, open doors for their use in a more systematic way in other systems of interest – including for the search for potential candidates for the hunt. Thus, Prof. Luiz Eleno and the other researchers hope to have contributed to accelerating the process of discovering the material that will possibly revolutionize technology and society in the 21st century.</p>
+
+<p>The article was also selected by Nature as <a href="https://www.nature.com/collections/rcdhyvxytb" target="_blank">Editor’s highlight</a>, where the most interesting works published in the area of condensed matter physics are highlighted.</p>]]></content><author><name>Luiz T. F. Eleno</name></author><category term="news" /><category term="photos" /><summary type="html"><![CDATA[Featured image Featured image &times; OK]]></summary></entry><entry><title type="html">New group photo</title><link href="https://computeel.org/computeel/news/2022/03/20/NewGroup.html" rel="alternate" type="text/html" title="New group photo" /><published>2022-03-20T00:00:00-03:00</published><updated>2022-03-20T00:00:00-03:00</updated><id>https://computeel.org/computeel/news/2022/03/20/NewGroup</id><content type="html" xml:base="https://computeel.org/computeel/news/2022/03/20/NewGroup.html"><![CDATA[<p><a href="/computeel/assets/images/people/Group-2022.jpeg">
 <img src="/computeel/assets/images/people/Group-2022.jpeg" class="float-right m-3 rounded" width="40%" title="ComputEEL/MatSci team" alt="ComputEEL/MatSci team" />
 </a></p>
 
@@ -415,12 +470,4 @@ margin-right: auto;
 </figure>
 </div>
 
-</div>]]></content><author><name>Luiz T. F. Eleno</name></author><category term="news" /><summary type="html"><![CDATA[The ComputEEL/MatSci logo was designed by a talented Physics Engineering student, Mateus Vallim. He did it as a favor to us, just as he does most of the artwork for university-related projects around here. Thanks for the great job!]]></summary></entry><entry><title type="html">New group photo</title><link href="https://computeel.org/computeel/news/2019/02/28/Group-Photo.html" rel="alternate" type="text/html" title="New group photo" /><published>2019-02-28T00:00:00-03:00</published><updated>2019-02-28T00:00:00-03:00</updated><id>https://computeel.org/computeel/news/2019/02/28/Group-Photo</id><content type="html" xml:base="https://computeel.org/computeel/news/2019/02/28/Group-Photo.html"><![CDATA[<p><a href="/computeel/assets/images/people/grupo-large.jpg">
-<img src="/computeel/assets/images/people/grupo-small.jpg" class="float-right m-3 rounded" width="40%" title="ComputEEL/MatSci team" alt="ComputEEL/MatSci team" />
-</a></p>
-
-<p>Today we managed to gather the whole <strong>ComputEEL/MatSci</strong>  team (not such a difficult task at all!) to a brand new photo just by the entrance of our department. Click on the image to see an enlarged version of us :smile: !</p>
-
-<p>Find more information about each <strong>ComputEEL/MatSci</strong> member and our collaborators at the <a href="/computeel/team">team</a> profile pages.</p>
-
-<p><a href="/computeel/assets/images/people/group-joke.jpeg">:egg:</a></p>]]></content><author><name>Luiz T. F. Eleno</name></author><category term="news" /><category term="photos" /><summary type="html"><![CDATA[]]></summary></entry></feed>
+</div>]]></content><author><name>Luiz T. F. Eleno</name></author><category term="news" /><summary type="html"><![CDATA[The ComputEEL/MatSci logo was designed by a talented Physics Engineering student, Mateus Vallim. He did it as a favor to us, just as he does most of the artwork for university-related projects around here. Thanks for the great job!]]></summary></entry></feed>

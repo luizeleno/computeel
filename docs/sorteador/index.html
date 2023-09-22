@@ -22,7 +22,7 @@
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Processo Seletivo - Edital ATAc/EEL/USP 10/2020 | ComputEEL/MatSci</title>
-<meta name="generator" content="Jekyll v4.2.2" />
+<meta name="generator" content="Jekyll v4.3.2" />
 <meta property="og:title" content="Processo Seletivo - Edital ATAc/EEL/USP 10/2020" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="ComputEEL/MatSci Computational Materials Science Research Group at the Escola de Engenharia de Lorena, Universidade de São Paulo (EEL-USP). Theoretical methods: Density Functional Theory, (DFT); CALPHAD (Calculation of Phases Diagrams). Scope: alloys and intermetallic compounds." />
@@ -138,41 +138,11 @@
 
 <ol>
 
-<li><input id="1" class="form-control form-control-sm" type="text" placeholder="Abacaxi" /></li>
-
-
-<li><input id="2" class="form-control form-control-sm" type="text" placeholder="Banana" /></li>
-
-
-<li><input id="3" class="form-control form-control-sm" type="text" placeholder="Carambola" /></li>
-
-
-<li><input id="4" class="form-control form-control-sm" type="text" placeholder="Damasco" /></li>
-
-
-<li><input id="5" class="form-control form-control-sm" type="text" placeholder="Framboesa" /></li>
-
-
-<li><input id="6" class="form-control form-control-sm" type="text" placeholder="Goiaba" /></li>
-
-
-<li><input id="7" class="form-control form-control-sm" type="text" placeholder="Jabuticaba" /></li>
-
-
-<li><input id="8" class="form-control form-control-sm" type="text" placeholder="Laranja" /></li>
-
-
-<li><input id="9" class="form-control form-control-sm" type="text" placeholder="Melão" /></li>
-
-
-<li><input id="10" class="form-control form-control-sm" type="text" placeholder="Romã" /></li>
-
-
 </ol>
 
 <hr />
 
-<p><button type="button" id="sorteio" class="btn btn-primary" onclick="document.getElementById('pontosorteado').innerHTML = getRndInteger(1, 10)">Sortear ponto</button>
+<p><button type="button" id="sorteio" class="btn btn-primary" onclick="document.getElementById('pontosorteado').innerHTML = getRndInteger(1, 0)">Sortear ponto</button>
 <button type="button" id="reinicio" class="btn btn-primary" onclick="resetstyle()">Reiniciar</button></p>
 
 <h4 id="ponto-sorteado-">Ponto sorteado: <span class="badge badge-success" id="pontosorteado">  </span></h4>
@@ -193,7 +163,7 @@ function getRndInteger(min, max) {
 
 <script>
 function resetstyle() {
-  for(num=1; num<=10; num++) {
+  for(num=1; num<=0; num++) {
     document.getElementById(num).style.fontWeight = null;
     document.getElementById('pontosorteado').innerHTML = '&nbsp;&nbsp;';
     document.getElementById("sorteio").disabled = false;
@@ -217,7 +187,7 @@ subscribe <a href="/computeelfeed.xml" | relative_url }}">via RSS</a></p>
   </div>
 
 <footer class="footer navbar-dark bg-dark">
-    © 2022 Luiz T. F. Eleno.
+    © 2023 Luiz T. F. Eleno.
     Contact: <a href="mailto:computeel@usp.br">computeel@usp.br</a>.
     Powered by <a href="http://jekyllrb.com" id="no-ext-link">Jekyll</a> and <a href="https://pages.github.com/" id="no-ext-link">Github pages</a>.
     <a href="https://github.com/scotte/jekyll-clean" id="no-ext-link">Original theme</a>
