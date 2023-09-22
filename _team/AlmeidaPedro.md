@@ -9,7 +9,7 @@ Lattes: 8940725442338331
 ResearcherID: 
 ORCID: 0000-0002-5617-9914
 GoogleScholar: 
-staff: member
+staff: former
 ---
 
 I hail from Pitangueiras, a small town in the countryside of São Paulo, Brazil. I was born in 2001 and, from a very young age, I was very interested in understanding how the universe around me works. During highschool, I decided to graduate in Engineering, but I had no idea which kind of engineer I would like to be.
